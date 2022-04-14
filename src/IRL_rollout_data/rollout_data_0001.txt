@@ -1,0 +1,21 @@
+Rolling out standard generalized policy trained on 15 demos for user 0001
+Average score = 1072.704439
+Success rate = 0.726000
+Rolling out standard generalized policy trained on 25 demos for user 0001
+Average score = 2341.172372
+Success rate = 0.887000
+Rolling out standard generalized policy trained on 35 demos for user 0001
+Average score = 1382.565875
+Success rate = 0.684000
+Rolling out standard generalized policy trained on 15_10 demos for user 0001
+Average score = 704.177063
+Success rate = 0.542000
+Rolling out standard generalized policy trained on 25_10 demos for user 0001
+Average score = 482.264780
+Success rate = 0.414000
+Rolling out standard generalized policy trained on 25 demos for user 0001
+Average score = 816.703434
+Success rate = 0.562000
+Rolling out standard generalized policy trained on 35 demos for user 0001
+Average score = 100.344096
+Success rate = 0.071000

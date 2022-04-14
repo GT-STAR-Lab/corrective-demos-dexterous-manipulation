@@ -1,0 +1,3017 @@
+========================================
+Collecting expert demonstrations
+========================================
+========================================
+Running BC with expert demonstrations
+========================================
+========================================
+BC training complete !!!
+time taken = 0.919894
+========================================
+Score with behavior cloning = -5.653482
+========================================
+Starting reinforcement learning phase
+========================================
+......................................................................................
+ITERATION : 0 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.634423 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.844615 
+Iter | Stoc Pol | Mean Pol | Best (Stoc) 
+
+[ Sat Nov 13 16:22:53 2021 ]    0 -4.50 -5.40 -100000000.00 
+----------------  -------------
+VF_error_after        0.792632
+VF_error_before       0.989654
+alpha               138.083
+delta                 0.05
+eval_score           -5.40271
+eval_success          0
+kl_dist               0.0254068
+num_samples       40000
+rollout_success       0
+running_score        -4.50334
+stoc_pol_max         71.4304
+stoc_pol_mean        -4.50334
+stoc_pol_min         -9.68035
+stoc_pol_std          7.68802
+success_rate          0
+surr_improvement      0.0434308
+time_VF               0.832471
+time_npg              0.640552
+time_sampling         4.63451
+time_vpg              0.0337224
+----------------  -------------
+......................................................................................
+ITERATION : 1 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.641690 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.739832 
+[ Sat Nov 13 16:23:01 2021 ]    1 -4.47 -5.38 -4.50 
+----------------  -------------
+VF_error_after        0.704914
+VF_error_before       0.809163
+alpha               127.677
+delta                 0.05
+eval_score           -5.37523
+eval_success          0
+kl_dist               0.0255363
+num_samples       40000
+rollout_success       0
+running_score        -4.49965
+stoc_pol_max         68.1319
+stoc_pol_mean        -4.46643
+stoc_pol_min         -9.52983
+stoc_pol_std          8.32913
+success_rate          0
+surr_improvement      0.0445372
+time_VF               1.83695
+time_npg              0.60363
+time_sampling         4.64174
+time_vpg              0.0347764
+----------------  -------------
+......................................................................................
+ITERATION : 2 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.541850 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.745301 
+[ Sat Nov 13 16:23:10 2021 ]    2 -4.73 -5.12 -4.47 
+----------------  -------------
+VF_error_after        0.59505
+VF_error_before       0.725588
+alpha               129.077
+delta                 0.05
+eval_score           -5.11739
+eval_success          0
+kl_dist               0.0254589
+num_samples       40000
+rollout_success       0
+running_score        -4.523
+stoc_pol_max         70.4104
+stoc_pol_mean        -4.73308
+stoc_pol_min        -10.2614
+stoc_pol_std          6.84642
+success_rate          0
+surr_improvement      0.0442399
+time_VF               2.10558
+time_npg              0.632182
+time_sampling         4.54188
+time_vpg              0.0312338
+----------------  -------------
+......................................................................................
+ITERATION : 3 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.558594 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.760057 
+[ Sat Nov 13 16:23:18 2021 ]    3 -3.41 -4.64 -4.47 
+----------------  -------------
+VF_error_after        0.571814
+VF_error_before       0.753788
+alpha               133.629
+delta                 0.05
+eval_score           -4.63999
+eval_success          0
+kl_dist               0.0249057
+num_samples       40000
+rollout_success       0
+running_score        -4.4119
+stoc_pol_max         95.0755
+stoc_pol_mean        -3.412
+stoc_pol_min         -9.3061
+stoc_pol_std         12.1715
+success_rate          0
+surr_improvement      0.0482808
+time_VF               1.91266
+time_npg              0.607041
+time_sampling         4.55863
+time_vpg              0.032619
+----------------  -------------
+......................................................................................
+ITERATION : 4 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.556628 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.757943 
+[ Sat Nov 13 16:23:26 2021 ]    4 -2.54 -4.56 -3.41 
+----------------  -------------
+VF_error_after        0.772995
+VF_error_before       0.877785
+alpha               126.093
+delta                 0.05
+eval_score           -4.55809
+eval_success          0
+kl_dist               0.0249914
+num_samples       40000
+rollout_success       0
+running_score        -4.22461
+stoc_pol_max        347.053
+stoc_pol_mean        -2.53899
+stoc_pol_min         -9.27281
+stoc_pol_std         26.1685
+success_rate          0
+surr_improvement      0.0596355
+time_VF               1.91086
+time_npg              0.607999
+time_sampling         4.55666
+time_vpg              0.0341992
+----------------  -------------
+......................................................................................
+ITERATION : 5 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.446795 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.765397 
+[ Sat Nov 13 16:23:34 2021 ]    5 -2.32 -4.51 -2.54 
+----------------  -------------
+VF_error_after        0.802925
+VF_error_before       0.922466
+alpha               132.231
+delta                 0.05
+eval_score           -4.5136
+eval_success          0
+kl_dist               0.0252124
+num_samples       40000
+rollout_success       0
+running_score        -4.03449
+stoc_pol_max        293.289
+stoc_pol_mean        -2.32343
+stoc_pol_min         -9.58294
+stoc_pol_std         22.9597
+success_rate          0
+surr_improvement      0.0517898
+time_VF               2.12517
+time_npg              0.610674
+time_sampling         4.44687
+time_vpg              0.0345752
+----------------  -------------
+......................................................................................
+ITERATION : 6 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.566343 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.741545 
+[ Sat Nov 13 16:23:42 2021 ]    6 -2.97 -3.84 -2.32 
+----------------  -------------
+VF_error_after        0.65975
+VF_error_before       0.887735
+alpha               126.687
+delta                 0.05
+eval_score           -3.8393
+eval_success          0
+kl_dist               0.0255692
+num_samples       40000
+rollout_success       0
+running_score        -3.92781
+stoc_pol_max        160.613
+stoc_pol_mean        -2.96771
+stoc_pol_min         -9.06473
+stoc_pol_std         14.2453
+success_rate          0
+surr_improvement      0.0482253
+time_VF               1.88383
+time_npg              0.612693
+time_sampling         4.56638
+time_vpg              0.0326669
+----------------  -------------
+......................................................................................
+ITERATION : 7 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.555737 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.742746 
+[ Sat Nov 13 16:23:51 2021 ]    7 -3.44 -2.01 -2.32 
+----------------  -------------
+VF_error_after        0.620039
+VF_error_before       0.725623
+alpha               131.27
+delta                 0.05
+eval_score           -2.01492
+eval_success          0
+kl_dist               0.0249541
+num_samples       40000
+rollout_success       0
+running_score        -3.87888
+stoc_pol_max         60.7599
+stoc_pol_mean        -3.43847
+stoc_pol_min         -9.19367
+stoc_pol_std          9.47407
+success_rate          0
+surr_improvement      0.0374223
+time_VF               1.87953
+time_npg              0.611439
+time_sampling         4.55577
+time_vpg              0.0319657
+----------------  -------------
+......................................................................................
+ITERATION : 8 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.654325 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.855987 
+[ Sat Nov 13 16:23:59 2021 ]    8 -2.36 -4.61 -2.32 
+----------------  -------------
+VF_error_after        0.458751
+VF_error_before       0.7056
+alpha               122.877
+delta                 0.05
+eval_score           -4.60938
+eval_success          0
+kl_dist               0.0250867
+num_samples       40000
+rollout_success       0
+running_score        -3.72717
+stoc_pol_max        162.969
+stoc_pol_mean        -2.36185
+stoc_pol_min        -11.8611
+stoc_pol_std         15.2926
+success_rate          0
+surr_improvement      0.0481111
+time_VF               1.88676
+time_npg              0.615264
+time_sampling         4.65436
+time_vpg              0.0326312
+----------------  -------------
+......................................................................................
+ITERATION : 9 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.554642 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.756961 
+[ Sat Nov 13 16:24:07 2021 ]    9 -1.13 19.22 -2.32 
+----------------  -------------
+VF_error_after        0.621518
+VF_error_before       0.809213
+alpha               128.828
+delta                 0.05
+eval_score           19.2203
+eval_success          4
+kl_dist               0.0250606
+num_samples       40000
+rollout_success       0
+running_score        -3.46751
+stoc_pol_max        265.649
+stoc_pol_mean        -1.13054
+stoc_pol_min         -8.95443
+stoc_pol_std         26.9988
+success_rate          0
+surr_improvement      0.0446034
+time_VF               2.09663
+time_npg              0.618096
+time_sampling         4.55469
+time_vpg              0.0325372
+----------------  -------------
+......................................................................................
+ITERATION : 10 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.543352 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.766688 
+[ Sat Nov 13 16:24:15 2021 ]   10 -1.87 -2.12 -1.13 
+----------------  -------------
+VF_error_after        0.66591
+VF_error_before       0.888633
+alpha               130.727
+delta                 0.05
+eval_score           -2.11795
+eval_success          0
+kl_dist               0.0247701
+num_samples       40000
+rollout_success       0
+running_score        -3.30801
+stoc_pol_max        175.627
+stoc_pol_mean        -1.87252
+stoc_pol_min         -9.06111
+stoc_pol_std         17.0025
+success_rate          0
+surr_improvement      0.0375643
+time_VF               2.05714
+time_npg              0.622179
+time_sampling         4.54339
+time_vpg              0.03267
+----------------  -------------
+......................................................................................
+ITERATION : 11 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.657081 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.746231 
+[ Sat Nov 13 16:24:24 2021 ]   11 -2.94  2.57 -1.13 
+----------------  -------------
+VF_error_after        0.58452
+VF_error_before       0.893291
+alpha               132.097
+delta                 0.05
+eval_score            2.57476
+eval_success          0
+kl_dist               0.0251051
+num_samples       40000
+rollout_success       0
+running_score        -3.27162
+stoc_pol_max         77.8802
+stoc_pol_mean        -2.94409
+stoc_pol_min        -12.93
+stoc_pol_std         11.2553
+success_rate          0
+surr_improvement      0.0378476
+time_VF               2.05177
+time_npg              0.633699
+time_sampling         4.65715
+time_vpg              0.0340168
+----------------  -------------
+......................................................................................
+ITERATION : 12 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.546749 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.748888 
+[ Sat Nov 13 16:24:32 2021 ]   12  1.24 -4.07 -1.13 
+----------------  -------------
+VF_error_after        0.713555
+VF_error_before       0.896694
+alpha               137.806
+delta                 0.05
+eval_score           -4.07416
+eval_success          0
+kl_dist               0.0251842
+num_samples       40000
+rollout_success       0.5
+running_score        -2.82027
+stoc_pol_max        457.493
+stoc_pol_mean         1.24185
+stoc_pol_min        -10.9978
+stoc_pol_std         38.8205
+success_rate          0.5
+surr_improvement      0.045881
+time_VF               2.07968
+time_npg              0.655639
+time_sampling         4.54679
+time_vpg              0.0323436
+----------------  -------------
+......................................................................................
+ITERATION : 13 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.658161 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.755164 
+[ Sat Nov 13 16:24:41 2021 ]   13 -2.02  2.61  1.24 
+----------------  -------------
+VF_error_after        0.598728
+VF_error_before       0.72632
+alpha               127.968
+delta                 0.05
+eval_score            2.61042
+eval_success          0
+kl_dist               0.0260299
+num_samples       40000
+rollout_success       0
+running_score        -2.73986
+stoc_pol_max        166.683
+stoc_pol_mean        -2.01619
+stoc_pol_min        -11.0828
+stoc_pol_std         16.9239
+success_rate          0
+surr_improvement      0.0456017
+time_VF               2.03715
+time_npg              0.637823
+time_sampling         4.6582
+time_vpg              0.0349851
+----------------  -------------
+......................................................................................
+ITERATION : 14 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.553033 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.756023 
+[ Sat Nov 13 16:24:49 2021 ]   14 -2.71 -4.66  1.24 
+----------------  -------------
+VF_error_after        0.473236
+VF_error_before       0.766196
+alpha               147.392
+delta                 0.05
+eval_score           -4.66369
+eval_success          0
+kl_dist               0.025331
+num_samples       40000
+rollout_success       0
+running_score        -2.73714
+stoc_pol_max        105.093
+stoc_pol_mean        -2.71265
+stoc_pol_min        -10.8326
+stoc_pol_std         11.9927
+success_rate          0
+surr_improvement      0.0360537
+time_VF               1.84314
+time_npg              0.628051
+time_sampling         4.55307
+time_vpg              0.0325329
+----------------  -------------
+......................................................................................
+ITERATION : 15 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.557047 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.760621 
+[ Sat Nov 13 16:24:57 2021 ]   15 -1.64 -1.80  1.24 
+----------------  -------------
+VF_error_after        0.550864
+VF_error_before       0.860068
+alpha               119.667
+delta                 0.05
+eval_score           -1.79874
+eval_success          0
+kl_dist               0.0264741
+num_samples       40000
+rollout_success       0
+running_score        -2.62745
+stoc_pol_max        227.207
+stoc_pol_mean        -1.64026
+stoc_pol_min         -8.65189
+stoc_pol_std         19.3197
+success_rate          0
+surr_improvement      0.0658323
+time_VF               2.06725
+time_npg              0.642789
+time_sampling         4.55708
+time_vpg              0.0328436
+----------------  -------------
+......................................................................................
+ITERATION : 16 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.757311 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.768012 
+[ Sat Nov 13 16:25:05 2021 ]   16  1.07 -1.71  1.24 
+----------------  -------------
+VF_error_after        0.773109
+VF_error_before       0.914879
+alpha               134.274
+delta                 0.05
+eval_score           -1.70909
+eval_success          0
+kl_dist               0.0254446
+num_samples       40000
+rollout_success       0.5
+running_score        -2.25749
+stoc_pol_max        364.101
+stoc_pol_mean         1.07215
+stoc_pol_min         -9.07482
+stoc_pol_std         30.0844
+success_rate          0.5
+surr_improvement      0.0445448
+time_VF               2.07462
+time_npg              0.628863
+time_sampling         4.75736
+time_vpg              0.0333557
+----------------  -------------
+......................................................................................
+ITERATION : 17 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.558794 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.755126 
+[ Sat Nov 13 16:25:14 2021 ]   17  1.80  2.93  1.24 
+----------------  -------------
+VF_error_after        0.661106
+VF_error_before       0.818255
+alpha               124.698
+delta                 0.05
+eval_score            2.93178
+eval_success          0
+kl_dist               0.0250922
+num_samples       40000
+rollout_success       0
+running_score        -1.85207
+stoc_pol_max        459.505
+stoc_pol_mean         1.79676
+stoc_pol_min         -9.13844
+stoc_pol_std         43.6689
+success_rate          0
+surr_improvement      0.0548844
+time_VF               2.04906
+time_npg              0.626086
+time_sampling         4.55883
+time_vpg              0.0327251
+----------------  -------------
+......................................................................................
+ITERATION : 18 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.554090 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.754617 
+[ Sat Nov 13 16:25:22 2021 ]   18  0.76 -2.40  1.80 
+----------------  -------------
+VF_error_after        0.547469
+VF_error_before       0.863413
+alpha               134.145
+delta                 0.05
+eval_score           -2.39576
+eval_success          0
+kl_dist               0.0249269
+num_samples       40000
+rollout_success       0
+running_score        -1.59121
+stoc_pol_max        345.488
+stoc_pol_mean         0.756551
+stoc_pol_min        -10.9505
+stoc_pol_std         30.4969
+success_rate          0
+surr_improvement      0.0349073
+time_VF               2.04922
+time_npg              0.616954
+time_sampling         4.55412
+time_vpg              0.0325844
+----------------  -------------
+......................................................................................
+ITERATION : 19 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.662321 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.748633 
+[ Sat Nov 13 16:25:30 2021 ]   19  2.63 -0.80  1.80 
+----------------  -------------
+VF_error_after        0.598726
+VF_error_before       0.771851
+alpha               140.613
+delta                 0.05
+eval_score           -0.797524
+eval_success          0
+kl_dist               0.0256353
+num_samples       40000
+rollout_success       0.5
+running_score        -1.16877
+stoc_pol_max        851
+stoc_pol_mean         2.63319
+stoc_pol_min        -10.0219
+stoc_pol_std         61.5996
+success_rate          0.5
+surr_improvement      0.0438145
+time_VF               2.04041
+time_npg              0.622056
+time_sampling         4.66235
+time_vpg              0.0330236
+----------------  -------------
+......................................................................................
+ITERATION : 20 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.657902 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.756859 
+[ Sat Nov 13 16:25:39 2021 ]   20  4.73 15.33  2.63 
+----------------  -------------
+VF_error_after        0.690121
+VF_error_before       0.86357
+alpha               140.574
+delta                 0.05
+eval_score           15.3278
+eval_success          0
+kl_dist               0.0242807
+num_samples       40000
+rollout_success       0.5
+running_score        -0.579028
+stoc_pol_max        900.846
+stoc_pol_mean         4.72862
+stoc_pol_min        -10.8101
+stoc_pol_std         67.3958
+success_rate          0.5
+surr_improvement      0.036266
+time_VF               2.02952
+time_npg              0.620831
+time_sampling         4.65794
+time_vpg              0.0324664
+----------------  -------------
+......................................................................................
+ITERATION : 21 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.546529 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.758981 
+[ Sat Nov 13 16:25:47 2021 ]   21  2.07  2.66  4.73 
+----------------  -------------
+VF_error_after        0.684156
+VF_error_before       0.86998
+alpha               137.736
+delta                 0.05
+eval_score            2.65656
+eval_success          0
+kl_dist               0.0245003
+num_samples       40000
+rollout_success       0.5
+running_score        -0.313667
+stoc_pol_max        482.92
+stoc_pol_mean         2.07458
+stoc_pol_min        -11.0249
+stoc_pol_std         38.4594
+success_rate          0.5
+surr_improvement      0.0396661
+time_VF               2.05221
+time_npg              0.620869
+time_sampling         4.54656
+time_vpg              0.0330296
+----------------  -------------
+......................................................................................
+ITERATION : 22 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.753629 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.760013 
+[ Sat Nov 13 16:25:55 2021 ]   22  7.86 -1.31  4.73 
+----------------  -------------
+VF_error_after        0.62211
+VF_error_before       0.81523
+alpha               160.665
+delta                 0.05
+eval_score           -1.30873
+eval_success          0
+kl_dist               0.0251131
+num_samples       40000
+rollout_success       1.5
+running_score         0.50335
+stoc_pol_max        664.492
+stoc_pol_mean         7.8565
+stoc_pol_min        -14.422
+stoc_pol_std         65.6756
+success_rate          1.5
+surr_improvement      0.0329206
+time_VF               1.99871
+time_npg              0.615411
+time_sampling         4.75366
+time_vpg              0.0369978
+----------------  -------------
+......................................................................................
+ITERATION : 23 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.661438 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.775650 
+[ Sat Nov 13 16:26:04 2021 ]   23  1.21 -1.92  7.86 
+----------------  -------------
+VF_error_after        0.469301
+VF_error_before       1.11886
+alpha               139.825
+delta                 0.05
+eval_score           -1.91537
+eval_success          0
+kl_dist               0.0252388
+num_samples       40000
+rollout_success       0
+running_score         0.574349
+stoc_pol_max        322.559
+stoc_pol_mean         1.21334
+stoc_pol_min        -10.472
+stoc_pol_std         28.2221
+success_rate          0
+surr_improvement      0.0356949
+time_VF               2.00117
+time_npg              0.634474
+time_sampling         4.66147
+time_vpg              0.033246
+----------------  -------------
+......................................................................................
+ITERATION : 24 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.750392 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.769789 
+[ Sat Nov 13 16:26:12 2021 ]   24 -0.74 -4.20  7.86 
+----------------  -------------
+VF_error_after        0.633166
+VF_error_before       1.02084
+alpha               134.364
+delta                 0.05
+eval_score           -4.19684
+eval_success          0
+kl_dist               0.024499
+num_samples       40000
+rollout_success       0
+running_score         0.442762
+stoc_pol_max        112.754
+stoc_pol_mean        -0.741516
+stoc_pol_min         -9.06825
+stoc_pol_std         15.4045
+success_rate          0
+surr_improvement      0.0376544
+time_VF               2.02139
+time_npg              0.62335
+time_sampling         4.75042
+time_vpg              0.0347643
+----------------  -------------
+......................................................................................
+ITERATION : 25 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.661856 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.870014 
+[ Sat Nov 13 16:26:21 2021 ]   25  0.70  1.15  7.86 
+----------------  -------------
+VF_error_after        0.68858
+VF_error_before       0.827055
+alpha               143.412
+delta                 0.05
+eval_score            1.14826
+eval_success          0
+kl_dist               0.0250428
+num_samples       40000
+rollout_success       0
+running_score         0.468052
+stoc_pol_max        298.068
+stoc_pol_mean         0.695655
+stoc_pol_min        -11.2169
+stoc_pol_std         26.9963
+success_rate          0
+surr_improvement      0.0456411
+time_VF               2.00081
+time_npg              0.604117
+time_sampling         4.66189
+time_vpg              0.0325549
+----------------  -------------
+......................................................................................
+ITERATION : 26 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.660655 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.769927 
+[ Sat Nov 13 16:26:29 2021 ]   26  4.68 -4.93  7.86 
+----------------  -------------
+VF_error_after        0.591126
+VF_error_before       0.707984
+alpha               139.237
+delta                 0.05
+eval_score           -4.93141
+eval_success          0
+kl_dist               0.0249602
+num_samples       40000
+rollout_success       1
+running_score         0.889083
+stoc_pol_max        446.603
+stoc_pol_mean         4.67837
+stoc_pol_min        -12.2593
+stoc_pol_std         50.7674
+success_rate          1
+surr_improvement      0.0394009
+time_VF               1.99175
+time_npg              0.622212
+time_sampling         4.66069
+time_vpg              0.0334804
+----------------  -------------
+......................................................................................
+ITERATION : 27 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.662574 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.749971 
+[ Sat Nov 13 16:26:37 2021 ]   27  4.38 -4.24  7.86 
+----------------  -------------
+VF_error_after        0.320709
+VF_error_before       0.54167
+alpha               121.157
+delta                 0.05
+eval_score           -4.24036
+eval_success          0
+kl_dist               0.0240878
+num_samples       40000
+rollout_success       0.5
+running_score         1.23771
+stoc_pol_max        479.048
+stoc_pol_mean         4.37536
+stoc_pol_min        -11.9554
+stoc_pol_std         52.4707
+success_rate          0.5
+surr_improvement      0.0694152
+time_VF               1.78988
+time_npg              0.598147
+time_sampling         4.66262
+time_vpg              0.0319643
+----------------  -------------
+......................................................................................
+ITERATION : 28 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.561887 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.753745 
+[ Sat Nov 13 16:26:45 2021 ]   28  3.17  2.37  7.86 
+----------------  -------------
+VF_error_after        0.518293
+VF_error_before       0.794311
+alpha               135.974
+delta                 0.05
+eval_score            2.37415
+eval_success          0
+kl_dist               0.0248055
+num_samples       40000
+rollout_success       0.5
+running_score         1.43059
+stoc_pol_max        939.701
+stoc_pol_mean         3.16646
+stoc_pol_min        -12.2118
+stoc_pol_std         69.0826
+success_rate          0.5
+surr_improvement      0.0377285
+time_VF               1.99936
+time_npg              0.603426
+time_sampling         4.56192
+time_vpg              0.0316873
+----------------  -------------
+......................................................................................
+ITERATION : 29 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.644891 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.753934 
+[ Sat Nov 13 16:26:54 2021 ]   29  5.09  0.12  7.86 
+----------------  -------------
+VF_error_after        0.603066
+VF_error_before       0.99647
+alpha               129.735
+delta                 0.05
+eval_score            0.117891
+eval_success          0
+kl_dist               0.0251618
+num_samples       40000
+rollout_success       0.5
+running_score         1.79626
+stoc_pol_max        398.014
+stoc_pol_mean         5.08735
+stoc_pol_min        -12.5723
+stoc_pol_std         39.9846
+success_rate          0.5
+surr_improvement      0.0370176
+time_VF               1.98525
+time_npg              0.604994
+time_sampling         4.64494
+time_vpg              0.0331349
+----------------  -------------
+......................................................................................
+ITERATION : 30 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.544711 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.765233 
+[ Sat Nov 13 16:27:02 2021 ]   30  3.35  0.23  7.86 
+----------------  -------------
+VF_error_after        0.677091
+VF_error_before       0.925977
+alpha               143.145
+delta                 0.05
+eval_score            0.230605
+eval_success          0
+kl_dist               0.0249452
+num_samples       40000
+rollout_success       0
+running_score         1.95206
+stoc_pol_max        279.188
+stoc_pol_mean         3.3542
+stoc_pol_min        -10.4656
+stoc_pol_std         33.3988
+success_rate          0
+surr_improvement      0.0372391
+time_VF               1.97216
+time_npg              0.6239
+time_sampling         4.54475
+time_vpg              0.0343013
+----------------  -------------
+......................................................................................
+ITERATION : 31 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.544333 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.753908 
+[ Sat Nov 13 16:27:10 2021 ]   31  0.40 -2.24  7.86 
+----------------  -------------
+VF_error_after        0.541722
+VF_error_before       1.41437
+alpha               128.904
+delta                 0.05
+eval_score           -2.24039
+eval_success          0
+kl_dist               0.0250079
+num_samples       40000
+rollout_success       0
+running_score         1.79731
+stoc_pol_max        115.708
+stoc_pol_mean         0.404575
+stoc_pol_min        -12.1675
+stoc_pol_std         19.7388
+success_rate          0
+surr_improvement      0.0355732
+time_VF               1.94476
+time_npg              0.613519
+time_sampling         4.54437
+time_vpg              0.0311735
+----------------  -------------
+......................................................................................
+ITERATION : 32 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.755637 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.751317 
+[ Sat Nov 13 16:27:18 2021 ]   32  3.54 -3.68  7.86 
+----------------  -------------
+VF_error_after        0.495805
+VF_error_before       0.732914
+alpha               150.374
+delta                 0.05
+eval_score           -3.68392
+eval_success          0
+kl_dist               0.0256726
+num_samples       40000
+rollout_success       0.5
+running_score         1.97132
+stoc_pol_max        331.431
+stoc_pol_mean         3.53742
+stoc_pol_min        -13.3036
+stoc_pol_std         34.9473
+success_rate          0.5
+surr_improvement      0.0369172
+time_VF               1.98549
+time_npg              0.627105
+time_sampling         4.75567
+time_vpg              0.0343547
+----------------  -------------
+......................................................................................
+ITERATION : 33 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.657611 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.866666 
+[ Sat Nov 13 16:27:27 2021 ]   33  7.30 -1.15  7.86 
+----------------  -------------
+VF_error_after        0.545799
+VF_error_before       0.803296
+alpha               143.931
+delta                 0.05
+eval_score           -1.14719
+eval_success          0
+kl_dist               0.0248467
+num_samples       40000
+rollout_success       0.5
+running_score         2.504
+stoc_pol_max        485.701
+stoc_pol_mean         7.29815
+stoc_pol_min         -8.06653
+stoc_pol_std         54.9721
+success_rate          0.5
+surr_improvement      0.0387952
+time_VF               1.95878
+time_npg              0.605405
+time_sampling         4.65765
+time_vpg              0.0328119
+----------------  -------------
+......................................................................................
+ITERATION : 34 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.657681 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.846692 
+[ Sat Nov 13 16:27:35 2021 ]   34 10.11 -1.29  7.86 
+----------------  -------------
+VF_error_after        0.582336
+VF_error_before       0.831265
+alpha               145.046
+delta                 0.05
+eval_score           -1.29026
+eval_success          0
+kl_dist               0.0249093
+num_samples       40000
+rollout_success       1
+running_score         3.26482
+stoc_pol_max        452.537
+stoc_pol_mean        10.1121
+stoc_pol_min        -11.9156
+stoc_pol_std         57.5633
+success_rate          1
+surr_improvement      0.0367896
+time_VF               1.74457
+time_npg              0.60008
+time_sampling         4.65772
+time_vpg              0.0327575
+----------------  -------------
+......................................................................................
+ITERATION : 35 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.759939 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.860316 
+[ Sat Nov 13 16:27:43 2021 ]   35 15.37 -1.08 10.11 
+----------------  -------------
+VF_error_after        0.586404
+VF_error_before       0.816533
+alpha               165.251
+delta                 0.05
+eval_score           -1.08335
+eval_success          0
+kl_dist               0.0245578
+num_samples       40000
+rollout_success       1
+running_score         4.4752
+stoc_pol_max        889.312
+stoc_pol_mean        15.3686
+stoc_pol_min        -12.8854
+stoc_pol_std         89.7648
+success_rate          1
+surr_improvement      0.0323135
+time_VF               1.73126
+time_npg              0.598715
+time_sampling         4.75998
+time_vpg              0.0317252
+----------------  -------------
+......................................................................................
+ITERATION : 36 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.663315 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.872484 
+[ Sat Nov 13 16:27:51 2021 ]   36 15.65  7.16 15.37 
+----------------  -------------
+VF_error_after        0.573615
+VF_error_before       0.777211
+alpha               159.799
+delta                 0.05
+eval_score            7.1607
+eval_success          0
+kl_dist               0.0249777
+num_samples       40000
+rollout_success       1.5
+running_score         5.59261
+stoc_pol_max       1262.07
+stoc_pol_mean        15.6494
+stoc_pol_min        -13.9647
+stoc_pol_std        115.041
+success_rate          1.5
+surr_improvement      0.0337042
+time_VF               1.94871
+time_npg              0.602693
+time_sampling         4.66335
+time_vpg              0.0330193
+----------------  -------------
+......................................................................................
+ITERATION : 37 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.763186 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.846462 
+[ Sat Nov 13 16:28:00 2021 ]   37 16.35  6.61 15.65 
+----------------  -------------
+VF_error_after        0.496372
+VF_error_before       0.875664
+alpha               134.287
+delta                 0.05
+eval_score            6.60804
+eval_success          0
+kl_dist               0.0248827
+num_samples       40000
+rollout_success       1
+running_score         6.66797
+stoc_pol_max        534.2
+stoc_pol_mean        16.3462
+stoc_pol_min        -12.5111
+stoc_pol_std         73.2102
+success_rate          1
+surr_improvement      0.0366406
+time_VF               1.76091
+time_npg              0.610333
+time_sampling         4.76322
+time_vpg              0.0333121
+----------------  -------------
+......................................................................................
+ITERATION : 38 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.655938 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.856837 
+[ Sat Nov 13 16:28:08 2021 ]   38  7.89 -2.22 16.35 
+----------------  -------------
+VF_error_after        0.6954
+VF_error_before       0.945292
+alpha               141.3
+delta                 0.05
+eval_score           -2.21616
+eval_success          0
+kl_dist               0.0250026
+num_samples       40000
+rollout_success       0.5
+running_score         6.79003
+stoc_pol_max        972.804
+stoc_pol_mean         7.8886
+stoc_pol_min        -15.839
+stoc_pol_std         72.1763
+success_rate          0.5
+surr_improvement      0.0383868
+time_VF               1.67136
+time_npg              0.599179
+time_sampling         4.65598
+time_vpg              0.035177
+----------------  -------------
+......................................................................................
+ITERATION : 39 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.658161 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.854233 
+[ Sat Nov 13 16:28:16 2021 ]   39  9.90 -4.81 16.35 
+----------------  -------------
+VF_error_after        0.698324
+VF_error_before       0.842246
+alpha               144.824
+delta                 0.05
+eval_score           -4.80573
+eval_success          0
+kl_dist               0.0250631
+num_samples       40000
+rollout_success       0.5
+running_score         7.10096
+stoc_pol_max        612.028
+stoc_pol_mean         9.89926
+stoc_pol_min        -12.1801
+stoc_pol_std         55.1627
+success_rate          0.5
+surr_improvement      0.0358418
+time_VF               1.70771
+time_npg              0.594614
+time_sampling         4.6582
+time_vpg              0.0319476
+----------------  -------------
+......................................................................................
+ITERATION : 40 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.558876 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.740404 
+[ Sat Nov 13 16:28:24 2021 ]   40  4.73 -4.90 16.35 
+----------------  -------------
+VF_error_after        0.59158
+VF_error_before       0.896422
+alpha               135.5
+delta                 0.05
+eval_score           -4.89956
+eval_success          0
+kl_dist               0.0247056
+num_samples       40000
+rollout_success       0
+running_score         6.86366
+stoc_pol_max        403.281
+stoc_pol_mean         4.72795
+stoc_pol_min        -14.1991
+stoc_pol_std         36.1091
+success_rate          0
+surr_improvement      0.0350555
+time_VF               1.75537
+time_npg              0.604428
+time_sampling         4.55892
+time_vpg              0.0331929
+----------------  -------------
+......................................................................................
+ITERATION : 41 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.555853 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.750237 
+[ Sat Nov 13 16:28:32 2021 ]   41  3.89 -1.62 16.35 
+----------------  -------------
+VF_error_after        0.538689
+VF_error_before       0.727961
+alpha               143.837
+delta                 0.05
+eval_score           -1.61508
+eval_success          0
+kl_dist               0.0250451
+num_samples       40000
+rollout_success       0.5
+running_score         6.5658
+stoc_pol_max        615.154
+stoc_pol_mean         3.88507
+stoc_pol_min        -14.0153
+stoc_pol_std         48.7611
+success_rate          0.5
+surr_improvement      0.0381366
+time_VF               1.94868
+time_npg              0.624505
+time_sampling         4.55589
+time_vpg              0.0345635
+----------------  -------------
+......................................................................................
+ITERATION : 42 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.544541 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.876228 
+[ Sat Nov 13 16:28:40 2021 ]   42 10.27 -0.97 16.35 
+----------------  -------------
+VF_error_after        0.659054
+VF_error_before       0.908593
+alpha               154.178
+delta                 0.05
+eval_score           -0.967108
+eval_success          0
+kl_dist               0.0249819
+num_samples       40000
+rollout_success       1
+running_score         6.93595
+stoc_pol_max        512.271
+stoc_pol_mean        10.2673
+stoc_pol_min        -12.6537
+stoc_pol_std         59.524
+success_rate          1
+surr_improvement      0.0333237
+time_VF               1.92252
+time_npg              0.635375
+time_sampling         4.54457
+time_vpg              0.0320873
+----------------  -------------
+......................................................................................
+ITERATION : 43 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.657745 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.751034 
+[ Sat Nov 13 16:28:48 2021 ]   43  8.96 -5.32 16.35 
+----------------  -------------
+VF_error_after        0.638523
+VF_error_before       0.904983
+alpha               145.329
+delta                 0.05
+eval_score           -5.31557
+eval_success          0
+kl_dist               0.0246429
+num_samples       40000
+rollout_success       0.5
+running_score         7.13795
+stoc_pol_max        767.188
+stoc_pol_mean         8.956
+stoc_pol_min        -13.46
+stoc_pol_std         62.1392
+success_rate          0.5
+surr_improvement      0.0380014
+time_VF               1.95402
+time_npg              0.643007
+time_sampling         4.65778
+time_vpg              0.0336423
+----------------  -------------
+......................................................................................
+ITERATION : 44 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.649327 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.754114 
+[ Sat Nov 13 16:28:57 2021 ]   44 20.95 -5.01 16.35 
+----------------  -------------
+VF_error_after        0.537576
+VF_error_before       0.793659
+alpha               166.114
+delta                 0.05
+eval_score           -5.01032
+eval_success          0
+kl_dist               0.025493
+num_samples       40000
+rollout_success       1
+running_score         8.51939
+stoc_pol_max       1425.21
+stoc_pol_mean        20.9523
+stoc_pol_min        -13.18
+stoc_pol_std        120.526
+success_rate          1
+surr_improvement      0.0350553
+time_VF               1.94334
+time_npg              0.643535
+time_sampling         4.64936
+time_vpg              0.0333424
+----------------  -------------
+......................................................................................
+ITERATION : 45 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.759045 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.765798 
+[ Sat Nov 13 16:29:05 2021 ]   45 11.01 -2.98 20.95 
+----------------  -------------
+VF_error_after        0.625633
+VF_error_before       2.22102
+alpha               143.854
+delta                 0.05
+eval_score           -2.98328
+eval_success          0
+kl_dist               0.0252241
+num_samples       40000
+rollout_success       0.5
+running_score         8.76892
+stoc_pol_max        337.569
+stoc_pol_mean        11.0147
+stoc_pol_min        -12.8067
+stoc_pol_std         42.5736
+success_rate          0.5
+surr_improvement      0.0348618
+time_VF               1.96227
+time_npg              0.643896
+time_sampling         4.75908
+time_vpg              0.0341208
+----------------  -------------
+......................................................................................
+ITERATION : 46 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.751701 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.759004 
+[ Sat Nov 13 16:29:14 2021 ]   46 20.91 -5.55 20.95 
+----------------  -------------
+VF_error_after        0.422819
+VF_error_before       0.79682
+alpha               170.631
+delta                 0.05
+eval_score           -5.55197
+eval_success          0
+kl_dist               0.0253017
+num_samples       40000
+rollout_success       0.5
+running_score         9.98273
+stoc_pol_max       1585.31
+stoc_pol_mean        20.907
+stoc_pol_min        -16.3483
+stoc_pol_std        123.683
+success_rate          0.5
+surr_improvement      0.0348464
+time_VF               2.02867
+time_npg              0.643385
+time_sampling         4.75175
+time_vpg              0.034842
+----------------  -------------
+......................................................................................
+ITERATION : 47 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.663648 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.864631 
+[ Sat Nov 13 16:29:22 2021 ]   47  9.43 -3.69 20.95 
+----------------  -------------
+VF_error_after        0.485761
+VF_error_before       0.772782
+alpha               124.52
+delta                 0.05
+eval_score           -3.69426
+eval_success          0
+kl_dist               0.0248916
+num_samples       40000
+rollout_success       0.5
+running_score         9.92746
+stoc_pol_max        557.448
+stoc_pol_mean         9.43004
+stoc_pol_min        -13.1392
+stoc_pol_std         56.5598
+success_rate          0.5
+surr_improvement      0.032636
+time_VF               2.09318
+time_npg              0.625989
+time_sampling         4.66368
+time_vpg              0.0348043
+----------------  -------------
+......................................................................................
+ITERATION : 48 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.848354 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.759764 
+[ Sat Nov 13 16:29:31 2021 ]   48 23.92 -3.16 20.95 
+----------------  -------------
+VF_error_after        0.379077
+VF_error_before       0.698875
+alpha               152.84
+delta                 0.05
+eval_score           -3.16047
+eval_success          0
+kl_dist               0.025412
+num_samples       40000
+rollout_success       1.5
+running_score        11.3271
+stoc_pol_max       1828.08
+stoc_pol_mean        23.9242
+stoc_pol_min        -15.5135
+stoc_pol_std        143.934
+success_rate          1.5
+surr_improvement      0.0384486
+time_VF               1.98087
+time_npg              0.635394
+time_sampling         4.84839
+time_vpg              0.0327871
+----------------  -------------
+......................................................................................
+ITERATION : 49 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.749558 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.858712 
+[ Sat Nov 13 16:29:39 2021 ]   49 20.24  5.04 23.92 
+----------------  -------------
+VF_error_after        0.499981
+VF_error_before       0.834694
+alpha               156.25
+delta                 0.05
+eval_score            5.0354
+eval_success          0
+kl_dist               0.0248541
+num_samples       40000
+rollout_success       1.5
+running_score        12.218
+stoc_pol_max        734.226
+stoc_pol_mean        20.2355
+stoc_pol_min        -14.5236
+stoc_pol_std         91.3811
+success_rate          1.5
+surr_improvement      0.0343985
+time_VF               1.98181
+time_npg              0.638438
+time_sampling         4.7496
+time_vpg              0.0343182
+----------------  -------------
+......................................................................................
+ITERATION : 50 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.658897 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.865232 
+[ Sat Nov 13 16:29:48 2021 ]   50  5.35  1.87 23.92 
+----------------  -------------
+VF_error_after        0.611145
+VF_error_before       2.04514
+alpha               141.058
+delta                 0.05
+eval_score            1.87134
+eval_success          0
+kl_dist               0.0247183
+num_samples       40000
+rollout_success       0
+running_score        11.5311
+stoc_pol_max        171.096
+stoc_pol_mean         5.34972
+stoc_pol_min        -13.6071
+stoc_pol_std         28.5088
+success_rate          0
+surr_improvement      0.0354403
+time_VF               2.0656
+time_npg              0.661882
+time_sampling         4.65893
+time_vpg              0.0328104
+----------------  -------------
+......................................................................................
+ITERATION : 51 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.848222 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.857744 
+[ Sat Nov 13 16:29:56 2021 ]   51 21.94 -1.06 23.92 
+----------------  -------------
+VF_error_after        0.599107
+VF_error_before       0.771844
+alpha               134.32
+delta                 0.05
+eval_score           -1.0586
+eval_success          0
+kl_dist               0.0250828
+num_samples       40000
+rollout_success       1
+running_score        12.572
+stoc_pol_max        358.378
+stoc_pol_mean        21.9396
+stoc_pol_min        -12.773
+stoc_pol_std         65.3302
+success_rate          1
+surr_improvement      0.0408486
+time_VF               2.05412
+time_npg              0.643138
+time_sampling         4.84825
+time_vpg              0.0339136
+----------------  -------------
+......................................................................................
+ITERATION : 52 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.658927 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.859115 
+[ Sat Nov 13 16:30:05 2021 ]   52 12.47  6.25 23.92 
+----------------  -------------
+VF_error_after        0.500359
+VF_error_before       0.752441
+alpha               150.581
+delta                 0.05
+eval_score            6.25142
+eval_success          0
+kl_dist               0.0247804
+num_samples       40000
+rollout_success       0
+running_score        12.5617
+stoc_pol_max        432.902
+stoc_pol_mean        12.4696
+stoc_pol_min        -16.0729
+stoc_pol_std         57.6672
+success_rate          0
+surr_improvement      0.0348605
+time_VF               1.97352
+time_npg              0.61652
+time_sampling         4.65897
+time_vpg              0.0336497
+----------------  -------------
+......................................................................................
+ITERATION : 53 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.760180 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.872204 
+[ Sat Nov 13 16:30:13 2021 ]   53 21.80  7.74 23.92 
+----------------  -------------
+VF_error_after        0.530687
+VF_error_before       0.708425
+alpha               142.047
+delta                 0.05
+eval_score            7.7356
+eval_success          0
+kl_dist               0.0257542
+num_samples       40000
+rollout_success       1
+running_score        13.4858
+stoc_pol_max        724.796
+stoc_pol_mean        21.8025
+stoc_pol_min        -15.6307
+stoc_pol_std         89.0766
+success_rate          1
+surr_improvement      0.0421412
+time_VF               1.94553
+time_npg              0.62505
+time_sampling         4.76021
+time_vpg              0.0324955
+----------------  -------------
+......................................................................................
+ITERATION : 54 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.747988 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.872734 
+[ Sat Nov 13 16:30:22 2021 ]   54 17.77 36.52 23.92 
+----------------  -------------
+VF_error_after        0.368598
+VF_error_before       0.61673
+alpha               146.832
+delta                 0.05
+eval_score           36.5232
+eval_success          4
+kl_dist               0.0251255
+num_samples       40000
+rollout_success       1.5
+running_score        13.914
+stoc_pol_max        697.536
+stoc_pol_mean        17.7676
+stoc_pol_min        -16.8497
+stoc_pol_std         74.9867
+success_rate          1.5
+surr_improvement      0.0329639
+time_VF               1.93099
+time_npg              0.606052
+time_sampling         4.74802
+time_vpg              0.033308
+----------------  -------------
+......................................................................................
+ITERATION : 55 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.861904 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.870662 
+[ Sat Nov 13 16:30:30 2021 ]   55 39.52 55.53 23.92 
+----------------  -------------
+VF_error_after        0.546083
+VF_error_before       0.796993
+alpha               154.292
+delta                 0.05
+eval_score           55.5318
+eval_success          4
+kl_dist               0.0241906
+num_samples       40000
+rollout_success       3
+running_score        16.4741
+stoc_pol_max       1030.13
+stoc_pol_mean        39.5154
+stoc_pol_min        -14.061
+stoc_pol_std        140.298
+success_rate          3
+surr_improvement      0.0350254
+time_VF               2.01146
+time_npg              0.615923
+time_sampling         4.86194
+time_vpg              0.0330944
+----------------  -------------
+......................................................................................
+ITERATION : 56 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.949878 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.867764 
+[ Sat Nov 13 16:30:39 2021 ]   56 30.81 42.31 39.52 
+----------------  -------------
+VF_error_after        0.496838
+VF_error_before       0.748671
+alpha               147.65
+delta                 0.05
+eval_score           42.3126
+eval_success          0
+kl_dist               0.0248693
+num_samples       40000
+rollout_success       2
+running_score        17.9075
+stoc_pol_max        990.587
+stoc_pol_mean        30.8081
+stoc_pol_min        -12.9876
+stoc_pol_std        121.928
+success_rate          2
+surr_improvement      0.0355128
+time_VF               1.97769
+time_npg              0.625889
+time_sampling         4.94992
+time_vpg              0.034647
+----------------  -------------
+......................................................................................
+ITERATION : 57 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.947842 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.859442 
+[ Sat Nov 13 16:30:48 2021 ]   57 28.24 56.49 39.52 
+----------------  -------------
+VF_error_after        0.573915
+VF_error_before       1.10154
+alpha               136.923
+delta                 0.05
+eval_score           56.4878
+eval_success          4
+kl_dist               0.0249678
+num_samples       40000
+rollout_success       2
+running_score        18.9407
+stoc_pol_max        582.782
+stoc_pol_mean        28.2391
+stoc_pol_min        -12.8421
+stoc_pol_std         83.4918
+success_rate          2
+surr_improvement      0.0369582
+time_VF               1.92131
+time_npg              0.622236
+time_sampling         4.94788
+time_vpg              0.0331476
+----------------  -------------
+......................................................................................
+ITERATION : 58 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.952196 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.971855 
+[ Sat Nov 13 16:30:56 2021 ]   58 51.93 142.38 39.52 
+----------------  -------------
+VF_error_after        0.383434
+VF_error_before       0.657751
+alpha               171.321
+delta                 0.05
+eval_score          142.375
+eval_success          8
+kl_dist               0.0248353
+num_samples       40000
+rollout_success       4
+running_score        22.2399
+stoc_pol_max       1730.91
+stoc_pol_mean        51.9325
+stoc_pol_min        -16.5722
+stoc_pol_std        205.011
+success_rate          4
+surr_improvement      0.0323318
+time_VF               1.91315
+time_npg              0.623372
+time_sampling         4.95223
+time_vpg              0.0341723
+----------------  -------------
+......................................................................................
+ITERATION : 59 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.250768 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.856194 
+[ Sat Nov 13 16:31:05 2021 ]   59 36.77 73.07 51.93 
+----------------  -------------
+VF_error_after        0.587079
+VF_error_before       1.70832
+alpha               134.748
+delta                 0.05
+eval_score           73.0713
+eval_success          4
+kl_dist               0.0251335
+num_samples       40000
+rollout_success       2.5
+running_score        23.6925
+stoc_pol_max        868.694
+stoc_pol_mean        36.7659
+stoc_pol_min        -13.2454
+stoc_pol_std        110.256
+success_rate          2.5
+surr_improvement      0.0358521
+time_VF               1.88502
+time_npg              0.627584
+time_sampling         5.2508
+time_vpg              0.0347562
+----------------  -------------
+......................................................................................
+ITERATION : 60 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.845479 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.867290 
+[ Sat Nov 13 16:31:14 2021 ]   60 14.70 91.24 51.93 
+----------------  -------------
+VF_error_after        0.448654
+VF_error_before       0.88773
+alpha               138.248
+delta                 0.05
+eval_score           91.2362
+eval_success          4
+kl_dist               0.024809
+num_samples       40000
+rollout_success       0.5
+running_score        22.7932
+stoc_pol_max       1047.99
+stoc_pol_mean        14.7001
+stoc_pol_min        -15.1752
+stoc_pol_std         79.466
+success_rate          0.5
+surr_improvement      0.0380544
+time_VF               1.93821
+time_npg              0.631948
+time_sampling         4.84551
+time_vpg              0.0327024
+----------------  -------------
+......................................................................................
+ITERATION : 61 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.848349 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.853865 
+[ Sat Nov 13 16:31:22 2021 ]   61 38.36 54.35 51.93 
+----------------  -------------
+VF_error_after        0.538294
+VF_error_before       0.82769
+alpha               152.314
+delta                 0.05
+eval_score           54.3459
+eval_success          4
+kl_dist               0.0246475
+num_samples       40000
+rollout_success       2.5
+running_score        24.3503
+stoc_pol_max        723.7
+stoc_pol_mean        38.3635
+stoc_pol_min        -14.8879
+stoc_pol_std        106.07
+success_rate          2.5
+surr_improvement      0.0343109
+time_VF               1.98172
+time_npg              0.635325
+time_sampling         4.84838
+time_vpg              0.0316377
+----------------  -------------
+......................................................................................
+ITERATION : 62 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.049247 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.855194 
+[ Sat Nov 13 16:31:31 2021 ]   62 42.36 30.68 51.93 
+----------------  -------------
+VF_error_after        0.46084
+VF_error_before       0.707253
+alpha               152.447
+delta                 0.05
+eval_score           30.6757
+eval_success          0
+kl_dist               0.0249587
+num_samples       40000
+rollout_success       3
+running_score        26.1514
+stoc_pol_max       1106.35
+stoc_pol_mean        42.3615
+stoc_pol_min        -14.7332
+stoc_pol_std        135.825
+success_rate          3
+surr_improvement      0.033313
+time_VF               1.9493
+time_npg              0.64421
+time_sampling         5.04928
+time_vpg              0.0327187
+----------------  -------------
+......................................................................................
+ITERATION : 63 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.948671 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.854882 
+[ Sat Nov 13 16:31:40 2021 ]   63 31.63 146.38 51.93 
+----------------  -------------
+VF_error_after        0.43462
+VF_error_before       0.760078
+alpha               151.832
+delta                 0.05
+eval_score          146.377
+eval_success          4
+kl_dist               0.0251215
+num_samples       40000
+rollout_success       1
+running_score        26.699
+stoc_pol_max        639.867
+stoc_pol_mean        31.6272
+stoc_pol_min        -19.9751
+stoc_pol_std         83.7759
+success_rate          1
+surr_improvement      0.0320523
+time_VF               1.95116
+time_npg              0.622437
+time_sampling         4.9487
+time_vpg              0.0330534
+----------------  -------------
+......................................................................................
+ITERATION : 64 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.950228 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.866466 
+[ Sat Nov 13 16:31:48 2021 ]   64 34.99 23.30 51.93 
+----------------  -------------
+VF_error_after        0.409327
+VF_error_before       0.555396
+alpha               148.659
+delta                 0.05
+eval_score           23.3005
+eval_success          0
+kl_dist               0.0246647
+num_samples       40000
+rollout_success       2
+running_score        27.5283
+stoc_pol_max        616.121
+stoc_pol_mean        34.9926
+stoc_pol_min        -17.1568
+stoc_pol_std         88.9757
+success_rate          2
+surr_improvement      0.0359988
+time_VF               1.95211
+time_npg              0.619207
+time_sampling         4.95026
+time_vpg              0.0329313
+----------------  -------------
+......................................................................................
+ITERATION : 65 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 4.946433 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.856483 
+[ Sat Nov 13 16:31:57 2021 ]   65 41.60 89.07 51.93 
+----------------  -------------
+VF_error_after        0.453793
+VF_error_before       0.66079
+alpha               144.607
+delta                 0.05
+eval_score           89.0708
+eval_success          8
+kl_dist               0.0249281
+num_samples       40000
+rollout_success       3.5
+running_score        28.9355
+stoc_pol_max        913.288
+stoc_pol_mean        41.6005
+stoc_pol_min        -13.9612
+stoc_pol_std        129.409
+success_rate          3.5
+surr_improvement      0.036458
+time_VF               1.92496
+time_npg              0.60804
+time_sampling         4.94647
+time_vpg              0.0333543
+----------------  -------------
+......................................................................................
+ITERATION : 66 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.252369 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.854294 
+[ Sat Nov 13 16:32:06 2021 ]   66 75.57 84.27 51.93 
+----------------  -------------
+VF_error_after        0.427937
+VF_error_before       0.656513
+alpha               165.843
+delta                 0.05
+eval_score           84.268
+eval_success          4
+kl_dist               0.0249555
+num_samples       40000
+rollout_success       5
+running_score        33.5991
+stoc_pol_max       1500.47
+stoc_pol_mean        75.5714
+stoc_pol_min        -16.001
+stoc_pol_std        193.591
+success_rate          5
+surr_improvement      0.0311635
+time_VF               1.96751
+time_npg              0.617369
+time_sampling         5.2524
+time_vpg              0.0316856
+----------------  -------------
+......................................................................................
+ITERATION : 67 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.349829 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.968310 
+[ Sat Nov 13 16:32:15 2021 ]   67 49.21 69.43 75.57 
+----------------  -------------
+VF_error_after        0.540336
+VF_error_before       0.761709
+alpha               151.466
+delta                 0.05
+eval_score           69.4326
+eval_success          4
+kl_dist               0.0251235
+num_samples       40000
+rollout_success       3.5
+running_score        35.1598
+stoc_pol_max       1076.17
+stoc_pol_mean        49.2055
+stoc_pol_min        -14.4216
+stoc_pol_std        130.826
+success_rate          3.5
+surr_improvement      0.033437
+time_VF               1.95066
+time_npg              0.618423
+time_sampling         5.34986
+time_vpg              0.0311198
+----------------  -------------
+......................................................................................
+ITERATION : 68 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.069977 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.857193 
+[ Sat Nov 13 16:32:24 2021 ]   68 57.67 54.75 75.57 
+----------------  -------------
+VF_error_after        0.626751
+VF_error_before       0.773912
+alpha               154.595
+delta                 0.05
+eval_score           54.7499
+eval_success          4
+kl_dist               0.0252169
+num_samples       40000
+rollout_success       3.5
+running_score        37.4108
+stoc_pol_max        983.567
+stoc_pol_mean        57.6698
+stoc_pol_min        -14.8874
+stoc_pol_std        148.085
+success_rate          3.5
+surr_improvement      0.0311765
+time_VF               1.9129
+time_npg              0.602489
+time_sampling         5.07002
+time_vpg              0.0316305
+----------------  -------------
+......................................................................................
+ITERATION : 69 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.150137 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.865155 
+[ Sat Nov 13 16:32:32 2021 ]   69 77.18 26.13 75.57 
+----------------  -------------
+VF_error_after        0.372824
+VF_error_before       0.703521
+alpha               178.042
+delta                 0.05
+eval_score           26.1348
+eval_success          0
+kl_dist               0.0244221
+num_samples       40000
+rollout_success       5
+running_score        41.3879
+stoc_pol_max       2439.15
+stoc_pol_mean        77.1824
+stoc_pol_min        -17.5656
+stoc_pol_std        288.964
+success_rate          5
+surr_improvement      0.0293571
+time_VF               1.92982
+time_npg              0.603361
+time_sampling         5.15017
+time_vpg              0.0342598
+----------------  -------------
+......................................................................................
+ITERATION : 70 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.149294 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.963287 
+[ Sat Nov 13 16:32:41 2021 ]   70 72.66 140.17 77.18 
+----------------  -------------
+VF_error_after        0.550477
+VF_error_before       0.85162
+alpha               152.364
+delta                 0.05
+eval_score          140.167
+eval_success          8
+kl_dist               0.0249604
+num_samples       40000
+rollout_success       4
+running_score        44.5156
+stoc_pol_max       1833.78
+stoc_pol_mean        72.6642
+stoc_pol_min        -16.2578
+stoc_pol_std        207.121
+success_rate          4
+surr_improvement      0.0317858
+time_VF               1.89766
+time_npg              0.602309
+time_sampling         5.14933
+time_vpg              0.0324731
+----------------  -------------
+......................................................................................
+ITERATION : 71 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.045149 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.955029 
+[ Sat Nov 13 16:32:50 2021 ]   71 67.01 185.74 77.18 
+----------------  -------------
+VF_error_after        0.375485
+VF_error_before       0.569527
+alpha               153.155
+delta                 0.05
+eval_score          185.736
+eval_success         12
+kl_dist               0.0247237
+num_samples       40000
+rollout_success       4.5
+running_score        46.7648
+stoc_pol_max       1200.38
+stoc_pol_mean        67.0081
+stoc_pol_min        -17.4052
+stoc_pol_std        178.699
+success_rate          4.5
+surr_improvement      0.033432
+time_VF               1.93474
+time_npg              0.60742
+time_sampling         5.04519
+time_vpg              0.0336449
+----------------  -------------
+......................................................................................
+ITERATION : 72 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.245882 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.065907 
+[ Sat Nov 13 16:32:59 2021 ]   72 86.18 71.51 77.18 
+----------------  -------------
+VF_error_after        0.399983
+VF_error_before       0.571453
+alpha               144.835
+delta                 0.05
+eval_score           71.506
+eval_success          8
+kl_dist               0.0249392
+num_samples       40000
+rollout_success       5.5
+running_score        50.7065
+stoc_pol_max       1074.99
+stoc_pol_mean        86.182
+stoc_pol_min        -14.4628
+stoc_pol_std        202.895
+success_rate          5.5
+surr_improvement      0.0370294
+time_VF               1.96239
+time_npg              0.598768
+time_sampling         5.24592
+time_vpg              0.032383
+----------------  -------------
+......................................................................................
+ITERATION : 73 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.152313 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.967957 
+[ Sat Nov 13 16:33:08 2021 ]   73 79.58 166.50 86.18 
+----------------  -------------
+VF_error_after        0.284758
+VF_error_before       0.618967
+alpha               158.946
+delta                 0.05
+eval_score          166.496
+eval_success         12
+kl_dist               0.0249962
+num_samples       40000
+rollout_success       5
+running_score        53.5942
+stoc_pol_max       2056.97
+stoc_pol_mean        79.5828
+stoc_pol_min        -13.7281
+stoc_pol_std        241.922
+success_rate          5
+surr_improvement      0.032587
+time_VF               1.9257
+time_npg              0.604222
+time_sampling         5.15235
+time_vpg              0.039999
+----------------  -------------
+......................................................................................
+ITERATION : 74 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.454545 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.067457 
+[ Sat Nov 13 16:33:18 2021 ]   74 62.91 98.63 86.18 
+----------------  -------------
+VF_error_after        0.447957
+VF_error_before       0.778856
+alpha               148.675
+delta                 0.05
+eval_score           98.634
+eval_success          8
+kl_dist               0.0256913
+num_samples       40000
+rollout_success       4
+running_score        54.5262
+stoc_pol_max       1398.62
+stoc_pol_mean        62.9143
+stoc_pol_min        -18.2576
+stoc_pol_std        166.582
+success_rate          4
+surr_improvement      0.0349257
+time_VF               2.16284
+time_npg              0.979808
+time_sampling         5.45458
+time_vpg              0.0335057
+----------------  -------------
+......................................................................................
+ITERATION : 75 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.253391 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.959282 
+[ Sat Nov 13 16:33:27 2021 ]   75 81.36 162.84 86.18 
+----------------  -------------
+VF_error_after        0.484112
+VF_error_before       0.658885
+alpha               151.352
+delta                 0.05
+eval_score          162.838
+eval_success         20
+kl_dist               0.0251189
+num_samples       40000
+rollout_success       7
+running_score        57.2094
+stoc_pol_max       1287.57
+stoc_pol_mean        81.3583
+stoc_pol_min        -13.8814
+stoc_pol_std        197.486
+success_rate          7
+surr_improvement      0.0348674
+time_VF               1.96408
+time_npg              0.610322
+time_sampling         5.25342
+time_vpg              0.0328944
+----------------  -------------
+......................................................................................
+ITERATION : 76 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.159522 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.954789 
+[ Sat Nov 13 16:33:36 2021 ]   76 71.13 96.55 86.18 
+----------------  -------------
+VF_error_after        0.51101
+VF_error_before       0.795129
+alpha               154.9
+delta                 0.05
+eval_score           96.5489
+eval_success          8
+kl_dist               0.0252454
+num_samples       40000
+rollout_success       5.5
+running_score        58.6019
+stoc_pol_max       1569.27
+stoc_pol_mean        71.1345
+stoc_pol_min        -19.2658
+stoc_pol_std        185.953
+success_rate          5.5
+surr_improvement      0.0347339
+time_VF               1.99047
+time_npg              0.618696
+time_sampling         5.15956
+time_vpg              0.033699
+----------------  -------------
+......................................................................................
+ITERATION : 77 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.350003 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.953916 
+[ Sat Nov 13 16:33:45 2021 ]   77 90.58 114.74 86.18 
+----------------  -------------
+VF_error_after        0.448951
+VF_error_before       0.575381
+alpha               143.892
+delta                 0.05
+eval_score          114.736
+eval_success         12
+kl_dist               0.0250209
+num_samples       40000
+rollout_success       7
+running_score        61.7995
+stoc_pol_max       1353.29
+stoc_pol_mean        90.5783
+stoc_pol_min        -14.1723
+stoc_pol_std        204.883
+success_rate          7
+surr_improvement      0.0333757
+time_VF               1.95533
+time_npg              0.61893
+time_sampling         5.35004
+time_vpg              0.0322568
+----------------  -------------
+......................................................................................
+ITERATION : 78 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.647238 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.232344 
+[ Sat Nov 13 16:33:56 2021 ]   78 109.90 92.02 90.58 
+----------------  -------------
+VF_error_after        0.41175
+VF_error_before       0.545212
+alpha               149.433
+delta                 0.05
+eval_score           92.0168
+eval_success          4
+kl_dist               0.0249714
+num_samples       40000
+rollout_success       8
+running_score        66.6092
+stoc_pol_max       1556.55
+stoc_pol_mean       109.896
+stoc_pol_min        -18.9878
+stoc_pol_std        228.912
+success_rate          8
+surr_improvement      0.0348796
+time_VF               2.58268
+time_npg              0.621182
+time_sampling         5.64727
+time_vpg              0.0333123
+----------------  -------------
+......................................................................................
+ITERATION : 79 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.558060 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.054810 
+[ Sat Nov 13 16:34:06 2021 ]   79 117.12 166.28 109.90 
+----------------  -------------
+VF_error_after        0.495061
+VF_error_before       0.723846
+alpha               155.336
+delta                 0.05
+eval_score          166.278
+eval_success         12
+kl_dist               0.0253772
+num_samples       40000
+rollout_success       8
+running_score        71.6606
+stoc_pol_max       2182.71
+stoc_pol_mean       117.123
+stoc_pol_min        -16.2233
+stoc_pol_std        289.498
+success_rate          8
+surr_improvement      0.0337552
+time_VF               2.825
+time_npg              0.723163
+time_sampling         5.5581
+time_vpg              0.0452528
+----------------  -------------
+......................................................................................
+ITERATION : 80 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.674427 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.056887 
+[ Sat Nov 13 16:34:16 2021 ]   80 119.28 331.66 117.12 
+----------------  -------------
+VF_error_after        0.470471
+VF_error_before       0.623597
+alpha               155.525
+delta                 0.05
+eval_score          331.661
+eval_success         20
+kl_dist               0.0247057
+num_samples       40000
+rollout_success       9
+running_score        76.4227
+stoc_pol_max       1910.41
+stoc_pol_mean       119.282
+stoc_pol_min        -17.2645
+stoc_pol_std        265.141
+success_rate          9
+surr_improvement      0.0331486
+time_VF               1.75812
+time_npg              0.640138
+time_sampling         5.67447
+time_vpg              0.0350633
+----------------  -------------
+......................................................................................
+ITERATION : 81 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.553161 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.963296 
+[ Sat Nov 13 16:34:25 2021 ]   81 85.23 385.20 119.28 
+----------------  -------------
+VF_error_after        0.503396
+VF_error_before       0.884124
+alpha               155.139
+delta                 0.05
+eval_score          385.202
+eval_success         20
+kl_dist               0.0250261
+num_samples       40000
+rollout_success       5
+running_score        77.3039
+stoc_pol_max       1225.95
+stoc_pol_mean        85.2346
+stoc_pol_min        -19.4399
+stoc_pol_std        180.364
+success_rate          5
+surr_improvement      0.0328407
+time_VF               1.91571
+time_npg              0.628487
+time_sampling         5.5532
+time_vpg              0.0338576
+----------------  -------------
+......................................................................................
+ITERATION : 82 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.272098 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.970004 
+[ Sat Nov 13 16:34:34 2021 ]   82 134.76 228.76 119.28 
+----------------  -------------
+VF_error_after        0.411179
+VF_error_before       0.581795
+alpha               155.786
+delta                 0.05
+eval_score          228.757
+eval_success         12
+kl_dist               0.0252988
+num_samples       40000
+rollout_success      10
+running_score        83.0493
+stoc_pol_max       1710.63
+stoc_pol_mean       134.758
+stoc_pol_min        -13.7498
+stoc_pol_std        273.473
+success_rate         10
+surr_improvement      0.0325631
+time_VF               1.87094
+time_npg              0.613678
+time_sampling         5.27213
+time_vpg              0.031925
+----------------  -------------
+......................................................................................
+ITERATION : 83 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.447622 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 0.963553 
+[ Sat Nov 13 16:34:43 2021 ]   83 115.83 233.81 134.76 
+----------------  -------------
+VF_error_after        0.486737
+VF_error_before       0.634423
+alpha               152.543
+delta                 0.05
+eval_score          233.811
+eval_success         20
+kl_dist               0.0249494
+num_samples       40000
+rollout_success       8.5
+running_score        86.3275
+stoc_pol_max       1638.31
+stoc_pol_mean       115.831
+stoc_pol_min        -17.3087
+stoc_pol_std        261.17
+success_rate          8.5
+surr_improvement      0.0342179
+time_VF               2.0419
+time_npg              0.656224
+time_sampling         5.44766
+time_vpg              0.0347202
+----------------  -------------
+......................................................................................
+ITERATION : 84 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.588345 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.067404 
+[ Sat Nov 13 16:34:53 2021 ]   84 116.26 208.62 134.76 
+----------------  -------------
+VF_error_after        0.415488
+VF_error_before       0.524956
+alpha               144.648
+delta                 0.05
+eval_score          208.62
+eval_success         20
+kl_dist               0.024954
+num_samples       40000
+rollout_success      12
+running_score        89.3204
+stoc_pol_max       1181.12
+stoc_pol_mean       116.257
+stoc_pol_min        -19.0899
+stoc_pol_std        230.41
+success_rate         12
+surr_improvement      0.0354412
+time_VF               2.18901
+time_npg              0.860583
+time_sampling         5.58838
+time_vpg              0.0360022
+----------------  -------------
+......................................................................................
+ITERATION : 85 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.585368 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.069139 
+[ Sat Nov 13 16:35:03 2021 ]   85 124.61 235.90 134.76 
+----------------  -------------
+VF_error_after        0.374309
+VF_error_before       0.505092
+alpha               152.965
+delta                 0.05
+eval_score          235.896
+eval_success         16
+kl_dist               0.025339
+num_samples       40000
+rollout_success      12
+running_score        92.8498
+stoc_pol_max       1115
+stoc_pol_mean       124.614
+stoc_pol_min        -16.2936
+stoc_pol_std        258.587
+success_rate         12
+surr_improvement      0.0337083
+time_VF               2.28855
+time_npg              0.661764
+time_sampling         5.58543
+time_vpg              0.0349956
+----------------  -------------
+......................................................................................
+ITERATION : 86 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.360112 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.166177 
+[ Sat Nov 13 16:35:13 2021 ]   86 115.29 217.12 134.76 
+----------------  -------------
+VF_error_after        0.446309
+VF_error_before       0.606912
+alpha               142.927
+delta                 0.05
+eval_score          217.117
+eval_success         16
+kl_dist               0.0250312
+num_samples       40000
+rollout_success       8.5
+running_score        95.0935
+stoc_pol_max       1476.67
+stoc_pol_mean       115.287
+stoc_pol_min        -16.5581
+stoc_pol_std        260.306
+success_rate          8.5
+surr_improvement      0.035865
+time_VF               2.11709
+time_npg              0.60601
+time_sampling         5.36015
+time_vpg              0.0349374
+----------------  -------------
+......................................................................................
+ITERATION : 87 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.659178 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.061005 
+[ Sat Nov 13 16:35:22 2021 ]   87 154.18 265.23 134.76 
+----------------  -------------
+VF_error_after        0.393275
+VF_error_before       0.568776
+alpha               148.609
+delta                 0.05
+eval_score          265.228
+eval_success         16
+kl_dist               0.0244759
+num_samples       40000
+rollout_success      14.5
+running_score       101.002
+stoc_pol_max       1511.28
+stoc_pol_mean       154.176
+stoc_pol_min        -13.5967
+stoc_pol_std        288.385
+success_rate         14.5
+surr_improvement      0.0349661
+time_VF               1.90104
+time_npg              0.664279
+time_sampling         5.65922
+time_vpg              0.0359044
+----------------  -------------
+......................................................................................
+ITERATION : 88 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.553007 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.063702 
+[ Sat Nov 13 16:35:32 2021 ]   88 166.61 197.03 154.18 
+----------------  -------------
+VF_error_after        0.42957
+VF_error_before       0.591681
+alpha               147.071
+delta                 0.05
+eval_score          197.031
+eval_success         12
+kl_dist               0.0250556
+num_samples       40000
+rollout_success      14.5
+running_score       107.563
+stoc_pol_max       1710.31
+stoc_pol_mean       166.611
+stoc_pol_min        -15.9311
+stoc_pol_std        296.693
+success_rate         14.5
+surr_improvement      0.0353222
+time_VF               1.83566
+time_npg              0.664588
+time_sampling         5.55304
+time_vpg              0.0348158
+----------------  -------------
+......................................................................................
+ITERATION : 89 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.559144 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.281736 
+[ Sat Nov 13 16:35:42 2021 ]   89 147.25 210.24 166.61 
+----------------  -------------
+VF_error_after        0.451741
+VF_error_before       0.597128
+alpha               142.103
+delta                 0.05
+eval_score          210.241
+eval_success         12
+kl_dist               0.0251284
+num_samples       40000
+rollout_success      10
+running_score       111.531
+stoc_pol_max       1685.09
+stoc_pol_mean       147.25
+stoc_pol_min        -14.6581
+stoc_pol_std        273.174
+success_rate         10
+surr_improvement      0.0363555
+time_VF               2.34645
+time_npg              0.701458
+time_sampling         5.5592
+time_vpg              0.0524764
+----------------  -------------
+......................................................................................
+ITERATION : 90 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.962747 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.064699 
+[ Sat Nov 13 16:35:52 2021 ]   90 190.28 183.22 166.61 
+----------------  -------------
+VF_error_after        0.406613
+VF_error_before       0.550496
+alpha               139.09
+delta                 0.05
+eval_score          183.223
+eval_success         12
+kl_dist               0.0252026
+num_samples       40000
+rollout_success      15
+running_score       119.407
+stoc_pol_max       2039.16
+stoc_pol_mean       190.283
+stoc_pol_min        -15.8847
+stoc_pol_std        352.988
+success_rate         15
+surr_improvement      0.0362489
+time_VF               2.03772
+time_npg              0.683454
+time_sampling         5.96279
+time_vpg              0.039686
+----------------  -------------
+......................................................................................
+ITERATION : 91 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.864813 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.056126 
+[ Sat Nov 13 16:36:02 2021 ]   91 190.72 205.99 190.28 
+----------------  -------------
+VF_error_after        0.393757
+VF_error_before       0.55062
+alpha               145.059
+delta                 0.05
+eval_score          205.991
+eval_success         12
+kl_dist               0.0250685
+num_samples       40000
+rollout_success      17.5
+running_score       126.538
+stoc_pol_max       2087.15
+stoc_pol_mean       190.719
+stoc_pol_min        -15.2879
+stoc_pol_std        319.969
+success_rate         17.5
+surr_improvement      0.0356809
+time_VF               1.9378
+time_npg              0.621809
+time_sampling         5.86485
+time_vpg              0.0345063
+----------------  -------------
+......................................................................................
+ITERATION : 92 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.547353 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.085718 
+[ Sat Nov 13 16:36:11 2021 ]   92 215.55 245.52 190.72 
+----------------  -------------
+VF_error_after        0.372489
+VF_error_before       0.470793
+alpha               143.308
+delta                 0.05
+eval_score          245.518
+eval_success         24
+kl_dist               0.0250847
+num_samples       40000
+rollout_success      21
+running_score       135.439
+stoc_pol_max       2006.84
+stoc_pol_mean       215.551
+stoc_pol_min        -15.8992
+stoc_pol_std        344.623
+success_rate         21
+surr_improvement      0.0348558
+time_VF               1.92437
+time_npg              0.62081
+time_sampling         5.5474
+time_vpg              0.0326815
+----------------  -------------
+......................................................................................
+ITERATION : 93 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.548235 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.174634 
+[ Sat Nov 13 16:36:21 2021 ]   93 179.25 258.09 215.55 
+----------------  -------------
+VF_error_after        0.362802
+VF_error_before       0.528452
+alpha               144.69
+delta                 0.05
+eval_score          258.091
+eval_success         24
+kl_dist               0.0250125
+num_samples       40000
+rollout_success      15.5
+running_score       139.82
+stoc_pol_max       1486.36
+stoc_pol_mean       179.249
+stoc_pol_min        -18.2435
+stoc_pol_std        306.858
+success_rate         15.5
+surr_improvement      0.0351472
+time_VF               2.06813
+time_npg              0.830431
+time_sampling         5.54827
+time_vpg              0.0335915
+----------------  -------------
+......................................................................................
+ITERATION : 94 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.852685 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.159493 
+[ Sat Nov 13 16:36:30 2021 ]   94 276.11 217.45 215.55 
+----------------  -------------
+VF_error_after        0.379705
+VF_error_before       0.530431
+alpha               153.324
+delta                 0.05
+eval_score          217.452
+eval_success         20
+kl_dist               0.0251233
+num_samples       40000
+rollout_success      22.5
+running_score       153.449
+stoc_pol_max       2707.7
+stoc_pol_mean       276.107
+stoc_pol_min        -14.9753
+stoc_pol_std        464.557
+success_rate         22.5
+surr_improvement      0.0331546
+time_VF               1.72238
+time_npg              0.618182
+time_sampling         5.85272
+time_vpg              0.0348823
+----------------  -------------
+......................................................................................
+ITERATION : 95 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.645768 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.054276 
+[ Sat Nov 13 16:36:40 2021 ]   95 274.99 200.53 276.11 
+----------------  -------------
+VF_error_after        0.355105
+VF_error_before       0.470005
+alpha               146.677
+delta                 0.05
+eval_score          200.528
+eval_success         12
+kl_dist               0.0250705
+num_samples       40000
+rollout_success      25
+running_score       165.603
+stoc_pol_max       1909.94
+stoc_pol_mean       274.993
+stoc_pol_min        -16.2752
+stoc_pol_std        425.463
+success_rate         25
+surr_improvement      0.033551
+time_VF               1.90456
+time_npg              0.619046
+time_sampling         5.6458
+time_vpg              0.0338986
+----------------  -------------
+......................................................................................
+ITERATION : 96 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.560740 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.053368 
+[ Sat Nov 13 16:36:49 2021 ]   96 319.76 280.34 276.11 
+----------------  -------------
+VF_error_after        0.331946
+VF_error_before       0.439128
+alpha               149.403
+delta                 0.05
+eval_score          280.341
+eval_success         20
+kl_dist               0.0247851
+num_samples       40000
+rollout_success      26.5
+running_score       181.019
+stoc_pol_max       3192.47
+stoc_pol_mean       319.76
+stoc_pol_min        -15.7131
+stoc_pol_std        559.452
+success_rate         26.5
+surr_improvement      0.033326
+time_VF               1.882
+time_npg              0.656332
+time_sampling         5.56078
+time_vpg              0.035027
+----------------  -------------
+......................................................................................
+ITERATION : 97 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.948056 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.067195 
+[ Sat Nov 13 16:36:59 2021 ]   97 346.99 325.33 319.76 
+----------------  -------------
+VF_error_after        0.297813
+VF_error_before       0.392704
+alpha               144.016
+delta                 0.05
+eval_score          325.332
+eval_success         36
+kl_dist               0.0249806
+num_samples       40000
+rollout_success      31
+running_score       197.616
+stoc_pol_max       2927.12
+stoc_pol_mean       346.99
+stoc_pol_min        -11.8852
+stoc_pol_std        515.749
+success_rate         31
+surr_improvement      0.0345209
+time_VF               1.85502
+time_npg              0.644571
+time_sampling         5.94809
+time_vpg              0.0342562
+----------------  -------------
+......................................................................................
+ITERATION : 98 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.855906 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.055760 
+[ Sat Nov 13 16:37:09 2021 ]   98 343.70 341.97 346.99 
+----------------  -------------
+VF_error_after        0.311333
+VF_error_before       0.405702
+alpha               148.898
+delta                 0.05
+eval_score          341.966
+eval_success         36
+kl_dist               0.0252244
+num_samples       40000
+rollout_success      29.5
+running_score       212.225
+stoc_pol_max       2159.26
+stoc_pol_mean       343.702
+stoc_pol_min        -16.4902
+stoc_pol_std        507.817
+success_rate         29.5
+surr_improvement      0.0337918
+time_VF               1.92098
+time_npg              0.639868
+time_sampling         5.85594
+time_vpg              0.0350015
+----------------  -------------
+......................................................................................
+ITERATION : 99 
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 5.848978 
+Performing evaluation rollouts ........
+####### Gathering Samples #######
+======= Samples Gathered  ======= | >>>> Time taken = 1.067030 
+[ Sat Nov 13 16:37:19 2021 ]   99 318.94 362.31 346.99 
+----------------  -------------
+VF_error_after        0.305342
+VF_error_before       0.392571
+alpha               143.406
+delta                 0.05
+eval_score          362.308
+eval_success         44
+kl_dist               0.0250248
+num_samples       40000
+rollout_success      27.5
+running_score       222.896
+stoc_pol_max       2684.9
+stoc_pol_mean       318.938
+stoc_pol_min        -12.8117
+stoc_pol_std        515.359
+success_rate         27.5
+surr_improvement      0.0354325
+time_VF               1.92447
+time_npg              0.643462
+time_sampling         5.84901
+time_vpg              0.0349717
+----------------  -------------
+time taken = 872.383350

@@ -1,0 +1,21 @@
+Rolling out standard generalized policy trained on 10 demos for user 0102
+Average score = -9.531733
+Success rate = 0.000000
+Rolling out standard generalized policy trained on 10_20_1 demos for user 0102
+Average score = 3254.692327
+Success rate = 0.961000
+Rolling out standard generalized policy trained on 10_20_2 demos for user 0102
+Average score = 3919.274352
+Success rate = 0.987000
+Rolling out standard generalized policy trained on 20 demos for user 0102
+Average score = -8.047424
+Success rate = 0.000000
+Rolling out standard generalized policy trained on 20_10_1 demos for user 0102
+Average score = 3090.842883
+Success rate = 0.979000
+Rolling out standard generalized policy trained on 20_10_2 demos for user 0102
+Average score = 3063.599937
+Success rate = 0.968000
+Rolling out standard generalized policy trained on 30 demos for user 0102
+Average score = 3388.339800
+Success rate = 0.996000

@@ -1,0 +1,93 @@
+user 0102 : policy 0 : iter 25
+Average score = -2.799341
+Success rate = 0.000000
+user 0102 : policy 0 : iter 50
+Average score = -2.429897
+Success rate = 0.000000
+user 0102 : policy 0 : iter 75
+Average score = -1.837218
+Success rate = 0.000000
+user 0102 : policy 0 : iter 100
+Average score = -2.005759
+Success rate = 0.000000
+user 0102 : policy 0 : iter 125
+Average score = -1.197520
+Success rate = 0.000000
+user 0102 : policy 0 : iter 150
+Average score = -1.165939
+Success rate = 0.000000
+user 0102 : policy 0 : iter 175
+Average score = -2.119904
+Success rate = 0.000000
+user 0102 : policy 0 : iter 200
+Average score = -2.205096
+Success rate = 0.000000
+user 0102 : policy 0 : iter 225
+Average score = -1.886486
+Success rate = 0.000000
+user 0102 : policy 0 : iter 250
+Average score = -2.194182
+Success rate = 0.000000
+user 0102 : policy 0 : iter 275
+Average score = -1.677765
+Success rate = 0.000000
+user 0102 : policy 0 : iter 300
+Average score = -2.218439
+Success rate = 0.000000
+user 0102 : policy 0 : iter 325
+Average score = -0.047680
+Success rate = 0.000000
+user 0102 : policy 0 : iter 350
+Average score = -0.552222
+Success rate = 0.000000
+user 0102 : policy 0 : iter 375
+Average score = -0.611691
+Success rate = 0.000000
+user 0102 : policy 0 : iter 400
+Average score = -0.796151
+Success rate = 0.000000
+user 0102 : policy 0 : iter 425
+Average score = 0.917624
+Success rate = 0.000000
+user 0102 : policy 0 : iter 450
+Average score = 0.314080
+Success rate = 0.000000
+user 0102 : policy 0 : iter 475
+Average score = 1.786926
+Success rate = 0.000000
+user 0102 : policy 0 : iter 500
+Average score = 1.522277
+Success rate = 0.000000
+user 0102 : policy 0 : iter 525
+Average score = 1.525982
+Success rate = 0.000000
+user 0102 : policy 0 : iter 550
+Average score = 0.737164
+Success rate = 0.000000
+user 0102 : policy 0 : iter 575
+Average score = 1.947735
+Success rate = 0.000000
+user 0102 : policy 0 : iter 600
+Average score = 3.438152
+Success rate = 0.000000
+user 0102 : policy 0 : iter 625
+Average score = 4.331050
+Success rate = 0.000000
+user 0102 : policy 0 : iter 650
+Average score = 6.495080
+Success rate = 0.000000
+user 0102 : policy 0 : iter 675
+Average score = 6.039596
+Success rate = 0.001000
+user 0102 : policy 0 : iter 700
+Average score = 10.845135
+Success rate = 0.001000
+user 0102 : policy 0 : iter 725
+Average score = 8.891837
+Success rate = 0.002000
+user 0102 : policy 0 : iter 750
+Average score = 6.076922
+Success rate = 0.000000
+user 0102 : policy 0 : iter 775
+Average score = 10.018580
+Success rate = 0.001000

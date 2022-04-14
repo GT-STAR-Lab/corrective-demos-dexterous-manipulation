@@ -1,0 +1,3621 @@
+user 0201 : policy 10_20_1 : iter 1
+Average score = -5.389469
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 2
+Average score = -4.913430
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 3
+Average score = -4.730220
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 4
+Average score = -4.749320
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 5
+Average score = -4.929651
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 6
+Average score = -4.945949
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 7
+Average score = -4.642988
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 8
+Average score = -4.462986
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 9
+Average score = -4.201222
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 10
+Average score = -4.270171
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 11
+Average score = -4.415818
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 12
+Average score = -4.103784
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 13
+Average score = -3.757926
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 14
+Average score = -4.060990
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 15
+Average score = -4.367440
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 16
+Average score = -4.292370
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 17
+Average score = -4.256873
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 18
+Average score = -4.185259
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 19
+Average score = -4.090303
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 20
+Average score = -4.297144
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 21
+Average score = -4.251980
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 22
+Average score = -4.104269
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 23
+Average score = -3.804873
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 24
+Average score = -3.947025
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 25
+Average score = -3.639598
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 26
+Average score = -3.706751
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 27
+Average score = -3.419868
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 28
+Average score = -2.615179
+Success rate = 0.001000
+user 0201 : policy 10_20_1 : iter 29
+Average score = -3.333965
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 30
+Average score = -3.066711
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 31
+Average score = -3.267864
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 32
+Average score = -3.211159
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 33
+Average score = -3.182843
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 34
+Average score = -3.304783
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 35
+Average score = -3.236202
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 36
+Average score = -2.992380
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 37
+Average score = -3.139234
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 38
+Average score = -3.235514
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 39
+Average score = -3.431436
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 40
+Average score = -2.961844
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 41
+Average score = -3.124553
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 42
+Average score = -2.911391
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 43
+Average score = -3.047587
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 44
+Average score = -3.075398
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 45
+Average score = -2.692884
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 46
+Average score = -3.075581
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 47
+Average score = -2.815006
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 48
+Average score = -1.983083
+Success rate = 0.001000
+user 0201 : policy 10_20_1 : iter 49
+Average score = -1.016888
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 50
+Average score = 1.227036
+Success rate = 0.001000
+user 0201 : policy 10_20_1 : iter 51
+Average score = 1.302860
+Success rate = 0.001000
+user 0201 : policy 10_20_1 : iter 52
+Average score = 2.375706
+Success rate = 0.001000
+user 0201 : policy 10_20_1 : iter 53
+Average score = 3.404309
+Success rate = 0.001000
+user 0201 : policy 10_20_1 : iter 54
+Average score = 4.442395
+Success rate = 0.002000
+user 0201 : policy 10_20_1 : iter 55
+Average score = 3.332619
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 56
+Average score = 6.355560
+Success rate = 0.002000
+user 0201 : policy 10_20_1 : iter 57
+Average score = 7.088922
+Success rate = 0.001000
+user 0201 : policy 10_20_1 : iter 58
+Average score = 10.521994
+Success rate = 0.005000
+user 0201 : policy 10_20_1 : iter 59
+Average score = 5.165780
+Success rate = 0.000000
+user 0201 : policy 10_20_1 : iter 60
+Average score = 3.507220
+Success rate = 0.002000
+user 0201 : policy 10_20_1 : iter 61
+Average score = 3.592543
+Success rate = 0.002000
+user 0201 : policy 10_20_1 : iter 62
+Average score = 6.202998
+Success rate = 0.001000
+user 0201 : policy 10_20_1 : iter 63
+Average score = 16.863923
+Success rate = 0.006000
+user 0201 : policy 10_20_1 : iter 64
+Average score = 13.988356
+Success rate = 0.006000
+user 0201 : policy 10_20_1 : iter 65
+Average score = 12.295367
+Success rate = 0.006000
+user 0201 : policy 10_20_1 : iter 66
+Average score = 7.452349
+Success rate = 0.004000
+user 0201 : policy 10_20_1 : iter 67
+Average score = 7.662571
+Success rate = 0.001000
+user 0201 : policy 10_20_1 : iter 68
+Average score = 11.068771
+Success rate = 0.003000
+user 0201 : policy 10_20_1 : iter 69
+Average score = 14.862148
+Success rate = 0.008000
+user 0201 : policy 10_20_1 : iter 70
+Average score = 9.526383
+Success rate = 0.003000
+user 0201 : policy 10_20_1 : iter 71
+Average score = 12.282493
+Success rate = 0.002000
+user 0201 : policy 10_20_1 : iter 72
+Average score = 17.626021
+Success rate = 0.003000
+user 0201 : policy 10_20_1 : iter 73
+Average score = 26.864806
+Success rate = 0.013000
+user 0201 : policy 10_20_1 : iter 74
+Average score = 24.931738
+Success rate = 0.007000
+user 0201 : policy 10_20_1 : iter 75
+Average score = 25.381174
+Success rate = 0.004000
+user 0201 : policy 10_20_1 : iter 76
+Average score = 30.179191
+Success rate = 0.011000
+user 0201 : policy 10_20_1 : iter 77
+Average score = 25.381726
+Success rate = 0.009000
+user 0201 : policy 10_20_1 : iter 78
+Average score = 25.670073
+Success rate = 0.006000
+user 0201 : policy 10_20_1 : iter 79
+Average score = 22.485375
+Success rate = 0.004000
+user 0201 : policy 10_20_1 : iter 80
+Average score = 20.854078
+Success rate = 0.001000
+user 0201 : policy 10_20_1 : iter 81
+Average score = 29.033825
+Success rate = 0.005000
+user 0201 : policy 10_20_1 : iter 82
+Average score = 28.874568
+Success rate = 0.002000
+user 0201 : policy 10_20_1 : iter 83
+Average score = 38.056617
+Success rate = 0.007000
+user 0201 : policy 10_20_1 : iter 84
+Average score = 50.910582
+Success rate = 0.015000
+user 0201 : policy 10_20_1 : iter 85
+Average score = 32.996130
+Success rate = 0.009000
+user 0201 : policy 10_20_1 : iter 86
+Average score = 31.622240
+Success rate = 0.003000
+user 0201 : policy 10_20_1 : iter 87
+Average score = 32.446074
+Success rate = 0.004000
+user 0201 : policy 10_20_1 : iter 88
+Average score = 52.350644
+Success rate = 0.017000
+user 0201 : policy 10_20_1 : iter 89
+Average score = 48.962139
+Success rate = 0.007000
+user 0201 : policy 10_20_1 : iter 90
+Average score = 39.028179
+Success rate = 0.005000
+user 0201 : policy 10_20_1 : iter 91
+Average score = 31.320820
+Success rate = 0.007000
+user 0201 : policy 10_20_1 : iter 92
+Average score = 26.386969
+Success rate = 0.001000
+user 0201 : policy 10_20_1 : iter 93
+Average score = 30.968793
+Success rate = 0.002000
+user 0201 : policy 10_20_1 : iter 94
+Average score = 35.777375
+Success rate = 0.008000
+user 0201 : policy 10_20_1 : iter 95
+Average score = 34.424144
+Success rate = 0.009000
+user 0201 : policy 10_20_1 : iter 96
+Average score = 33.915397
+Success rate = 0.011000
+user 0201 : policy 10_20_1 : iter 97
+Average score = 37.212625
+Success rate = 0.007000
+user 0201 : policy 10_20_1 : iter 98
+Average score = 42.423997
+Success rate = 0.009000
+user 0201 : policy 10_20_1 : iter 99
+Average score = 45.296459
+Success rate = 0.007000
+user 0201 : policy 10_20_1 : iter 100
+Average score = 44.708198
+Success rate = 0.006000
+user 0201 : policy 10_20_1 : iter 101
+Average score = 56.991442
+Success rate = 0.014000
+user 0201 : policy 10_20_1 : iter 102
+Average score = 56.913790
+Success rate = 0.008000
+user 0201 : policy 10_20_1 : iter 103
+Average score = 68.863995
+Success rate = 0.015000
+user 0201 : policy 10_20_1 : iter 104
+Average score = 64.134374
+Success rate = 0.022000
+user 0201 : policy 10_20_1 : iter 105
+Average score = 82.988850
+Success rate = 0.029000
+user 0201 : policy 10_20_1 : iter 106
+Average score = 85.118290
+Success rate = 0.030000
+user 0201 : policy 10_20_1 : iter 107
+Average score = 94.508114
+Success rate = 0.029000
+user 0201 : policy 10_20_1 : iter 108
+Average score = 90.204585
+Success rate = 0.032000
+user 0201 : policy 10_20_1 : iter 109
+Average score = 90.768651
+Success rate = 0.036000
+user 0201 : policy 10_20_1 : iter 110
+Average score = 76.983745
+Success rate = 0.028000
+user 0201 : policy 10_20_1 : iter 111
+Average score = 78.267175
+Success rate = 0.026000
+user 0201 : policy 10_20_1 : iter 112
+Average score = 83.868847
+Success rate = 0.027000
+user 0201 : policy 10_20_1 : iter 113
+Average score = 87.877128
+Success rate = 0.040000
+user 0201 : policy 10_20_1 : iter 114
+Average score = 70.397453
+Success rate = 0.022000
+user 0201 : policy 10_20_1 : iter 115
+Average score = 73.775424
+Success rate = 0.036000
+user 0201 : policy 10_20_1 : iter 116
+Average score = 69.922896
+Success rate = 0.028000
+user 0201 : policy 10_20_1 : iter 117
+Average score = 70.081955
+Success rate = 0.012000
+user 0201 : policy 10_20_1 : iter 118
+Average score = 70.554526
+Success rate = 0.018000
+user 0201 : policy 10_20_1 : iter 119
+Average score = 68.037632
+Success rate = 0.021000
+user 0201 : policy 10_20_1 : iter 120
+Average score = 70.737932
+Success rate = 0.025000
+user 0201 : policy 10_20_1 : iter 121
+Average score = 71.139504
+Success rate = 0.016000
+user 0201 : policy 10_20_1 : iter 122
+Average score = 72.289091
+Success rate = 0.026000
+user 0201 : policy 10_20_1 : iter 123
+Average score = 71.932871
+Success rate = 0.029000
+user 0201 : policy 10_20_1 : iter 124
+Average score = 70.632024
+Success rate = 0.022000
+user 0201 : policy 10_20_1 : iter 125
+Average score = 61.568151
+Success rate = 0.013000
+user 0201 : policy 10_20_1 : iter 126
+Average score = 67.244251
+Success rate = 0.019000
+user 0201 : policy 10_20_1 : iter 127
+Average score = 81.397601
+Success rate = 0.035000
+user 0201 : policy 10_20_1 : iter 128
+Average score = 62.744161
+Success rate = 0.011000
+user 0201 : policy 10_20_1 : iter 129
+Average score = 85.049904
+Success rate = 0.022000
+user 0201 : policy 10_20_1 : iter 130
+Average score = 81.581619
+Success rate = 0.027000
+user 0201 : policy 10_20_1 : iter 131
+Average score = 104.287872
+Success rate = 0.048000
+user 0201 : policy 10_20_1 : iter 132
+Average score = 104.938924
+Success rate = 0.046000
+user 0201 : policy 10_20_1 : iter 133
+Average score = 98.839467
+Success rate = 0.048000
+user 0201 : policy 10_20_1 : iter 134
+Average score = 80.408717
+Success rate = 0.037000
+user 0201 : policy 10_20_1 : iter 135
+Average score = 86.305199
+Success rate = 0.040000
+user 0201 : policy 10_20_1 : iter 136
+Average score = 80.584480
+Success rate = 0.032000
+user 0201 : policy 10_20_1 : iter 137
+Average score = 81.170576
+Success rate = 0.034000
+user 0201 : policy 10_20_1 : iter 138
+Average score = 98.475748
+Success rate = 0.052000
+user 0201 : policy 10_20_1 : iter 139
+Average score = 87.189409
+Success rate = 0.025000
+user 0201 : policy 10_20_1 : iter 140
+Average score = 72.371467
+Success rate = 0.022000
+user 0201 : policy 10_20_1 : iter 141
+Average score = 72.785947
+Success rate = 0.027000
+user 0201 : policy 10_20_1 : iter 142
+Average score = 89.179474
+Success rate = 0.038000
+user 0201 : policy 10_20_1 : iter 143
+Average score = 82.377320
+Success rate = 0.036000
+user 0201 : policy 10_20_1 : iter 144
+Average score = 80.066843
+Success rate = 0.028000
+user 0201 : policy 10_20_1 : iter 145
+Average score = 88.039703
+Success rate = 0.028000
+user 0201 : policy 10_20_1 : iter 146
+Average score = 99.660419
+Success rate = 0.051000
+user 0201 : policy 10_20_1 : iter 147
+Average score = 94.194114
+Success rate = 0.030000
+user 0201 : policy 10_20_1 : iter 148
+Average score = 110.358063
+Success rate = 0.046000
+user 0201 : policy 10_20_1 : iter 149
+Average score = 113.370562
+Success rate = 0.045000
+user 0201 : policy 10_20_1 : iter 150
+Average score = 112.052260
+Success rate = 0.058000
+user 0201 : policy 10_20_1 : iter 151
+Average score = 100.278228
+Success rate = 0.047000
+user 0201 : policy 10_20_1 : iter 152
+Average score = 119.837300
+Success rate = 0.066000
+user 0201 : policy 10_20_1 : iter 153
+Average score = 124.813015
+Success rate = 0.070000
+user 0201 : policy 10_20_1 : iter 154
+Average score = 110.047751
+Success rate = 0.058000
+user 0201 : policy 10_20_1 : iter 155
+Average score = 118.036593
+Success rate = 0.051000
+user 0201 : policy 10_20_1 : iter 156
+Average score = 113.809228
+Success rate = 0.054000
+user 0201 : policy 10_20_1 : iter 157
+Average score = 98.391726
+Success rate = 0.040000
+user 0201 : policy 10_20_1 : iter 158
+Average score = 104.802731
+Success rate = 0.057000
+user 0201 : policy 10_20_1 : iter 159
+Average score = 122.571732
+Success rate = 0.076000
+user 0201 : policy 10_20_1 : iter 160
+Average score = 127.677336
+Success rate = 0.080000
+user 0201 : policy 10_20_1 : iter 161
+Average score = 128.127246
+Success rate = 0.080000
+user 0201 : policy 10_20_1 : iter 162
+Average score = 129.623064
+Success rate = 0.070000
+user 0201 : policy 10_20_1 : iter 163
+Average score = 151.781775
+Success rate = 0.092000
+user 0201 : policy 10_20_1 : iter 164
+Average score = 146.058360
+Success rate = 0.092000
+user 0201 : policy 10_20_1 : iter 165
+Average score = 142.086974
+Success rate = 0.091000
+user 0201 : policy 10_20_1 : iter 166
+Average score = 115.263831
+Success rate = 0.066000
+user 0201 : policy 10_20_1 : iter 167
+Average score = 113.258924
+Success rate = 0.062000
+user 0201 : policy 10_20_1 : iter 168
+Average score = 130.038332
+Success rate = 0.071000
+user 0201 : policy 10_20_1 : iter 169
+Average score = 116.155871
+Success rate = 0.062000
+user 0201 : policy 10_20_1 : iter 170
+Average score = 117.275276
+Success rate = 0.062000
+user 0201 : policy 10_20_1 : iter 171
+Average score = 125.513777
+Success rate = 0.078000
+user 0201 : policy 10_20_1 : iter 172
+Average score = 136.897506
+Success rate = 0.092000
+user 0201 : policy 10_20_1 : iter 173
+Average score = 159.037819
+Success rate = 0.102000
+user 0201 : policy 10_20_1 : iter 174
+Average score = 117.745968
+Success rate = 0.057000
+user 0201 : policy 10_20_1 : iter 175
+Average score = 128.682556
+Success rate = 0.071000
+user 0201 : policy 10_20_1 : iter 176
+Average score = 151.367123
+Success rate = 0.092000
+user 0201 : policy 10_20_1 : iter 177
+Average score = 128.999001
+Success rate = 0.070000
+user 0201 : policy 10_20_1 : iter 178
+Average score = 132.017827
+Success rate = 0.076000
+user 0201 : policy 10_20_1 : iter 179
+Average score = 137.732822
+Success rate = 0.065000
+user 0201 : policy 10_20_1 : iter 180
+Average score = 145.685283
+Success rate = 0.067000
+user 0201 : policy 10_20_1 : iter 181
+Average score = 150.789478
+Success rate = 0.097000
+user 0201 : policy 10_20_1 : iter 182
+Average score = 185.381226
+Success rate = 0.116000
+user 0201 : policy 10_20_1 : iter 183
+Average score = 139.368929
+Success rate = 0.072000
+user 0201 : policy 10_20_1 : iter 184
+Average score = 114.940142
+Success rate = 0.067000
+user 0201 : policy 10_20_1 : iter 185
+Average score = 115.103964
+Success rate = 0.064000
+user 0201 : policy 10_20_1 : iter 186
+Average score = 97.900070
+Success rate = 0.045000
+user 0201 : policy 10_20_1 : iter 187
+Average score = 115.318736
+Success rate = 0.057000
+user 0201 : policy 10_20_1 : iter 188
+Average score = 91.863383
+Success rate = 0.041000
+user 0201 : policy 10_20_1 : iter 189
+Average score = 95.170685
+Success rate = 0.049000
+user 0201 : policy 10_20_1 : iter 190
+Average score = 99.729642
+Success rate = 0.047000
+user 0201 : policy 10_20_1 : iter 191
+Average score = 116.754422
+Success rate = 0.052000
+user 0201 : policy 10_20_1 : iter 192
+Average score = 101.731643
+Success rate = 0.049000
+user 0201 : policy 10_20_1 : iter 193
+Average score = 107.669483
+Success rate = 0.054000
+user 0201 : policy 10_20_1 : iter 194
+Average score = 126.839224
+Success rate = 0.077000
+user 0201 : policy 10_20_1 : iter 195
+Average score = 115.923670
+Success rate = 0.056000
+user 0201 : policy 10_20_1 : iter 196
+Average score = 122.752983
+Success rate = 0.056000
+user 0201 : policy 10_20_1 : iter 197
+Average score = 143.424307
+Success rate = 0.072000
+user 0201 : policy 10_20_1 : iter 198
+Average score = 107.356765
+Success rate = 0.050000
+user 0201 : policy 10_20_1 : iter 199
+Average score = 133.726095
+Success rate = 0.070000
+user 0201 : policy 10_20_1 : iter 200
+Average score = 97.439460
+Success rate = 0.036000
+user 0201 : policy 10_20_1 : iter 201
+Average score = 96.037981
+Success rate = 0.044000
+user 0201 : policy 10_20_1 : iter 202
+Average score = 103.822026
+Success rate = 0.063000
+user 0201 : policy 10_20_1 : iter 203
+Average score = 105.386229
+Success rate = 0.049000
+user 0201 : policy 10_20_1 : iter 204
+Average score = 96.787671
+Success rate = 0.041000
+user 0201 : policy 10_20_1 : iter 205
+Average score = 90.118657
+Success rate = 0.038000
+user 0201 : policy 10_20_1 : iter 206
+Average score = 105.964463
+Success rate = 0.055000
+user 0201 : policy 10_20_1 : iter 207
+Average score = 86.975746
+Success rate = 0.033000
+user 0201 : policy 10_20_1 : iter 208
+Average score = 89.856917
+Success rate = 0.047000
+user 0201 : policy 10_20_1 : iter 209
+Average score = 83.213751
+Success rate = 0.040000
+user 0201 : policy 10_20_1 : iter 210
+Average score = 80.308388
+Success rate = 0.036000
+user 0201 : policy 10_20_1 : iter 211
+Average score = 80.947276
+Success rate = 0.041000
+user 0201 : policy 10_20_1 : iter 212
+Average score = 94.803259
+Success rate = 0.043000
+user 0201 : policy 10_20_1 : iter 213
+Average score = 94.050661
+Success rate = 0.054000
+user 0201 : policy 10_20_1 : iter 214
+Average score = 104.642687
+Success rate = 0.052000
+user 0201 : policy 10_20_1 : iter 215
+Average score = 103.284781
+Success rate = 0.059000
+user 0201 : policy 10_20_1 : iter 216
+Average score = 95.951024
+Success rate = 0.051000
+user 0201 : policy 10_20_1 : iter 217
+Average score = 103.996632
+Success rate = 0.050000
+user 0201 : policy 10_20_1 : iter 218
+Average score = 99.078803
+Success rate = 0.045000
+user 0201 : policy 10_20_1 : iter 219
+Average score = 97.245895
+Success rate = 0.055000
+user 0201 : policy 10_20_1 : iter 220
+Average score = 106.764984
+Success rate = 0.058000
+user 0201 : policy 10_20_1 : iter 221
+Average score = 112.013969
+Success rate = 0.066000
+user 0201 : policy 10_20_1 : iter 222
+Average score = 95.893884
+Success rate = 0.050000
+user 0201 : policy 10_20_1 : iter 223
+Average score = 97.709960
+Success rate = 0.052000
+user 0201 : policy 10_20_1 : iter 224
+Average score = 98.963778
+Success rate = 0.052000
+user 0201 : policy 10_20_1 : iter 225
+Average score = 112.737008
+Success rate = 0.062000
+user 0201 : policy 10_20_1 : iter 226
+Average score = 111.827830
+Success rate = 0.063000
+user 0201 : policy 10_20_1 : iter 227
+Average score = 128.604190
+Success rate = 0.072000
+user 0201 : policy 10_20_1 : iter 228
+Average score = 157.641814
+Success rate = 0.094000
+user 0201 : policy 10_20_1 : iter 229
+Average score = 113.233764
+Success rate = 0.056000
+user 0201 : policy 10_20_1 : iter 230
+Average score = 107.138299
+Success rate = 0.056000
+user 0201 : policy 10_20_1 : iter 231
+Average score = 111.468615
+Success rate = 0.053000
+user 0201 : policy 10_20_1 : iter 232
+Average score = 88.468685
+Success rate = 0.035000
+user 0201 : policy 10_20_1 : iter 233
+Average score = 103.499320
+Success rate = 0.047000
+user 0201 : policy 10_20_1 : iter 234
+Average score = 109.308091
+Success rate = 0.057000
+user 0201 : policy 10_20_1 : iter 235
+Average score = 88.013254
+Success rate = 0.045000
+user 0201 : policy 10_20_1 : iter 236
+Average score = 100.350780
+Success rate = 0.059000
+user 0201 : policy 10_20_1 : iter 237
+Average score = 86.329919
+Success rate = 0.048000
+user 0201 : policy 10_20_1 : iter 238
+Average score = 102.792250
+Success rate = 0.058000
+user 0201 : policy 10_20_1 : iter 239
+Average score = 108.900163
+Success rate = 0.052000
+user 0201 : policy 10_20_1 : iter 240
+Average score = 79.706048
+Success rate = 0.032000
+user 0201 : policy 10_20_1 : iter 241
+Average score = 95.390205
+Success rate = 0.035000
+user 0201 : policy 10_20_1 : iter 242
+Average score = 94.679895
+Success rate = 0.049000
+user 0201 : policy 10_20_1 : iter 243
+Average score = 96.312783
+Success rate = 0.051000
+user 0201 : policy 10_20_1 : iter 244
+Average score = 119.743242
+Success rate = 0.058000
+user 0201 : policy 10_20_1 : iter 245
+Average score = 107.437088
+Success rate = 0.063000
+user 0201 : policy 10_20_1 : iter 246
+Average score = 127.649976
+Success rate = 0.071000
+user 0201 : policy 10_20_1 : iter 247
+Average score = 124.337995
+Success rate = 0.063000
+user 0201 : policy 10_20_1 : iter 248
+Average score = 106.662563
+Success rate = 0.046000
+user 0201 : policy 10_20_1 : iter 249
+Average score = 131.263762
+Success rate = 0.067000
+user 0201 : policy 10_20_1 : iter 250
+Average score = 131.202213
+Success rate = 0.064000
+user 0201 : policy 10_20_1 : iter 251
+Average score = 145.939556
+Success rate = 0.085000
+user 0201 : policy 10_20_1 : iter 252
+Average score = 142.593704
+Success rate = 0.079000
+user 0201 : policy 10_20_1 : iter 253
+Average score = 157.895581
+Success rate = 0.091000
+user 0201 : policy 10_20_1 : iter 254
+Average score = 130.670785
+Success rate = 0.065000
+user 0201 : policy 10_20_1 : iter 255
+Average score = 145.804899
+Success rate = 0.076000
+user 0201 : policy 10_20_1 : iter 256
+Average score = 148.392193
+Success rate = 0.103000
+user 0201 : policy 10_20_1 : iter 257
+Average score = 150.497896
+Success rate = 0.081000
+user 0201 : policy 10_20_1 : iter 258
+Average score = 120.318891
+Success rate = 0.077000
+user 0201 : policy 10_20_1 : iter 259
+Average score = 133.333682
+Success rate = 0.072000
+user 0201 : policy 10_20_1 : iter 260
+Average score = 150.619556
+Success rate = 0.083000
+user 0201 : policy 10_20_1 : iter 261
+Average score = 131.466892
+Success rate = 0.070000
+user 0201 : policy 10_20_1 : iter 262
+Average score = 137.405888
+Success rate = 0.083000
+user 0201 : policy 10_20_1 : iter 263
+Average score = 142.303513
+Success rate = 0.088000
+user 0201 : policy 10_20_1 : iter 264
+Average score = 160.877054
+Success rate = 0.093000
+user 0201 : policy 10_20_1 : iter 265
+Average score = 160.302730
+Success rate = 0.095000
+user 0201 : policy 10_20_1 : iter 266
+Average score = 156.950043
+Success rate = 0.100000
+user 0201 : policy 10_20_1 : iter 267
+Average score = 124.442896
+Success rate = 0.073000
+user 0201 : policy 10_20_1 : iter 268
+Average score = 123.125241
+Success rate = 0.080000
+user 0201 : policy 10_20_1 : iter 269
+Average score = 111.308127
+Success rate = 0.051000
+user 0201 : policy 10_20_1 : iter 270
+Average score = 120.849989
+Success rate = 0.060000
+user 0201 : policy 10_20_1 : iter 271
+Average score = 117.884050
+Success rate = 0.058000
+user 0201 : policy 10_20_1 : iter 272
+Average score = 127.496927
+Success rate = 0.069000
+user 0201 : policy 10_20_1 : iter 273
+Average score = 118.678952
+Success rate = 0.054000
+user 0201 : policy 10_20_1 : iter 274
+Average score = 133.774874
+Success rate = 0.081000
+user 0201 : policy 10_20_1 : iter 275
+Average score = 117.257860
+Success rate = 0.066000
+user 0201 : policy 10_20_1 : iter 276
+Average score = 133.274968
+Success rate = 0.092000
+user 0201 : policy 10_20_1 : iter 277
+Average score = 107.842092
+Success rate = 0.068000
+user 0201 : policy 10_20_1 : iter 278
+Average score = 127.943815
+Success rate = 0.079000
+user 0201 : policy 10_20_1 : iter 279
+Average score = 161.725315
+Success rate = 0.115000
+user 0201 : policy 10_20_1 : iter 280
+Average score = 182.596783
+Success rate = 0.124000
+user 0201 : policy 10_20_1 : iter 281
+Average score = 167.664092
+Success rate = 0.111000
+user 0201 : policy 10_20_1 : iter 282
+Average score = 162.679383
+Success rate = 0.105000
+user 0201 : policy 10_20_1 : iter 283
+Average score = 172.289410
+Success rate = 0.119000
+user 0201 : policy 10_20_1 : iter 284
+Average score = 177.672504
+Success rate = 0.126000
+user 0201 : policy 10_20_1 : iter 285
+Average score = 164.627671
+Success rate = 0.105000
+user 0201 : policy 10_20_1 : iter 286
+Average score = 174.898204
+Success rate = 0.108000
+user 0201 : policy 10_20_1 : iter 287
+Average score = 154.917813
+Success rate = 0.104000
+user 0201 : policy 10_20_1 : iter 288
+Average score = 187.802139
+Success rate = 0.138000
+user 0201 : policy 10_20_1 : iter 289
+Average score = 180.001263
+Success rate = 0.131000
+user 0201 : policy 10_20_1 : iter 290
+Average score = 184.522964
+Success rate = 0.140000
+user 0201 : policy 10_20_1 : iter 291
+Average score = 190.098602
+Success rate = 0.149000
+user 0201 : policy 10_20_1 : iter 292
+Average score = 238.633695
+Success rate = 0.199000
+user 0201 : policy 10_20_1 : iter 293
+Average score = 229.477854
+Success rate = 0.189000
+user 0201 : policy 10_20_1 : iter 294
+Average score = 212.530595
+Success rate = 0.160000
+user 0201 : policy 10_20_1 : iter 295
+Average score = 258.155066
+Success rate = 0.212000
+user 0201 : policy 10_20_1 : iter 296
+Average score = 241.598339
+Success rate = 0.183000
+user 0201 : policy 10_20_1 : iter 297
+Average score = 212.021826
+Success rate = 0.164000
+user 0201 : policy 10_20_1 : iter 298
+Average score = 215.511788
+Success rate = 0.159000
+user 0201 : policy 10_20_1 : iter 299
+Average score = 224.856659
+Success rate = 0.186000
+user 0201 : policy 10_20_1 : iter 300
+Average score = 235.462462
+Success rate = 0.187000
+user 0201 : policy 10_20_1 : iter 301
+Average score = 234.117525
+Success rate = 0.188000
+user 0201 : policy 10_20_1 : iter 302
+Average score = 256.671840
+Success rate = 0.194000
+user 0201 : policy 10_20_1 : iter 303
+Average score = 230.346602
+Success rate = 0.197000
+user 0201 : policy 10_20_1 : iter 304
+Average score = 224.341091
+Success rate = 0.177000
+user 0201 : policy 10_20_1 : iter 305
+Average score = 223.896192
+Success rate = 0.177000
+user 0201 : policy 10_20_1 : iter 306
+Average score = 215.583264
+Success rate = 0.160000
+user 0201 : policy 10_20_1 : iter 307
+Average score = 175.603620
+Success rate = 0.118000
+user 0201 : policy 10_20_1 : iter 308
+Average score = 219.202345
+Success rate = 0.151000
+user 0201 : policy 10_20_1 : iter 309
+Average score = 240.807576
+Success rate = 0.169000
+user 0201 : policy 10_20_1 : iter 310
+Average score = 247.626064
+Success rate = 0.174000
+user 0201 : policy 10_20_1 : iter 311
+Average score = 203.538095
+Success rate = 0.136000
+user 0201 : policy 10_20_1 : iter 312
+Average score = 240.421400
+Success rate = 0.150000
+user 0201 : policy 10_20_1 : iter 313
+Average score = 270.620272
+Success rate = 0.198000
+user 0201 : policy 10_20_1 : iter 314
+Average score = 273.222032
+Success rate = 0.205000
+user 0201 : policy 10_20_1 : iter 315
+Average score = 289.273217
+Success rate = 0.223000
+user 0201 : policy 10_20_1 : iter 316
+Average score = 315.729209
+Success rate = 0.261000
+user 0201 : policy 10_20_1 : iter 317
+Average score = 285.097967
+Success rate = 0.216000
+user 0201 : policy 10_20_1 : iter 318
+Average score = 282.345311
+Success rate = 0.216000
+user 0201 : policy 10_20_1 : iter 319
+Average score = 259.271450
+Success rate = 0.185000
+user 0201 : policy 10_20_1 : iter 320
+Average score = 350.644169
+Success rate = 0.256000
+user 0201 : policy 10_20_1 : iter 321
+Average score = 325.728418
+Success rate = 0.271000
+user 0201 : policy 10_20_1 : iter 322
+Average score = 364.315957
+Success rate = 0.288000
+user 0201 : policy 10_20_1 : iter 323
+Average score = 349.072896
+Success rate = 0.303000
+user 0201 : policy 10_20_1 : iter 324
+Average score = 334.922167
+Success rate = 0.245000
+user 0201 : policy 10_20_1 : iter 325
+Average score = 331.166811
+Success rate = 0.233000
+user 0201 : policy 10_20_1 : iter 326
+Average score = 310.793172
+Success rate = 0.235000
+user 0201 : policy 10_20_1 : iter 327
+Average score = 364.649870
+Success rate = 0.262000
+user 0201 : policy 10_20_1 : iter 328
+Average score = 381.084120
+Success rate = 0.291000
+user 0201 : policy 10_20_1 : iter 329
+Average score = 368.704744
+Success rate = 0.279000
+user 0201 : policy 10_20_1 : iter 330
+Average score = 352.447827
+Success rate = 0.266000
+user 0201 : policy 10_20_1 : iter 331
+Average score = 336.851981
+Success rate = 0.246000
+user 0201 : policy 10_20_1 : iter 332
+Average score = 351.484801
+Success rate = 0.266000
+user 0201 : policy 10_20_1 : iter 333
+Average score = 303.937496
+Success rate = 0.249000
+user 0201 : policy 10_20_1 : iter 334
+Average score = 299.940401
+Success rate = 0.228000
+user 0201 : policy 10_20_1 : iter 335
+Average score = 280.069944
+Success rate = 0.218000
+user 0201 : policy 10_20_1 : iter 336
+Average score = 299.456140
+Success rate = 0.243000
+user 0201 : policy 10_20_1 : iter 337
+Average score = 313.758625
+Success rate = 0.245000
+user 0201 : policy 10_20_1 : iter 338
+Average score = 338.724888
+Success rate = 0.247000
+user 0201 : policy 10_20_1 : iter 339
+Average score = 304.615113
+Success rate = 0.247000
+user 0201 : policy 10_20_1 : iter 340
+Average score = 342.119624
+Success rate = 0.270000
+user 0201 : policy 10_20_1 : iter 341
+Average score = 379.532491
+Success rate = 0.301000
+user 0201 : policy 10_20_1 : iter 342
+Average score = 376.825370
+Success rate = 0.314000
+user 0201 : policy 10_20_1 : iter 343
+Average score = 376.526939
+Success rate = 0.305000
+user 0201 : policy 10_20_1 : iter 344
+Average score = 392.584998
+Success rate = 0.305000
+user 0201 : policy 10_20_1 : iter 345
+Average score = 444.065786
+Success rate = 0.347000
+user 0201 : policy 10_20_1 : iter 346
+Average score = 393.733841
+Success rate = 0.331000
+user 0201 : policy 10_20_1 : iter 347
+Average score = 452.835747
+Success rate = 0.359000
+user 0201 : policy 10_20_1 : iter 348
+Average score = 485.239806
+Success rate = 0.380000
+user 0201 : policy 10_20_1 : iter 349
+Average score = 456.733358
+Success rate = 0.340000
+user 0201 : policy 10_20_1 : iter 350
+Average score = 485.300649
+Success rate = 0.378000
+user 0201 : policy 10_20_1 : iter 351
+Average score = 438.758423
+Success rate = 0.329000
+user 0201 : policy 10_20_1 : iter 352
+Average score = 430.763937
+Success rate = 0.338000
+user 0201 : policy 10_20_1 : iter 353
+Average score = 388.862655
+Success rate = 0.301000
+user 0201 : policy 10_20_1 : iter 354
+Average score = 398.462478
+Success rate = 0.311000
+user 0201 : policy 10_20_1 : iter 355
+Average score = 393.552151
+Success rate = 0.310000
+user 0201 : policy 10_20_1 : iter 356
+Average score = 407.834688
+Success rate = 0.306000
+user 0201 : policy 10_20_1 : iter 357
+Average score = 408.989930
+Success rate = 0.326000
+user 0201 : policy 10_20_1 : iter 358
+Average score = 440.487638
+Success rate = 0.318000
+user 0201 : policy 10_20_1 : iter 359
+Average score = 409.623954
+Success rate = 0.292000
+user 0201 : policy 10_20_1 : iter 360
+Average score = 423.198777
+Success rate = 0.336000
+user 0201 : policy 10_20_1 : iter 361
+Average score = 410.501251
+Success rate = 0.312000
+user 0201 : policy 10_20_1 : iter 362
+Average score = 389.780257
+Success rate = 0.303000
+user 0201 : policy 10_20_1 : iter 363
+Average score = 378.345360
+Success rate = 0.301000
+user 0201 : policy 10_20_1 : iter 364
+Average score = 414.847209
+Success rate = 0.322000
+user 0201 : policy 10_20_1 : iter 365
+Average score = 459.733680
+Success rate = 0.360000
+user 0201 : policy 10_20_1 : iter 366
+Average score = 470.343931
+Success rate = 0.356000
+user 0201 : policy 10_20_1 : iter 367
+Average score = 444.843921
+Success rate = 0.326000
+user 0201 : policy 10_20_1 : iter 368
+Average score = 398.059327
+Success rate = 0.300000
+user 0201 : policy 10_20_1 : iter 369
+Average score = 511.275997
+Success rate = 0.376000
+user 0201 : policy 10_20_1 : iter 370
+Average score = 495.534844
+Success rate = 0.384000
+user 0201 : policy 10_20_1 : iter 371
+Average score = 416.279027
+Success rate = 0.337000
+user 0201 : policy 10_20_1 : iter 372
+Average score = 407.052275
+Success rate = 0.332000
+user 0201 : policy 10_20_1 : iter 373
+Average score = 437.371122
+Success rate = 0.340000
+user 0201 : policy 10_20_1 : iter 374
+Average score = 484.609168
+Success rate = 0.368000
+user 0201 : policy 10_20_1 : iter 375
+Average score = 430.066990
+Success rate = 0.319000
+user 0201 : policy 10_20_1 : iter 376
+Average score = 373.870529
+Success rate = 0.275000
+user 0201 : policy 10_20_1 : iter 377
+Average score = 378.410755
+Success rate = 0.284000
+user 0201 : policy 10_20_1 : iter 378
+Average score = 416.991164
+Success rate = 0.320000
+user 0201 : policy 10_20_1 : iter 379
+Average score = 413.146406
+Success rate = 0.341000
+user 0201 : policy 10_20_1 : iter 380
+Average score = 456.685752
+Success rate = 0.350000
+user 0201 : policy 10_20_1 : iter 381
+Average score = 410.419392
+Success rate = 0.320000
+user 0201 : policy 10_20_1 : iter 382
+Average score = 373.332215
+Success rate = 0.260000
+user 0201 : policy 10_20_1 : iter 383
+Average score = 365.244299
+Success rate = 0.258000
+user 0201 : policy 10_20_1 : iter 384
+Average score = 327.798036
+Success rate = 0.233000
+user 0201 : policy 10_20_1 : iter 385
+Average score = 360.680386
+Success rate = 0.276000
+user 0201 : policy 10_20_1 : iter 386
+Average score = 428.535821
+Success rate = 0.337000
+user 0201 : policy 10_20_1 : iter 387
+Average score = 372.285681
+Success rate = 0.297000
+user 0201 : policy 10_20_1 : iter 388
+Average score = 408.247104
+Success rate = 0.330000
+user 0201 : policy 10_20_1 : iter 389
+Average score = 445.495645
+Success rate = 0.364000
+user 0201 : policy 10_20_1 : iter 390
+Average score = 496.964662
+Success rate = 0.399000
+user 0201 : policy 10_20_1 : iter 391
+Average score = 555.021958
+Success rate = 0.413000
+user 0201 : policy 10_20_1 : iter 392
+Average score = 502.719144
+Success rate = 0.383000
+user 0201 : policy 10_20_1 : iter 393
+Average score = 484.738835
+Success rate = 0.374000
+user 0201 : policy 10_20_1 : iter 394
+Average score = 568.536842
+Success rate = 0.393000
+user 0201 : policy 10_20_1 : iter 395
+Average score = 541.430456
+Success rate = 0.422000
+user 0201 : policy 10_20_1 : iter 396
+Average score = 529.210106
+Success rate = 0.437000
+user 0201 : policy 10_20_1 : iter 397
+Average score = 508.173170
+Success rate = 0.421000
+user 0201 : policy 10_20_1 : iter 398
+Average score = 444.592134
+Success rate = 0.374000
+user 0201 : policy 10_20_1 : iter 399
+Average score = 451.593049
+Success rate = 0.360000
+user 0201 : policy 10_20_1 : iter 400
+Average score = 515.921284
+Success rate = 0.403000
+user 0201 : policy 10_20_1 : iter 401
+Average score = 578.263230
+Success rate = 0.436000
+user 0201 : policy 10_20_1 : iter 402
+Average score = 518.975090
+Success rate = 0.405000
+user 0201 : policy 10_20_1 : iter 403
+Average score = 540.753932
+Success rate = 0.408000
+user 0201 : policy 10_20_1 : iter 404
+Average score = 515.289166
+Success rate = 0.422000
+user 0201 : policy 10_20_1 : iter 405
+Average score = 561.353450
+Success rate = 0.433000
+user 0201 : policy 10_20_1 : iter 406
+Average score = 585.087657
+Success rate = 0.467000
+user 0201 : policy 10_20_1 : iter 407
+Average score = 511.059589
+Success rate = 0.416000
+user 0201 : policy 10_20_1 : iter 408
+Average score = 561.739973
+Success rate = 0.444000
+user 0201 : policy 10_20_1 : iter 409
+Average score = 571.611775
+Success rate = 0.452000
+user 0201 : policy 10_20_1 : iter 410
+Average score = 603.534493
+Success rate = 0.472000
+user 0201 : policy 10_20_1 : iter 411
+Average score = 560.223017
+Success rate = 0.427000
+user 0201 : policy 10_20_1 : iter 412
+Average score = 557.887074
+Success rate = 0.422000
+user 0201 : policy 10_20_1 : iter 413
+Average score = 641.849431
+Success rate = 0.489000
+user 0201 : policy 10_20_1 : iter 414
+Average score = 600.290882
+Success rate = 0.457000
+user 0201 : policy 10_20_1 : iter 415
+Average score = 542.566565
+Success rate = 0.415000
+user 0201 : policy 10_20_1 : iter 416
+Average score = 589.744679
+Success rate = 0.445000
+user 0201 : policy 10_20_1 : iter 417
+Average score = 656.527810
+Success rate = 0.506000
+user 0201 : policy 10_20_1 : iter 418
+Average score = 657.162713
+Success rate = 0.508000
+user 0201 : policy 10_20_1 : iter 419
+Average score = 692.106693
+Success rate = 0.534000
+user 0201 : policy 10_20_1 : iter 420
+Average score = 708.024517
+Success rate = 0.542000
+user 0201 : policy 10_20_1 : iter 421
+Average score = 768.263522
+Success rate = 0.572000
+user 0201 : policy 10_20_1 : iter 422
+Average score = 701.119311
+Success rate = 0.513000
+user 0201 : policy 10_20_1 : iter 423
+Average score = 691.359707
+Success rate = 0.522000
+user 0201 : policy 10_20_1 : iter 424
+Average score = 739.777213
+Success rate = 0.540000
+user 0201 : policy 10_20_1 : iter 425
+Average score = 667.749231
+Success rate = 0.502000
+user 0201 : policy 10_20_1 : iter 426
+Average score = 643.243280
+Success rate = 0.500000
+user 0201 : policy 10_20_1 : iter 427
+Average score = 765.443211
+Success rate = 0.583000
+user 0201 : policy 10_20_1 : iter 428
+Average score = 793.489854
+Success rate = 0.617000
+user 0201 : policy 10_20_1 : iter 429
+Average score = 790.254931
+Success rate = 0.580000
+user 0201 : policy 10_20_1 : iter 430
+Average score = 701.581813
+Success rate = 0.488000
+user 0201 : policy 10_20_1 : iter 431
+Average score = 784.845456
+Success rate = 0.574000
+user 0201 : policy 10_20_1 : iter 432
+Average score = 742.482530
+Success rate = 0.531000
+user 0201 : policy 10_20_1 : iter 433
+Average score = 660.845346
+Success rate = 0.534000
+user 0201 : policy 10_20_1 : iter 434
+Average score = 727.547034
+Success rate = 0.538000
+user 0201 : policy 10_20_1 : iter 435
+Average score = 591.251134
+Success rate = 0.441000
+user 0201 : policy 10_20_1 : iter 436
+Average score = 550.925037
+Success rate = 0.423000
+user 0201 : policy 10_20_1 : iter 437
+Average score = 603.455090
+Success rate = 0.519000
+user 0201 : policy 10_20_1 : iter 438
+Average score = 587.587140
+Success rate = 0.490000
+user 0201 : policy 10_20_1 : iter 439
+Average score = 596.022385
+Success rate = 0.422000
+user 0201 : policy 10_20_1 : iter 440
+Average score = 609.002125
+Success rate = 0.490000
+user 0201 : policy 10_20_1 : iter 441
+Average score = 717.655663
+Success rate = 0.541000
+user 0201 : policy 10_20_1 : iter 442
+Average score = 677.466374
+Success rate = 0.513000
+user 0201 : policy 10_20_1 : iter 443
+Average score = 714.965187
+Success rate = 0.557000
+user 0201 : policy 10_20_1 : iter 444
+Average score = 737.979681
+Success rate = 0.581000
+user 0201 : policy 10_20_1 : iter 445
+Average score = 678.997027
+Success rate = 0.555000
+user 0201 : policy 10_20_1 : iter 446
+Average score = 714.632305
+Success rate = 0.559000
+user 0201 : policy 10_20_1 : iter 447
+Average score = 799.547366
+Success rate = 0.579000
+user 0201 : policy 10_20_1 : iter 448
+Average score = 669.958858
+Success rate = 0.521000
+user 0201 : policy 10_20_1 : iter 449
+Average score = 706.189643
+Success rate = 0.551000
+user 0201 : policy 10_20_1 : iter 450
+Average score = 754.685981
+Success rate = 0.569000
+user 0201 : policy 10_20_1 : iter 451
+Average score = 684.589191
+Success rate = 0.545000
+user 0201 : policy 10_20_1 : iter 452
+Average score = 753.748112
+Success rate = 0.578000
+user 0201 : policy 10_20_1 : iter 453
+Average score = 772.685417
+Success rate = 0.571000
+user 0201 : policy 10_20_1 : iter 454
+Average score = 717.188532
+Success rate = 0.500000
+user 0201 : policy 10_20_1 : iter 455
+Average score = 815.381502
+Success rate = 0.587000
+user 0201 : policy 10_20_1 : iter 456
+Average score = 779.625571
+Success rate = 0.555000
+user 0201 : policy 10_20_1 : iter 457
+Average score = 726.774497
+Success rate = 0.505000
+user 0201 : policy 10_20_1 : iter 458
+Average score = 765.636253
+Success rate = 0.560000
+user 0201 : policy 10_20_1 : iter 459
+Average score = 759.996366
+Success rate = 0.538000
+user 0201 : policy 10_20_1 : iter 460
+Average score = 783.214297
+Success rate = 0.538000
+user 0201 : policy 10_20_1 : iter 461
+Average score = 821.963621
+Success rate = 0.568000
+user 0201 : policy 10_20_1 : iter 462
+Average score = 696.993734
+Success rate = 0.491000
+user 0201 : policy 10_20_1 : iter 463
+Average score = 813.262834
+Success rate = 0.587000
+user 0201 : policy 10_20_1 : iter 464
+Average score = 845.694213
+Success rate = 0.587000
+user 0201 : policy 10_20_1 : iter 465
+Average score = 824.672539
+Success rate = 0.536000
+user 0201 : policy 10_20_1 : iter 466
+Average score = 945.361172
+Success rate = 0.627000
+user 0201 : policy 10_20_1 : iter 467
+Average score = 765.379088
+Success rate = 0.506000
+user 0201 : policy 10_20_1 : iter 468
+Average score = 780.012853
+Success rate = 0.516000
+user 0201 : policy 10_20_1 : iter 469
+Average score = 810.530443
+Success rate = 0.556000
+user 0201 : policy 10_20_1 : iter 470
+Average score = 907.072296
+Success rate = 0.596000
+user 0201 : policy 10_20_1 : iter 471
+Average score = 755.621912
+Success rate = 0.514000
+user 0201 : policy 10_20_1 : iter 472
+Average score = 864.837794
+Success rate = 0.551000
+user 0201 : policy 10_20_1 : iter 473
+Average score = 1018.751336
+Success rate = 0.644000
+user 0201 : policy 10_20_1 : iter 474
+Average score = 917.937214
+Success rate = 0.630000
+user 0201 : policy 10_20_1 : iter 475
+Average score = 858.350805
+Success rate = 0.582000
+user 0201 : policy 10_20_1 : iter 476
+Average score = 867.750793
+Success rate = 0.632000
+user 0201 : policy 10_20_1 : iter 477
+Average score = 845.215883
+Success rate = 0.632000
+user 0201 : policy 10_20_1 : iter 478
+Average score = 893.493320
+Success rate = 0.632000
+user 0201 : policy 10_20_1 : iter 479
+Average score = 919.922261
+Success rate = 0.657000
+user 0201 : policy 10_20_1 : iter 480
+Average score = 988.970428
+Success rate = 0.696000
+user 0201 : policy 10_20_1 : iter 481
+Average score = 980.521193
+Success rate = 0.681000
+user 0201 : policy 10_20_1 : iter 482
+Average score = 999.579954
+Success rate = 0.688000
+user 0201 : policy 10_20_1 : iter 483
+Average score = 953.446589
+Success rate = 0.709000
+user 0201 : policy 10_20_1 : iter 484
+Average score = 921.243083
+Success rate = 0.665000
+user 0201 : policy 10_20_1 : iter 485
+Average score = 956.434079
+Success rate = 0.685000
+user 0201 : policy 10_20_1 : iter 486
+Average score = 959.072040
+Success rate = 0.666000
+user 0201 : policy 10_20_1 : iter 487
+Average score = 923.415725
+Success rate = 0.668000
+user 0201 : policy 10_20_1 : iter 488
+Average score = 1018.316806
+Success rate = 0.733000
+user 0201 : policy 10_20_1 : iter 489
+Average score = 932.148133
+Success rate = 0.654000
+user 0201 : policy 10_20_1 : iter 490
+Average score = 974.745706
+Success rate = 0.683000
+user 0201 : policy 10_20_1 : iter 491
+Average score = 1006.663903
+Success rate = 0.692000
+user 0201 : policy 10_20_1 : iter 492
+Average score = 1152.747717
+Success rate = 0.742000
+user 0201 : policy 10_20_1 : iter 493
+Average score = 1008.306379
+Success rate = 0.663000
+user 0201 : policy 10_20_1 : iter 494
+Average score = 982.991550
+Success rate = 0.696000
+user 0201 : policy 10_20_1 : iter 495
+Average score = 968.521106
+Success rate = 0.682000
+user 0201 : policy 10_20_1 : iter 496
+Average score = 983.751635
+Success rate = 0.686000
+user 0201 : policy 10_20_1 : iter 497
+Average score = 1005.787252
+Success rate = 0.660000
+user 0201 : policy 10_20_1 : iter 498
+Average score = 1089.930696
+Success rate = 0.720000
+user 0201 : policy 10_20_1 : iter 499
+Average score = 997.344572
+Success rate = 0.674000
+user 0201 : policy 10_20_1 : iter 500
+Average score = 1071.551269
+Success rate = 0.685000
+user 0201 : policy 10_20_1 : iter 501
+Average score = 1078.269737
+Success rate = 0.691000
+user 0201 : policy 10_20_1 : iter 502
+Average score = 1165.626640
+Success rate = 0.715000
+user 0201 : policy 10_20_1 : iter 503
+Average score = 1144.354911
+Success rate = 0.705000
+user 0201 : policy 10_20_1 : iter 504
+Average score = 1227.529845
+Success rate = 0.759000
+user 0201 : policy 10_20_1 : iter 505
+Average score = 1207.461212
+Success rate = 0.731000
+user 0201 : policy 10_20_1 : iter 506
+Average score = 1141.797507
+Success rate = 0.749000
+user 0201 : policy 10_20_1 : iter 507
+Average score = 1089.936439
+Success rate = 0.714000
+user 0201 : policy 10_20_1 : iter 508
+Average score = 1171.614161
+Success rate = 0.711000
+user 0201 : policy 10_20_1 : iter 509
+Average score = 1061.036109
+Success rate = 0.650000
+user 0201 : policy 10_20_1 : iter 510
+Average score = 1227.114500
+Success rate = 0.719000
+user 0201 : policy 10_20_1 : iter 511
+Average score = 1171.750343
+Success rate = 0.717000
+user 0201 : policy 10_20_1 : iter 512
+Average score = 939.003814
+Success rate = 0.588000
+user 0201 : policy 10_20_1 : iter 513
+Average score = 1117.284040
+Success rate = 0.649000
+user 0201 : policy 10_20_1 : iter 514
+Average score = 1161.760133
+Success rate = 0.700000
+user 0201 : policy 10_20_1 : iter 515
+Average score = 1088.274364
+Success rate = 0.664000
+user 0201 : policy 10_20_1 : iter 516
+Average score = 891.174584
+Success rate = 0.575000
+user 0201 : policy 10_20_1 : iter 517
+Average score = 959.993844
+Success rate = 0.639000
+user 0201 : policy 10_20_1 : iter 518
+Average score = 1086.269375
+Success rate = 0.733000
+user 0201 : policy 10_20_1 : iter 519
+Average score = 1095.908667
+Success rate = 0.685000
+user 0201 : policy 10_20_1 : iter 520
+Average score = 1039.676442
+Success rate = 0.668000
+user 0201 : policy 10_20_1 : iter 521
+Average score = 1016.175051
+Success rate = 0.623000
+user 0201 : policy 10_20_1 : iter 522
+Average score = 972.219390
+Success rate = 0.602000
+user 0201 : policy 10_20_1 : iter 523
+Average score = 748.738391
+Success rate = 0.457000
+user 0201 : policy 10_20_1 : iter 524
+Average score = 994.361745
+Success rate = 0.635000
+user 0201 : policy 10_20_1 : iter 525
+Average score = 1226.078990
+Success rate = 0.749000
+user 0201 : policy 10_20_1 : iter 526
+Average score = 1069.759265
+Success rate = 0.646000
+user 0201 : policy 10_20_1 : iter 527
+Average score = 1118.456492
+Success rate = 0.691000
+user 0201 : policy 10_20_1 : iter 528
+Average score = 1170.351482
+Success rate = 0.733000
+user 0201 : policy 10_20_1 : iter 529
+Average score = 1094.221944
+Success rate = 0.707000
+user 0201 : policy 10_20_1 : iter 530
+Average score = 1267.509933
+Success rate = 0.763000
+user 0201 : policy 10_20_1 : iter 531
+Average score = 970.828057
+Success rate = 0.618000
+user 0201 : policy 10_20_1 : iter 532
+Average score = 1116.767991
+Success rate = 0.676000
+user 0201 : policy 10_20_1 : iter 533
+Average score = 1161.860646
+Success rate = 0.708000
+user 0201 : policy 10_20_1 : iter 534
+Average score = 943.331058
+Success rate = 0.601000
+user 0201 : policy 10_20_1 : iter 535
+Average score = 1177.938471
+Success rate = 0.735000
+user 0201 : policy 10_20_1 : iter 536
+Average score = 1356.156157
+Success rate = 0.793000
+user 0201 : policy 10_20_1 : iter 537
+Average score = 1133.786169
+Success rate = 0.681000
+user 0201 : policy 10_20_1 : iter 538
+Average score = 1332.834721
+Success rate = 0.784000
+user 0201 : policy 10_20_1 : iter 539
+Average score = 1052.056611
+Success rate = 0.622000
+user 0201 : policy 10_20_1 : iter 540
+Average score = 1333.150991
+Success rate = 0.779000
+user 0201 : policy 10_20_1 : iter 541
+Average score = 1326.699875
+Success rate = 0.811000
+user 0201 : policy 10_20_1 : iter 542
+Average score = 1121.635081
+Success rate = 0.648000
+user 0201 : policy 10_20_1 : iter 543
+Average score = 1221.538345
+Success rate = 0.743000
+user 0201 : policy 10_20_1 : iter 544
+Average score = 854.106492
+Success rate = 0.533000
+user 0201 : policy 10_20_1 : iter 545
+Average score = 967.254803
+Success rate = 0.630000
+user 0201 : policy 10_20_1 : iter 546
+Average score = 1171.984846
+Success rate = 0.734000
+user 0201 : policy 10_20_1 : iter 547
+Average score = 859.327566
+Success rate = 0.530000
+user 0201 : policy 10_20_1 : iter 548
+Average score = 845.913642
+Success rate = 0.544000
+user 0201 : policy 10_20_1 : iter 549
+Average score = 799.042588
+Success rate = 0.488000
+user 0201 : policy 10_20_1 : iter 550
+Average score = 1113.784482
+Success rate = 0.698000
+user 0201 : policy 10_20_1 : iter 551
+Average score = 1151.226839
+Success rate = 0.720000
+user 0201 : policy 10_20_1 : iter 552
+Average score = 1235.691369
+Success rate = 0.714000
+user 0201 : policy 10_20_1 : iter 553
+Average score = 1146.715502
+Success rate = 0.622000
+user 0201 : policy 10_20_1 : iter 554
+Average score = 1261.231158
+Success rate = 0.742000
+user 0201 : policy 10_20_1 : iter 555
+Average score = 832.855767
+Success rate = 0.494000
+user 0201 : policy 10_20_1 : iter 556
+Average score = 1171.431125
+Success rate = 0.721000
+user 0201 : policy 10_20_1 : iter 557
+Average score = 1082.541763
+Success rate = 0.673000
+user 0201 : policy 10_20_1 : iter 558
+Average score = 1007.119091
+Success rate = 0.655000
+user 0201 : policy 10_20_1 : iter 559
+Average score = 1096.074221
+Success rate = 0.678000
+user 0201 : policy 10_20_1 : iter 560
+Average score = 964.792100
+Success rate = 0.562000
+user 0201 : policy 10_20_1 : iter 561
+Average score = 1043.375588
+Success rate = 0.624000
+user 0201 : policy 10_20_1 : iter 562
+Average score = 795.016072
+Success rate = 0.482000
+user 0201 : policy 10_20_1 : iter 563
+Average score = 874.254124
+Success rate = 0.538000
+user 0201 : policy 10_20_1 : iter 564
+Average score = 1101.120634
+Success rate = 0.687000
+user 0201 : policy 10_20_1 : iter 565
+Average score = 1214.148087
+Success rate = 0.735000
+user 0201 : policy 10_20_1 : iter 566
+Average score = 1351.405619
+Success rate = 0.795000
+user 0201 : policy 10_20_1 : iter 567
+Average score = 1291.444937
+Success rate = 0.750000
+user 0201 : policy 10_20_1 : iter 568
+Average score = 1490.470169
+Success rate = 0.834000
+user 0201 : policy 10_20_1 : iter 569
+Average score = 1207.560301
+Success rate = 0.708000
+user 0201 : policy 10_20_1 : iter 570
+Average score = 1374.058387
+Success rate = 0.815000
+user 0201 : policy 10_20_1 : iter 571
+Average score = 1321.595261
+Success rate = 0.774000
+user 0201 : policy 10_20_1 : iter 572
+Average score = 1335.586565
+Success rate = 0.802000
+user 0201 : policy 10_20_1 : iter 573
+Average score = 1191.464547
+Success rate = 0.707000
+user 0201 : policy 10_20_1 : iter 574
+Average score = 1387.859955
+Success rate = 0.809000
+user 0201 : policy 10_20_1 : iter 575
+Average score = 1219.165465
+Success rate = 0.722000
+user 0201 : policy 10_20_1 : iter 576
+Average score = 1283.734895
+Success rate = 0.766000
+user 0201 : policy 10_20_1 : iter 577
+Average score = 1315.639485
+Success rate = 0.768000
+user 0201 : policy 10_20_1 : iter 578
+Average score = 1364.308687
+Success rate = 0.747000
+user 0201 : policy 10_20_1 : iter 579
+Average score = 1059.157264
+Success rate = 0.615000
+user 0201 : policy 10_20_1 : iter 580
+Average score = 1385.285906
+Success rate = 0.788000
+user 0201 : policy 10_20_1 : iter 581
+Average score = 1192.993017
+Success rate = 0.712000
+user 0201 : policy 10_20_1 : iter 582
+Average score = 1135.484985
+Success rate = 0.715000
+user 0201 : policy 10_20_1 : iter 583
+Average score = 849.479912
+Success rate = 0.517000
+user 0201 : policy 10_20_1 : iter 584
+Average score = 1078.382682
+Success rate = 0.611000
+user 0201 : policy 10_20_1 : iter 585
+Average score = 1325.670646
+Success rate = 0.734000
+user 0201 : policy 10_20_1 : iter 586
+Average score = 1504.419205
+Success rate = 0.842000
+user 0201 : policy 10_20_1 : iter 587
+Average score = 1370.817429
+Success rate = 0.716000
+user 0201 : policy 10_20_1 : iter 588
+Average score = 1412.289541
+Success rate = 0.757000
+user 0201 : policy 10_20_1 : iter 589
+Average score = 1318.608826
+Success rate = 0.781000
+user 0201 : policy 10_20_1 : iter 590
+Average score = 1346.093406
+Success rate = 0.767000
+user 0201 : policy 10_20_1 : iter 591
+Average score = 1317.753710
+Success rate = 0.783000
+user 0201 : policy 10_20_1 : iter 592
+Average score = 1149.549354
+Success rate = 0.654000
+user 0201 : policy 10_20_1 : iter 593
+Average score = 1467.313010
+Success rate = 0.845000
+user 0201 : policy 10_20_1 : iter 594
+Average score = 1238.309527
+Success rate = 0.733000
+user 0201 : policy 10_20_1 : iter 595
+Average score = 1565.515111
+Success rate = 0.877000
+user 0201 : policy 10_20_1 : iter 596
+Average score = 1258.298780
+Success rate = 0.745000
+user 0201 : policy 10_20_1 : iter 597
+Average score = 1461.345520
+Success rate = 0.860000
+user 0201 : policy 10_20_1 : iter 598
+Average score = 1531.091257
+Success rate = 0.876000
+user 0201 : policy 10_20_1 : iter 599
+Average score = 1322.607417
+Success rate = 0.756000
+user 0201 : policy 10_20_1 : iter 600
+Average score = 1514.746466
+Success rate = 0.883000
+user 0201 : policy 10_20_1 : iter 601
+Average score = 1379.774183
+Success rate = 0.828000
+user 0201 : policy 10_20_1 : iter 602
+Average score = 1414.241966
+Success rate = 0.850000
+user 0201 : policy 10_20_1 : iter 603
+Average score = 1499.535123
+Success rate = 0.831000
+user 0201 : policy 10_20_1 : iter 604
+Average score = 1485.105285
+Success rate = 0.835000
+user 0201 : policy 10_20_1 : iter 605
+Average score = 1222.862799
+Success rate = 0.677000
+user 0201 : policy 10_20_1 : iter 606
+Average score = 1378.976666
+Success rate = 0.780000
+user 0201 : policy 10_20_1 : iter 607
+Average score = 1760.628064
+Success rate = 0.918000
+user 0201 : policy 10_20_1 : iter 608
+Average score = 1493.465899
+Success rate = 0.813000
+user 0201 : policy 10_20_1 : iter 609
+Average score = 1541.403017
+Success rate = 0.869000
+user 0201 : policy 10_20_1 : iter 610
+Average score = 1419.603008
+Success rate = 0.806000
+user 0201 : policy 10_20_1 : iter 611
+Average score = 1651.677231
+Success rate = 0.900000
+user 0201 : policy 10_20_1 : iter 612
+Average score = 1663.937754
+Success rate = 0.909000
+user 0201 : policy 10_20_1 : iter 613
+Average score = 1405.580771
+Success rate = 0.813000
+user 0201 : policy 10_20_1 : iter 614
+Average score = 1365.702072
+Success rate = 0.825000
+user 0201 : policy 10_20_1 : iter 615
+Average score = 1547.747976
+Success rate = 0.877000
+user 0201 : policy 10_20_1 : iter 616
+Average score = 1416.636509
+Success rate = 0.846000
+user 0201 : policy 10_20_1 : iter 617
+Average score = 1329.382162
+Success rate = 0.829000
+user 0201 : policy 10_20_1 : iter 618
+Average score = 1454.814531
+Success rate = 0.894000
+user 0201 : policy 10_20_1 : iter 619
+Average score = 1443.083141
+Success rate = 0.831000
+user 0201 : policy 10_20_1 : iter 620
+Average score = 1377.141946
+Success rate = 0.803000
+user 0201 : policy 10_20_1 : iter 621
+Average score = 1478.174537
+Success rate = 0.872000
+user 0201 : policy 10_20_1 : iter 622
+Average score = 1499.257307
+Success rate = 0.883000
+user 0201 : policy 10_20_1 : iter 623
+Average score = 1554.274223
+Success rate = 0.919000
+user 0201 : policy 10_20_1 : iter 624
+Average score = 1692.808545
+Success rate = 0.920000
+user 0201 : policy 10_20_1 : iter 625
+Average score = 1695.852598
+Success rate = 0.923000
+user 0201 : policy 10_20_1 : iter 626
+Average score = 1550.339027
+Success rate = 0.881000
+user 0201 : policy 10_20_1 : iter 627
+Average score = 1725.518050
+Success rate = 0.878000
+user 0201 : policy 10_20_1 : iter 628
+Average score = 1725.589767
+Success rate = 0.868000
+user 0201 : policy 10_20_1 : iter 629
+Average score = 1437.777240
+Success rate = 0.830000
+user 0201 : policy 10_20_1 : iter 630
+Average score = 1521.296998
+Success rate = 0.861000
+user 0201 : policy 10_20_1 : iter 631
+Average score = 1762.533617
+Success rate = 0.915000
+user 0201 : policy 10_20_1 : iter 632
+Average score = 1530.981379
+Success rate = 0.845000
+user 0201 : policy 10_20_1 : iter 633
+Average score = 1590.109403
+Success rate = 0.854000
+user 0201 : policy 10_20_1 : iter 634
+Average score = 1521.617511
+Success rate = 0.880000
+user 0201 : policy 10_20_1 : iter 635
+Average score = 1522.584707
+Success rate = 0.853000
+user 0201 : policy 10_20_1 : iter 636
+Average score = 1454.602171
+Success rate = 0.838000
+user 0201 : policy 10_20_1 : iter 637
+Average score = 1513.409728
+Success rate = 0.851000
+user 0201 : policy 10_20_1 : iter 638
+Average score = 1453.049229
+Success rate = 0.797000
+user 0201 : policy 10_20_1 : iter 639
+Average score = 1544.747437
+Success rate = 0.822000
+user 0201 : policy 10_20_1 : iter 640
+Average score = 1436.198015
+Success rate = 0.795000
+user 0201 : policy 10_20_1 : iter 641
+Average score = 1247.460448
+Success rate = 0.697000
+user 0201 : policy 10_20_1 : iter 642
+Average score = 1720.665630
+Success rate = 0.878000
+user 0201 : policy 10_20_1 : iter 643
+Average score = 1667.236320
+Success rate = 0.881000
+user 0201 : policy 10_20_1 : iter 644
+Average score = 1435.616080
+Success rate = 0.805000
+user 0201 : policy 10_20_1 : iter 645
+Average score = 1790.812805
+Success rate = 0.900000
+user 0201 : policy 10_20_1 : iter 646
+Average score = 1726.507238
+Success rate = 0.892000
+user 0201 : policy 10_20_1 : iter 647
+Average score = 1595.410371
+Success rate = 0.805000
+user 0201 : policy 10_20_1 : iter 648
+Average score = 1784.355850
+Success rate = 0.875000
+user 0201 : policy 10_20_1 : iter 649
+Average score = 1452.304554
+Success rate = 0.733000
+user 0201 : policy 10_20_1 : iter 650
+Average score = 1762.136539
+Success rate = 0.867000
+user 0201 : policy 10_20_1 : iter 651
+Average score = 1608.392478
+Success rate = 0.835000
+user 0201 : policy 10_20_1 : iter 652
+Average score = 1464.320932
+Success rate = 0.756000
+user 0201 : policy 10_20_1 : iter 653
+Average score = 1833.807112
+Success rate = 0.923000
+user 0201 : policy 10_20_1 : iter 654
+Average score = 1555.305755
+Success rate = 0.832000
+user 0201 : policy 10_20_1 : iter 655
+Average score = 1221.525636
+Success rate = 0.655000
+user 0201 : policy 10_20_1 : iter 656
+Average score = 1713.658235
+Success rate = 0.874000
+user 0201 : policy 10_20_1 : iter 657
+Average score = 1610.562035
+Success rate = 0.830000
+user 0201 : policy 10_20_1 : iter 658
+Average score = 1354.383649
+Success rate = 0.733000
+user 0201 : policy 10_20_1 : iter 659
+Average score = 1600.292164
+Success rate = 0.845000
+user 0201 : policy 10_20_1 : iter 660
+Average score = 2020.299263
+Success rate = 0.949000
+user 0201 : policy 10_20_1 : iter 661
+Average score = 1646.598973
+Success rate = 0.862000
+user 0201 : policy 10_20_1 : iter 662
+Average score = 1583.064355
+Success rate = 0.825000
+user 0201 : policy 10_20_1 : iter 663
+Average score = 1736.666404
+Success rate = 0.897000
+user 0201 : policy 10_20_1 : iter 664
+Average score = 1381.362051
+Success rate = 0.759000
+user 0201 : policy 10_20_1 : iter 665
+Average score = 1396.454360
+Success rate = 0.741000
+user 0201 : policy 10_20_1 : iter 666
+Average score = 1636.424347
+Success rate = 0.807000
+user 0201 : policy 10_20_1 : iter 667
+Average score = 1286.218729
+Success rate = 0.702000
+user 0201 : policy 10_20_1 : iter 668
+Average score = 1231.493393
+Success rate = 0.680000
+user 0201 : policy 10_20_1 : iter 669
+Average score = 1542.994281
+Success rate = 0.807000
+user 0201 : policy 10_20_1 : iter 670
+Average score = 1586.468363
+Success rate = 0.841000
+user 0201 : policy 10_20_1 : iter 671
+Average score = 1345.386961
+Success rate = 0.714000
+user 0201 : policy 10_20_1 : iter 672
+Average score = 1184.675830
+Success rate = 0.649000
+user 0201 : policy 10_20_1 : iter 673
+Average score = 1389.471399
+Success rate = 0.724000
+user 0201 : policy 10_20_1 : iter 674
+Average score = 1428.708441
+Success rate = 0.782000
+user 0201 : policy 10_20_1 : iter 675
+Average score = 1498.700018
+Success rate = 0.809000
+user 0201 : policy 10_20_1 : iter 676
+Average score = 1399.295757
+Success rate = 0.777000
+user 0201 : policy 10_20_1 : iter 677
+Average score = 1286.185370
+Success rate = 0.728000
+user 0201 : policy 10_20_1 : iter 678
+Average score = 1462.426088
+Success rate = 0.818000
+user 0201 : policy 10_20_1 : iter 679
+Average score = 1511.788389
+Success rate = 0.821000
+user 0201 : policy 10_20_1 : iter 680
+Average score = 1676.751178
+Success rate = 0.873000
+user 0201 : policy 10_20_1 : iter 681
+Average score = 1477.928023
+Success rate = 0.778000
+user 0201 : policy 10_20_1 : iter 682
+Average score = 1685.197466
+Success rate = 0.892000
+user 0201 : policy 10_20_1 : iter 683
+Average score = 1655.188314
+Success rate = 0.810000
+user 0201 : policy 10_20_1 : iter 684
+Average score = 1494.930236
+Success rate = 0.770000
+user 0201 : policy 10_20_1 : iter 685
+Average score = 1661.283731
+Success rate = 0.853000
+user 0201 : policy 10_20_1 : iter 686
+Average score = 1714.546269
+Success rate = 0.833000
+user 0201 : policy 10_20_1 : iter 687
+Average score = 1814.822118
+Success rate = 0.890000
+user 0201 : policy 10_20_1 : iter 688
+Average score = 1866.865980
+Success rate = 0.888000
+user 0201 : policy 10_20_1 : iter 689
+Average score = 1618.190714
+Success rate = 0.828000
+user 0201 : policy 10_20_1 : iter 690
+Average score = 1741.951259
+Success rate = 0.872000
+user 0201 : policy 10_20_1 : iter 691
+Average score = 1675.875368
+Success rate = 0.839000
+user 0201 : policy 10_20_1 : iter 692
+Average score = 1842.090637
+Success rate = 0.908000
+user 0201 : policy 10_20_1 : iter 693
+Average score = 1602.781366
+Success rate = 0.833000
+user 0201 : policy 10_20_1 : iter 694
+Average score = 1578.525509
+Success rate = 0.840000
+user 0201 : policy 10_20_1 : iter 695
+Average score = 1429.119886
+Success rate = 0.799000
+user 0201 : policy 10_20_1 : iter 696
+Average score = 1528.108414
+Success rate = 0.834000
+user 0201 : policy 10_20_1 : iter 697
+Average score = 1374.872261
+Success rate = 0.738000
+user 0201 : policy 10_20_1 : iter 698
+Average score = 1484.222964
+Success rate = 0.787000
+user 0201 : policy 10_20_1 : iter 699
+Average score = 1527.702621
+Success rate = 0.778000
+user 0201 : policy 10_20_1 : iter 700
+Average score = 1296.238310
+Success rate = 0.690000
+user 0201 : policy 10_20_1 : iter 701
+Average score = 1500.370198
+Success rate = 0.791000
+user 0201 : policy 10_20_1 : iter 702
+Average score = 1357.443343
+Success rate = 0.735000
+user 0201 : policy 10_20_1 : iter 703
+Average score = 1347.385040
+Success rate = 0.703000
+user 0201 : policy 10_20_1 : iter 704
+Average score = 1568.474133
+Success rate = 0.785000
+user 0201 : policy 10_20_1 : iter 705
+Average score = 1517.676031
+Success rate = 0.777000
+user 0201 : policy 10_20_1 : iter 706
+Average score = 1924.598628
+Success rate = 0.894000
+user 0201 : policy 10_20_1 : iter 707
+Average score = 1780.926394
+Success rate = 0.874000
+user 0201 : policy 10_20_1 : iter 708
+Average score = 1607.928538
+Success rate = 0.826000
+user 0201 : policy 10_20_1 : iter 709
+Average score = 1931.240142
+Success rate = 0.887000
+user 0201 : policy 10_20_1 : iter 710
+Average score = 2022.554746
+Success rate = 0.899000
+user 0201 : policy 10_20_1 : iter 711
+Average score = 1937.445039
+Success rate = 0.895000
+user 0201 : policy 10_20_1 : iter 712
+Average score = 2007.928382
+Success rate = 0.903000
+user 0201 : policy 10_20_1 : iter 713
+Average score = 1873.097737
+Success rate = 0.888000
+user 0201 : policy 10_20_1 : iter 714
+Average score = 1677.331423
+Success rate = 0.865000
+user 0201 : policy 10_20_1 : iter 715
+Average score = 1904.635512
+Success rate = 0.897000
+user 0201 : policy 10_20_1 : iter 716
+Average score = 1919.934961
+Success rate = 0.868000
+user 0201 : policy 10_20_1 : iter 717
+Average score = 1972.347685
+Success rate = 0.880000
+user 0201 : policy 10_20_1 : iter 718
+Average score = 2070.554807
+Success rate = 0.913000
+user 0201 : policy 10_20_1 : iter 719
+Average score = 2111.660926
+Success rate = 0.906000
+user 0201 : policy 10_20_1 : iter 720
+Average score = 2095.444102
+Success rate = 0.880000
+user 0201 : policy 10_20_1 : iter 721
+Average score = 2161.806197
+Success rate = 0.923000
+user 0201 : policy 10_20_1 : iter 722
+Average score = 2296.133069
+Success rate = 0.942000
+user 0201 : policy 10_20_1 : iter 723
+Average score = 2241.490372
+Success rate = 0.927000
+user 0201 : policy 10_20_1 : iter 724
+Average score = 2298.119994
+Success rate = 0.935000
+user 0201 : policy 10_20_1 : iter 725
+Average score = 2225.123376
+Success rate = 0.934000
+user 0201 : policy 10_20_1 : iter 726
+Average score = 2263.219622
+Success rate = 0.940000
+user 0201 : policy 10_20_1 : iter 727
+Average score = 2298.071998
+Success rate = 0.937000
+user 0201 : policy 10_20_1 : iter 728
+Average score = 2203.388482
+Success rate = 0.918000
+user 0201 : policy 10_20_1 : iter 729
+Average score = 2142.950132
+Success rate = 0.924000
+user 0201 : policy 10_20_1 : iter 730
+Average score = 2184.952701
+Success rate = 0.917000
+user 0201 : policy 10_20_1 : iter 731
+Average score = 2216.084338
+Success rate = 0.916000
+user 0201 : policy 10_20_1 : iter 732
+Average score = 2303.380327
+Success rate = 0.934000
+user 0201 : policy 10_20_1 : iter 733
+Average score = 2166.511145
+Success rate = 0.913000
+user 0201 : policy 10_20_1 : iter 734
+Average score = 1833.049373
+Success rate = 0.842000
+user 0201 : policy 10_20_1 : iter 735
+Average score = 2163.779230
+Success rate = 0.929000
+user 0201 : policy 10_20_1 : iter 736
+Average score = 2204.631372
+Success rate = 0.949000
+user 0201 : policy 10_20_1 : iter 737
+Average score = 2196.131700
+Success rate = 0.926000
+user 0201 : policy 10_20_1 : iter 738
+Average score = 2272.318373
+Success rate = 0.936000
+user 0201 : policy 10_20_1 : iter 739
+Average score = 2340.995279
+Success rate = 0.945000
+user 0201 : policy 10_20_1 : iter 740
+Average score = 2098.545331
+Success rate = 0.923000
+user 0201 : policy 10_20_1 : iter 741
+Average score = 2352.551304
+Success rate = 0.951000
+user 0201 : policy 10_20_1 : iter 742
+Average score = 2397.454409
+Success rate = 0.956000
+user 0201 : policy 10_20_1 : iter 743
+Average score = 2263.034543
+Success rate = 0.942000
+user 0201 : policy 10_20_1 : iter 744
+Average score = 2161.569815
+Success rate = 0.930000
+user 0201 : policy 10_20_1 : iter 745
+Average score = 2192.131604
+Success rate = 0.933000
+user 0201 : policy 10_20_1 : iter 746
+Average score = 2235.652406
+Success rate = 0.950000
+user 0201 : policy 10_20_1 : iter 747
+Average score = 2252.610059
+Success rate = 0.947000
+user 0201 : policy 10_20_1 : iter 748
+Average score = 2284.436112
+Success rate = 0.949000
+user 0201 : policy 10_20_1 : iter 749
+Average score = 2329.235390
+Success rate = 0.948000
+user 0201 : policy 10_20_1 : iter 750
+Average score = 2338.427988
+Success rate = 0.949000
+user 0201 : policy 10_20_1 : iter 751
+Average score = 2326.973530
+Success rate = 0.942000
+user 0201 : policy 10_20_1 : iter 752
+Average score = 2319.530898
+Success rate = 0.941000
+user 0201 : policy 10_20_1 : iter 753
+Average score = 2279.890562
+Success rate = 0.949000
+user 0201 : policy 10_20_1 : iter 754
+Average score = 2147.292361
+Success rate = 0.937000
+user 0201 : policy 10_20_1 : iter 755
+Average score = 2150.622687
+Success rate = 0.938000
+user 0201 : policy 10_20_1 : iter 756
+Average score = 2151.208077
+Success rate = 0.945000
+user 0201 : policy 10_20_1 : iter 757
+Average score = 2019.535804
+Success rate = 0.932000
+user 0201 : policy 10_20_1 : iter 758
+Average score = 2061.785416
+Success rate = 0.942000
+user 0201 : policy 10_20_1 : iter 759
+Average score = 2140.346965
+Success rate = 0.921000
+user 0201 : policy 10_20_1 : iter 760
+Average score = 2129.151273
+Success rate = 0.924000
+user 0201 : policy 10_20_1 : iter 761
+Average score = 2171.231573
+Success rate = 0.945000
+user 0201 : policy 10_20_1 : iter 762
+Average score = 2260.833870
+Success rate = 0.929000
+user 0201 : policy 10_20_1 : iter 763
+Average score = 2013.191530
+Success rate = 0.853000
+user 0201 : policy 10_20_1 : iter 764
+Average score = 2169.290082
+Success rate = 0.919000
+user 0201 : policy 10_20_1 : iter 765
+Average score = 2231.638086
+Success rate = 0.933000
+user 0201 : policy 10_20_1 : iter 766
+Average score = 2385.743849
+Success rate = 0.954000
+user 0201 : policy 10_20_1 : iter 767
+Average score = 2285.027609
+Success rate = 0.935000
+user 0201 : policy 10_20_1 : iter 768
+Average score = 2225.182982
+Success rate = 0.918000
+user 0201 : policy 10_20_1 : iter 769
+Average score = 2213.714264
+Success rate = 0.926000
+user 0201 : policy 10_20_1 : iter 770
+Average score = 2210.174784
+Success rate = 0.953000
+user 0201 : policy 10_20_1 : iter 771
+Average score = 2308.587564
+Success rate = 0.945000
+user 0201 : policy 10_20_1 : iter 772
+Average score = 2286.691298
+Success rate = 0.944000
+user 0201 : policy 10_20_2 : iter 1
+Average score = -5.820013
+Success rate = 0.000000
+user 0201 : policy 10_20_2 : iter 6
+Average score = -3.878855
+Success rate = 0.000000
+user 0201 : policy 10_20_2 : iter 11
+Average score = -3.637894
+Success rate = 0.000000
+user 0201 : policy 10_20_2 : iter 16
+Average score = -3.603097
+Success rate = 0.000000
+user 0201 : policy 10_20_2 : iter 21
+Average score = -3.331771
+Success rate = 0.000000
+user 0201 : policy 10_20_2 : iter 26
+Average score = -2.275997
+Success rate = 0.000000
+user 0201 : policy 10_20_2 : iter 31
+Average score = -1.294799
+Success rate = 0.000000
+user 0201 : policy 10_20_2 : iter 36
+Average score = 1.205399
+Success rate = 0.001000
+user 0201 : policy 10_20_2 : iter 41
+Average score = 0.108152
+Success rate = 0.000000
+user 0201 : policy 10_20_2 : iter 46
+Average score = -0.595215
+Success rate = 0.000000
+user 0201 : policy 10_20_2 : iter 51
+Average score = 5.307646
+Success rate = 0.001000
+user 0201 : policy 10_20_2 : iter 56
+Average score = 13.954973
+Success rate = 0.003000
+user 0201 : policy 10_20_2 : iter 61
+Average score = 9.053136
+Success rate = 0.001000
+user 0201 : policy 10_20_2 : iter 66
+Average score = 11.543507
+Success rate = 0.000000
+user 0201 : policy 10_20_2 : iter 71
+Average score = 14.325413
+Success rate = 0.002000
+user 0201 : policy 10_20_2 : iter 76
+Average score = 17.695573
+Success rate = 0.000000
+user 0201 : policy 10_20_2 : iter 81
+Average score = 17.276005
+Success rate = 0.000000
+user 0201 : policy 10_20_2 : iter 86
+Average score = 38.582405
+Success rate = 0.001000
+user 0201 : policy 10_20_2 : iter 91
+Average score = 41.051407
+Success rate = 0.005000
+user 0201 : policy 10_20_2 : iter 96
+Average score = 57.970214
+Success rate = 0.009000
+user 0201 : policy 10_20_2 : iter 101
+Average score = 54.062754
+Success rate = 0.008000
+user 0201 : policy 10_20_2 : iter 106
+Average score = 77.361495
+Success rate = 0.016000
+user 0201 : policy 10_20_2 : iter 111
+Average score = 88.249782
+Success rate = 0.021000
+user 0201 : policy 10_20_2 : iter 116
+Average score = 97.586166
+Success rate = 0.032000
+user 0201 : policy 10_20_2 : iter 121
+Average score = 101.938047
+Success rate = 0.035000
+user 0201 : policy 10_20_2 : iter 126
+Average score = 107.313754
+Success rate = 0.052000
+user 0201 : policy 10_20_2 : iter 131
+Average score = 144.227034
+Success rate = 0.093000
+user 0201 : policy 10_20_2 : iter 136
+Average score = 119.661934
+Success rate = 0.083000
+user 0201 : policy 10_20_2 : iter 141
+Average score = 192.081495
+Success rate = 0.141000
+user 0201 : policy 10_20_2 : iter 146
+Average score = 263.414249
+Success rate = 0.217000
+user 0201 : policy 10_20_2 : iter 151
+Average score = 397.732075
+Success rate = 0.329000
+user 0201 : policy 10_20_2 : iter 156
+Average score = 415.662002
+Success rate = 0.373000
+user 0201 : policy 10_20_2 : iter 161
+Average score = 412.137687
+Success rate = 0.337000
+user 0201 : policy 10_20_2 : iter 166
+Average score = 529.212813
+Success rate = 0.413000
+user 0201 : policy 10_20_2 : iter 171
+Average score = 610.656648
+Success rate = 0.474000
+user 0201 : policy 10_20_2 : iter 176
+Average score = 569.540541
+Success rate = 0.471000
+user 0201 : policy 10_20_2 : iter 181
+Average score = 609.746262
+Success rate = 0.496000
+user 0201 : policy 10_20_2 : iter 186
+Average score = 727.064790
+Success rate = 0.522000
+user 0201 : policy 10_20_2 : iter 191
+Average score = 774.443847
+Success rate = 0.565000
+user 0201 : policy 10_20_2 : iter 196
+Average score = 877.772361
+Success rate = 0.620000
+user 0201 : policy 10_20_2 : iter 201
+Average score = 969.990407
+Success rate = 0.666000
+user 0201 : policy 10_20_2 : iter 206
+Average score = 1239.179299
+Success rate = 0.737000
+user 0201 : policy 10_20_2 : iter 211
+Average score = 1291.926018
+Success rate = 0.754000
+user 0201 : policy 10_20_2 : iter 216
+Average score = 1378.741650
+Success rate = 0.760000
+user 0201 : policy 10_20_2 : iter 221
+Average score = 1321.347093
+Success rate = 0.717000
+user 0201 : policy 10_20_2 : iter 226
+Average score = 1098.172578
+Success rate = 0.671000
+user 0201 : policy 10_20_2 : iter 231
+Average score = 1217.580532
+Success rate = 0.719000
+user 0201 : policy 10_20_2 : iter 236
+Average score = 1397.117530
+Success rate = 0.788000
+user 0201 : policy 10_20_2 : iter 241
+Average score = 1450.693459
+Success rate = 0.754000
+user 0201 : policy 10_20_2 : iter 246
+Average score = 1244.170297
+Success rate = 0.705000
+user 0201 : policy 10_20_2 : iter 251
+Average score = 1132.456112
+Success rate = 0.648000
+user 0201 : policy 10_20_2 : iter 256
+Average score = 1304.727166
+Success rate = 0.711000
+user 0201 : policy 10_20_2 : iter 261
+Average score = 1366.518545
+Success rate = 0.717000
+user 0201 : policy 10_20_2 : iter 266
+Average score = 1534.486896
+Success rate = 0.736000
+user 0201 : policy 10_20_2 : iter 271
+Average score = 1514.357277
+Success rate = 0.742000
+user 0201 : policy 10_20_2 : iter 276
+Average score = 1401.721901
+Success rate = 0.726000
+user 0201 : policy 10_20_2 : iter 281
+Average score = 1629.240477
+Success rate = 0.809000
+user 0201 : policy 10_20_2 : iter 286
+Average score = 1733.362866
+Success rate = 0.831000
+user 0201 : policy 10_20_2 : iter 291
+Average score = 1871.202874
+Success rate = 0.854000
+user 0201 : policy 10_20_2 : iter 296
+Average score = 1673.497122
+Success rate = 0.809000
+user 0201 : policy 10_20_2 : iter 301
+Average score = 1631.101849
+Success rate = 0.867000
+user 0201 : policy 10_20_2 : iter 306
+Average score = 1961.507616
+Success rate = 0.893000
+user 0201 : policy 10_20_2 : iter 311
+Average score = 1605.951681
+Success rate = 0.818000
+user 0201 : policy 10_20_2 : iter 316
+Average score = 1665.285143
+Success rate = 0.867000
+user 0201 : policy 10_20_2 : iter 321
+Average score = 1654.087337
+Success rate = 0.849000
+user 0201 : policy 10_20_2 : iter 326
+Average score = 1968.245019
+Success rate = 0.910000
+user 0201 : policy 10_20_2 : iter 331
+Average score = 1872.301829
+Success rate = 0.884000
+user 0201 : policy 10_20_2 : iter 336
+Average score = 2056.475551
+Success rate = 0.901000
+user 0201 : policy 10_20_2 : iter 341
+Average score = 2097.112983
+Success rate = 0.881000
+user 0201 : policy 10_20_2 : iter 346
+Average score = 2446.152702
+Success rate = 0.916000
+user 0201 : policy 10_20_2 : iter 351
+Average score = 2533.933019
+Success rate = 0.954000
+user 0201 : policy 10_20_2 : iter 356
+Average score = 2429.355647
+Success rate = 0.917000
+user 0201 : policy 10_20_2 : iter 361
+Average score = 2381.049970
+Success rate = 0.945000
+user 0201 : policy 10_20_2 : iter 366
+Average score = 2343.168218
+Success rate = 0.962000
+user 0201 : policy 10_20_2 : iter 371
+Average score = 2302.517836
+Success rate = 0.929000
+user 0201 : policy 10_20_2 : iter 376
+Average score = 2294.447121
+Success rate = 0.951000
+user 0201 : policy 10_20_2 : iter 381
+Average score = 2497.313533
+Success rate = 0.956000
+user 0201 : policy 10_20_2 : iter 386
+Average score = 2433.556672
+Success rate = 0.945000
+user 0201 : policy 10_20_2 : iter 391
+Average score = 2650.123008
+Success rate = 0.960000
+user 0201 : policy 10_20_2 : iter 396
+Average score = 2707.387752
+Success rate = 0.952000
+user 0201 : policy 10_20_2 : iter 401
+Average score = 2591.378427
+Success rate = 0.927000
+user 0201 : policy 10_20_2 : iter 406
+Average score = 2828.835979
+Success rate = 0.956000
+user 0201 : policy 10_20_2 : iter 411
+Average score = 2709.721151
+Success rate = 0.943000
+user 0201 : policy 10_20_2 : iter 416
+Average score = 2810.141472
+Success rate = 0.975000
+user 0201 : policy 10_20_2 : iter 421
+Average score = 2631.193903
+Success rate = 0.955000
+user 0201 : policy 10_20_2 : iter 426
+Average score = 2193.534715
+Success rate = 0.947000
+user 0201 : policy 10_20_2 : iter 431
+Average score = 2266.101656
+Success rate = 0.941000
+user 0201 : policy 10_20_2 : iter 436
+Average score = 2516.525677
+Success rate = 0.949000
+user 0201 : policy 10_20_2 : iter 441
+Average score = 2634.746608
+Success rate = 0.949000
+user 0201 : policy 10_20_2 : iter 446
+Average score = 2810.861720
+Success rate = 0.969000
+user 0201 : policy 10_20_2 : iter 451
+Average score = 2804.992814
+Success rate = 0.937000
+user 0201 : policy 10_20_2 : iter 456
+Average score = 2951.541607
+Success rate = 0.947000
+user 0201 : policy 10_20_2 : iter 461
+Average score = 2864.622244
+Success rate = 0.962000
+user 0201 : policy 10_20_2 : iter 466
+Average score = 2706.846387
+Success rate = 0.969000
+user 0201 : policy 10_20_2 : iter 471
+Average score = 2968.933984
+Success rate = 0.971000
+user 0201 : policy 10_20_2 : iter 476
+Average score = 2803.280432
+Success rate = 0.968000
+user 0201 : policy 10_20_2 : iter 481
+Average score = 2931.010782
+Success rate = 0.970000
+user 0201 : policy 10_20_2 : iter 486
+Average score = 2783.015492
+Success rate = 0.957000
+user 0201 : policy 10_20_2 : iter 491
+Average score = 2872.496023
+Success rate = 0.952000
+user 0201 : policy 10_20_2 : iter 496
+Average score = 2796.865597
+Success rate = 0.961000
+user 0201 : policy 10_20_2 : iter 501
+Average score = 2978.203962
+Success rate = 0.969000
+user 0201 : policy 10_20_2 : iter 506
+Average score = 2729.773991
+Success rate = 0.951000
+user 0201 : policy 10_20_2 : iter 511
+Average score = 2584.655067
+Success rate = 0.960000
+user 0201 : policy 10_20_2 : iter 516
+Average score = 2549.155167
+Success rate = 0.932000
+user 0201 : policy 10_20_2 : iter 521
+Average score = 2824.476335
+Success rate = 0.949000
+user 0201 : policy 10_20_2 : iter 526
+Average score = 2795.150063
+Success rate = 0.964000
+user 0201 : policy 10_20_2 : iter 531
+Average score = 2665.044012
+Success rate = 0.949000
+user 0201 : policy 10_20_2 : iter 536
+Average score = 2586.392467
+Success rate = 0.962000
+user 0201 : policy 10_20_2 : iter 541
+Average score = 2871.546889
+Success rate = 0.977000
+user 0201 : policy 10_20_2 : iter 546
+Average score = 2845.760371
+Success rate = 0.979000
+user 0201 : policy 10_20_2 : iter 551
+Average score = 2791.646180
+Success rate = 0.984000
+user 0201 : policy 10_20_2 : iter 556
+Average score = 2716.140765
+Success rate = 0.977000
+user 0201 : policy 10_20_2 : iter 561
+Average score = 2722.395780
+Success rate = 0.974000
+user 0201 : policy 10_20_2 : iter 566
+Average score = 3043.422303
+Success rate = 0.983000
+user 0201 : policy 10_20_2 : iter 571
+Average score = 3044.555633
+Success rate = 0.978000
+user 0201 : policy 10_20_2 : iter 576
+Average score = 2846.740239
+Success rate = 0.967000
+user 0201 : policy 10_20_2 : iter 581
+Average score = 2999.151984
+Success rate = 0.968000
+user 0201 : policy 10_20_2 : iter 586
+Average score = 2942.734416
+Success rate = 0.984000
+user 0201 : policy 10_20_2 : iter 591
+Average score = 3016.794974
+Success rate = 0.983000
+user 0201 : policy 10_20_2 : iter 596
+Average score = 3065.810701
+Success rate = 0.981000
+user 0201 : policy 10_20_2 : iter 601
+Average score = 3105.745420
+Success rate = 0.979000
+user 0201 : policy 10_20_2 : iter 606
+Average score = 3051.357954
+Success rate = 0.970000
+user 0201 : policy 10_20_2 : iter 611
+Average score = 3025.134025
+Success rate = 0.983000
+user 0201 : policy 10_20_2 : iter 616
+Average score = 3362.647288
+Success rate = 0.990000
+user 0201 : policy 10_20_2 : iter 621
+Average score = 3376.103539
+Success rate = 0.992000
+user 0201 : policy 10_20_2 : iter 626
+Average score = 3205.891463
+Success rate = 0.991000
+user 0201 : policy 10_20_2 : iter 631
+Average score = 3105.223811
+Success rate = 0.973000
+user 0201 : policy 10_20_2 : iter 636
+Average score = 3018.731739
+Success rate = 0.982000
+user 0201 : policy 10_20_2 : iter 641
+Average score = 3080.791120
+Success rate = 0.995000
+user 0201 : policy 10_20_2 : iter 646
+Average score = 3220.217405
+Success rate = 0.983000
+user 0201 : policy 10_20_2 : iter 651
+Average score = 3249.537025
+Success rate = 0.983000
+user 0201 : policy 10_20_2 : iter 656
+Average score = 3449.583144
+Success rate = 0.990000
+user 0201 : policy 10_20_2 : iter 661
+Average score = 3376.643535
+Success rate = 0.989000
+user 0201 : policy 10_20_2 : iter 666
+Average score = 3214.733733
+Success rate = 0.987000
+user 0201 : policy 10_20_2 : iter 671
+Average score = 3364.563039
+Success rate = 0.988000
+user 0201 : policy 10_20_2 : iter 676
+Average score = 3208.733798
+Success rate = 0.996000
+user 0201 : policy 10_20_2 : iter 681
+Average score = 3096.877973
+Success rate = 0.991000
+user 0201 : policy 10_20_2 : iter 686
+Average score = 3222.295277
+Success rate = 0.980000
+user 0201 : policy 10_20_2 : iter 691
+Average score = 3250.200422
+Success rate = 0.984000
+user 0201 : policy 10_20_2 : iter 696
+Average score = 3221.044414
+Success rate = 0.987000
+user 0201 : policy 10_20_2 : iter 701
+Average score = 3207.281019
+Success rate = 0.992000
+user 0201 : policy 10_20_2 : iter 706
+Average score = 3080.346591
+Success rate = 0.992000
+user 0201 : policy 10_20_2 : iter 711
+Average score = 3221.750481
+Success rate = 0.988000
+user 0201 : policy 10_20_2 : iter 716
+Average score = 3361.381615
+Success rate = 0.989000
+user 0201 : policy 10_20_2 : iter 721
+Average score = 3340.603351
+Success rate = 0.993000
+user 0201 : policy 10_20_2 : iter 726
+Average score = 3438.172028
+Success rate = 0.993000
+user 0201 : policy 10_20_2 : iter 731
+Average score = 3345.226136
+Success rate = 0.994000
+user 0201 : policy 10_20_2 : iter 736
+Average score = 3378.662891
+Success rate = 0.992000
+user 0201 : policy 10_20_2 : iter 741
+Average score = 3398.612346
+Success rate = 0.990000
+user 0201 : policy 10_20_2 : iter 746
+Average score = 3392.632333
+Success rate = 0.993000
+user 0201 : policy 10_20_2 : iter 751
+Average score = 3360.983235
+Success rate = 0.991000
+user 0201 : policy 10_20_2 : iter 756
+Average score = 3346.684033
+Success rate = 0.993000
+user 0201 : policy 10_20_2 : iter 761
+Average score = 3300.980600
+Success rate = 0.988000
+user 0201 : policy 10_20_2 : iter 766
+Average score = 3454.314515
+Success rate = 0.995000
+user 0201 : policy 10_20_2 : iter 771
+Average score = 3549.808235
+Success rate = 0.992000
+user 0201 : policy 10_20_2 : iter 776
+Average score = 3172.876880
+Success rate = 0.989000
+user 0201 : policy 10_20_2 : iter 781
+Average score = 3501.604334
+Success rate = 0.990000
+user 0201 : policy 10_20_2 : iter 786
+Average score = 3506.002894
+Success rate = 0.987000
+user 0201 : policy 10_20_2 : iter 791
+Average score = 3564.966161
+Success rate = 0.996000
+user 0201 : policy 10_20_2 : iter 796
+Average score = 3597.930478
+Success rate = 0.996000
+
+user 0201 : policy 20_10_1 : iter 0
+user 0201 : policy 20_10_1 : iter 10
+user 0201 : policy 20_10_1 : iter 20
+user 0201 : policy 20_10_1 : iter 30
+user 0201 : policy 20_10_1 : iter 40
+user 0201 : policy 20_10_1 : iter 50
+user 0201 : policy 20_10_1 : iter 60
+user 0201 : policy 20_10_1 : iter 70
+user 0201 : policy 20_10_1 : iter 80
+user 0201 : policy 20_10_1 : iter 90
+user 0201 : policy 20_10_1 : iter 100
+user 0201 : policy 20_10_1 : iter 110
+user 0201 : policy 20_10_1 : iter 120
+user 0201 : policy 20_10_1 : iter 130
+user 0201 : policy 20_10_1 : iter 140
+user 0201 : policy 20_10_1 : iter 150
+user 0201 : policy 20_10_1 : iter 160
+user 0201 : policy 20_10_1 : iter 170
+user 0201 : policy 20_10_1 : iter 180
+user 0201 : policy 20_10_1 : iter 190
+user 0201 : policy 20_10_1 : iter 200
+user 0201 : policy 20_10_1 : iter 210
+user 0201 : policy 20_10_1 : iter 220
+user 0201 : policy 20_10_1 : iter 230
+user 0201 : policy 20_10_1 : iter 240
+user 0201 : policy 20_10_1 : iter 250
+user 0201 : policy 20_10_1 : iter 260
+user 0201 : policy 20_10_1 : iter 270
+user 0201 : policy 20_10_1 : iter 280
+user 0201 : policy 20_10_1 : iter 290
+user 0201 : policy 20_10_1 : iter 300
+user 0201 : policy 20_10_1 : iter 310
+user 0201 : policy 20_10_1 : iter 320
+user 0201 : policy 20_10_1 : iter 330
+user 0201 : policy 20_10_1 : iter 340
+user 0201 : policy 20_10_1 : iter 350
+user 0201 : policy 20_10_1 : iter 360
+user 0201 : policy 20_10_1 : iter 370
+user 0201 : policy 20_10_1 : iter 380
+user 0201 : policy 20_10_1 : iter 390
+user 0201 : policy 20_10_1 : iter 400
+user 0201 : policy 20_10_1 : iter 410
+user 0201 : policy 20_10_1 : iter 420
+user 0201 : policy 20_10_1 : iter 430
+user 0201 : policy 20_10_1 : iter 440
+user 0201 : policy 20_10_1 : iter 450
+user 0201 : policy 20_10_1 : iter 460
+user 0201 : policy 20_10_1 : iter 470
+user 0201 : policy 20_10_1 : iter 480
+user 0201 : policy 20_10_1 : iter 490
+user 0201 : policy 20_10_1 : iter 500
+user 0201 : policy 20_10_1 : iter 510
+user 0201 : policy 20_10_1 : iter 520
+user 0201 : policy 20_10_1 : iter 530
+user 0201 : policy 20_10_1 : iter 540
+user 0201 : policy 20_10_1 : iter 550
+user 0201 : policy 20_10_1 : iter 560
+user 0201 : policy 20_10_1 : iter 570
+user 0201 : policy 20_10_1 : iter 580
+user 0201 : policy 20_10_1 : iter 590
+user 0201 : policy 20_10_1 : iter 600
+user 0201 : policy 20_10_1 : iter 610
+user 0201 : policy 20_10_1 : iter 620
+user 0201 : policy 20_10_1 : iter 630
+user 0201 : policy 20_10_1 : iter 640
+user 0201 : policy 20_10_1 : iter 650
+user 0201 : policy 20_10_1 : iter 660
+user 0201 : policy 20_10_1 : iter 670
+user 0201 : policy 20_10_1 : iter 680
+user 0201 : policy 20_10_1 : iter 690
+user 0201 : policy 20_10_1 : iter 700
+user 0201 : policy 20_10_1 : iter 710
+user 0201 : policy 20_10_1 : iter 720
+user 0201 : policy 20_10_1 : iter 730
+user 0201 : policy 20_10_1 : iter 740
+user 0201 : policy 20_10_1 : iter 750
+user 0201 : policy 20_10_1 : iter 760
+user 0201 : policy 20_10_1 : iter 770
+user 0201 : policy 20_10_1 : iter 780
+user 0201 : policy 20_10_1 : iter 790
+user 0201 : policy 20_10_2 : iter 0
+user 0201 : policy 20_10_2 : iter 10
+user 0201 : policy 20_10_2 : iter 20
+user 0201 : policy 20_10_2 : iter 30
+user 0201 : policy 20_10_2 : iter 40
+user 0201 : policy 20_10_2 : iter 50
+user 0201 : policy 20_10_2 : iter 60
+user 0201 : policy 20_10_2 : iter 70
+user 0201 : policy 20_10_2 : iter 80
+user 0201 : policy 20_10_2 : iter 90
+user 0201 : policy 20_10_2 : iter 100
+user 0201 : policy 20_10_2 : iter 110
+user 0201 : policy 20_10_2 : iter 120
+user 0201 : policy 20_10_2 : iter 130
+user 0201 : policy 20_10_2 : iter 140
+user 0201 : policy 20_10_2 : iter 150
+user 0201 : policy 20_10_2 : iter 160
+user 0201 : policy 20_10_2 : iter 170
+user 0201 : policy 20_10_2 : iter 180
+user 0201 : policy 20_10_2 : iter 190
+user 0201 : policy 20_10_2 : iter 200
+user 0201 : policy 20_10_1 : iter 0
+user 0201 : policy 20_10_1 : iter 10
+user 0201 : policy 20_10_1 : iter 20
+user 0201 : policy 20_10_1 : iter 1
+Average score = -4.689675
+Success rate = 0.000000
+user 0201 : policy 20_10_1 : iter 11
+Average score = -4.734064
+Success rate = 0.000000
+user 0201 : policy 20_10_1 : iter 21
+Average score = -2.661949
+Success rate = 0.000000
+user 0201 : policy 20_10_1 : iter 31
+Average score = -1.842810
+Success rate = 0.000000
+user 0201 : policy 20_10_1 : iter 41
+Average score = 2.668334
+Success rate = 0.001000
+user 0201 : policy 20_10_1 : iter 51
+Average score = 2.426979
+Success rate = 0.001000
+user 0201 : policy 20_10_1 : iter 61
+Average score = 0.503655
+Success rate = 0.000000
+user 0201 : policy 20_10_1 : iter 71
+Average score = 5.528973
+Success rate = 0.001000
+user 0201 : policy 20_10_1 : iter 81
+Average score = 3.943360
+Success rate = 0.000000
+user 0201 : policy 20_10_1 : iter 91
+Average score = 15.119787
+Success rate = 0.005000
+user 0201 : policy 20_10_1 : iter 101
+Average score = 28.378124
+Success rate = 0.006000
+user 0201 : policy 20_10_1 : iter 111
+Average score = 38.908440
+Success rate = 0.011000
+user 0201 : policy 20_10_1 : iter 121
+Average score = 45.617066
+Success rate = 0.018000
+user 0201 : policy 20_10_1 : iter 131
+Average score = 58.514318
+Success rate = 0.038000
+user 0201 : policy 20_10_1 : iter 141
+Average score = 85.945769
+Success rate = 0.032000
+user 0201 : policy 20_10_1 : iter 151
+Average score = 43.753106
+Success rate = 0.015000
+user 0201 : policy 20_10_1 : iter 161
+Average score = 56.690393
+Success rate = 0.026000
+user 0201 : policy 20_10_1 : iter 171
+Average score = 49.541843
+Success rate = 0.021000
+user 0201 : policy 20_10_1 : iter 181
+Average score = 63.501829
+Success rate = 0.022000
+user 0201 : policy 20_10_1 : iter 191
+Average score = 30.751344
+Success rate = 0.011000
+user 0201 : policy 20_10_1 : iter 201
+Average score = 65.619410
+Success rate = 0.032000
+user 0201 : policy 20_10_1 : iter 211
+Average score = 61.241034
+Success rate = 0.026000
+user 0201 : policy 20_10_1 : iter 221
+Average score = 50.747070
+Success rate = 0.028000
+user 0201 : policy 20_10_1 : iter 231
+Average score = 56.303447
+Success rate = 0.030000
+user 0201 : policy 20_10_1 : iter 241
+Average score = 40.686693
+Success rate = 0.014000
+user 0201 : policy 20_10_1 : iter 251
+Average score = 89.090197
+Success rate = 0.059000
+user 0201 : policy 20_10_1 : iter 261
+Average score = 53.019000
+Success rate = 0.023000
+user 0201 : policy 20_10_1 : iter 271
+Average score = 137.520022
+Success rate = 0.092000
+user 0201 : policy 20_10_1 : iter 281
+Average score = 161.321886
+Success rate = 0.110000
+user 0201 : policy 20_10_1 : iter 291
+Average score = 196.126013
+Success rate = 0.140000
+user 0201 : policy 20_10_1 : iter 301
+Average score = 208.309616
+Success rate = 0.147000
+user 0201 : policy 20_10_1 : iter 311
+Average score = 214.123132
+Success rate = 0.152000
+user 0201 : policy 20_10_1 : iter 321
+Average score = 199.001266
+Success rate = 0.145000
+user 0201 : policy 20_10_1 : iter 331
+Average score = 236.966901
+Success rate = 0.194000
+user 0201 : policy 20_10_1 : iter 341
+Average score = 389.830034
+Success rate = 0.307000
+user 0201 : policy 20_10_1 : iter 351
+Average score = 446.379381
+Success rate = 0.338000
+user 0201 : policy 20_10_1 : iter 361
+Average score = 503.744216
+Success rate = 0.425000
+user 0201 : policy 20_10_1 : iter 371
+Average score = 627.302564
+Success rate = 0.558000
+user 0201 : policy 20_10_1 : iter 381
+Average score = 601.706866
+Success rate = 0.550000
+user 0201 : policy 20_10_1 : iter 391
+Average score = 868.255833
+Success rate = 0.692000
+user 0201 : policy 20_10_1 : iter 401
+Average score = 724.947355
+Success rate = 0.594000
+user 0201 : policy 20_10_1 : iter 411
+Average score = 946.123707
+Success rate = 0.728000
+user 0201 : policy 20_10_1 : iter 421
+Average score = 861.506314
+Success rate = 0.600000
+user 0201 : policy 20_10_1 : iter 431
+Average score = 772.901259
+Success rate = 0.532000
+user 0201 : policy 20_10_1 : iter 441
+Average score = 1104.769442
+Success rate = 0.757000
+user 0201 : policy 20_10_1 : iter 451
+Average score = 1170.513328
+Success rate = 0.791000
+user 0201 : policy 20_10_1 : iter 461
+Average score = 1334.771438
+Success rate = 0.830000
+user 0201 : policy 20_10_1 : iter 471
+Average score = 1380.403999
+Success rate = 0.803000
+user 0201 : policy 20_10_1 : iter 481
+Average score = 1504.595121
+Success rate = 0.851000
+user 0201 : policy 20_10_1 : iter 491
+Average score = 1350.227083
+Success rate = 0.779000
+user 0201 : policy 20_10_1 : iter 501
+Average score = 1846.879047
+Success rate = 0.919000
+user 0201 : policy 20_10_1 : iter 511
+Average score = 1819.592278
+Success rate = 0.858000
+user 0201 : policy 20_10_1 : iter 521
+Average score = 1851.304178
+Success rate = 0.865000
+user 0201 : policy 20_10_1 : iter 531
+Average score = 1757.628276
+Success rate = 0.908000
+user 0201 : policy 20_10_1 : iter 541
+Average score = 1834.636813
+Success rate = 0.910000
+user 0201 : policy 20_10_1 : iter 551
+Average score = 1824.843150
+Success rate = 0.965000
+user 0201 : policy 20_10_1 : iter 561
+Average score = 2076.652719
+Success rate = 0.964000
+user 0201 : policy 20_10_1 : iter 571
+Average score = 1979.274855
+Success rate = 0.958000
+user 0201 : policy 20_10_1 : iter 581
+Average score = 2129.689813
+Success rate = 0.978000
+user 0201 : policy 20_10_1 : iter 591
+Average score = 2233.419561
+Success rate = 0.947000
+user 0201 : policy 20_10_1 : iter 601
+Average score = 2302.807590
+Success rate = 0.960000
+user 0201 : policy 20_10_1 : iter 611
+Average score = 2269.809074
+Success rate = 0.981000
+user 0201 : policy 20_10_1 : iter 621
+Average score = 2383.029869
+Success rate = 0.965000
+user 0201 : policy 20_10_1 : iter 631
+Average score = 2365.809337
+Success rate = 0.911000
+user 0201 : policy 20_10_1 : iter 641
+Average score = 2252.185583
+Success rate = 0.953000
+user 0201 : policy 20_10_1 : iter 651
+Average score = 2343.691599
+Success rate = 0.970000
+user 0201 : policy 20_10_1 : iter 661
+Average score = 2542.563223
+Success rate = 0.986000
+user 0201 : policy 20_10_1 : iter 671
+Average score = 2758.110974
+Success rate = 0.981000
+user 0201 : policy 20_10_1 : iter 681
+Average score = 2706.208433
+Success rate = 0.979000
+user 0201 : policy 20_10_1 : iter 691
+Average score = 2695.480135
+Success rate = 0.982000
+user 0201 : policy 20_10_1 : iter 701
+Average score = 2946.370639
+Success rate = 0.993000
+user 0201 : policy 20_10_1 : iter 711
+Average score = 2943.585740
+Success rate = 0.998000
+user 0201 : policy 20_10_1 : iter 721
+Average score = 3003.082401
+Success rate = 0.996000
+user 0201 : policy 20_10_1 : iter 731
+Average score = 3016.502303
+Success rate = 0.991000
+user 0201 : policy 20_10_1 : iter 741
+Average score = 2848.547588
+Success rate = 0.995000
+user 0201 : policy 20_10_1 : iter 751
+Average score = 3167.145418
+Success rate = 0.993000
+user 0201 : policy 20_10_1 : iter 761
+Average score = 2924.612333
+Success rate = 0.993000
+user 0201 : policy 20_10_1 : iter 771
+Average score = 2866.256382
+Success rate = 0.993000
+user 0201 : policy 20_10_1 : iter 781
+Average score = 2875.763330
+Success rate = 0.997000
+user 0201 : policy 20_10_1 : iter 791
+Average score = 2774.942872
+Success rate = 0.987000
+user 0201 : policy 20_10_2 : iter 1
+Average score = -6.244324
+Success rate = 0.000000
+user 0201 : policy 20_10_2 : iter 11
+Average score = -4.833706
+Success rate = 0.000000
+user 0201 : policy 20_10_2 : iter 21
+Average score = -3.694109
+Success rate = 0.000000
+user 0201 : policy 20_10_2 : iter 31
+Average score = -3.464863
+Success rate = 0.000000
+user 0201 : policy 20_10_2 : iter 41
+Average score = -1.827518
+Success rate = 0.000000
+user 0201 : policy 20_10_2 : iter 51
+Average score = -0.549521
+Success rate = 0.000000
+user 0201 : policy 20_10_2 : iter 61
+Average score = 3.729419
+Success rate = 0.002000
+user 0201 : policy 20_10_2 : iter 71
+Average score = 7.250007
+Success rate = 0.003000
+user 0201 : policy 20_10_2 : iter 81
+Average score = 11.018520
+Success rate = 0.004000
+user 0201 : policy 20_10_2 : iter 91
+Average score = 10.607267
+Success rate = 0.001000
+user 0201 : policy 20_10_2 : iter 101
+Average score = 10.820962
+Success rate = 0.001000
+user 0201 : policy 20_10_2 : iter 111
+Average score = 13.147714
+Success rate = 0.002000
+user 0201 : policy 20_10_2 : iter 121
+Average score = 4.901466
+Success rate = 0.000000
+user 0201 : policy 20_10_2 : iter 131
+Average score = 13.845314
+Success rate = 0.004000
+user 0201 : policy 20_10_2 : iter 141
+Average score = 12.589202
+Success rate = 0.004000
+user 0201 : policy 20_10_2 : iter 151
+Average score = 32.788818
+Success rate = 0.012000
+user 0201 : policy 20_10_2 : iter 161
+Average score = 41.187544
+Success rate = 0.013000
+user 0201 : policy 20_10_2 : iter 171
+Average score = 39.474891
+Success rate = 0.017000
+user 0201 : policy 20_10_2 : iter 181
+Average score = 46.624763
+Success rate = 0.027000
+user 0201 : policy 20_10_2 : iter 191
+Average score = 59.776412
+Success rate = 0.027000
+user 0201 : policy 20_10_2 : iter 201
+Average score = 50.565307
+Success rate = 0.027000
+user 0201 : policy 20_10_2 : iter 211
+Average score = 51.205126
+Success rate = 0.022000
+user 0201 : policy 20_10_2 : iter 221
+Average score = 88.269641
+Success rate = 0.042000
+user 0201 : policy 20_10_2 : iter 231
+Average score = 67.131745
+Success rate = 0.026000
+user 0201 : policy 20_10_2 : iter 241
+Average score = 99.300532
+Success rate = 0.058000
+user 0201 : policy 20_10_2 : iter 251
+Average score = 95.155804
+Success rate = 0.061000
+user 0201 : policy 20_10_2 : iter 261
+Average score = 100.638224
+Success rate = 0.068000
+user 0201 : policy 20_10_2 : iter 271
+Average score = 185.334683
+Success rate = 0.141000
+user 0201 : policy 20_10_2 : iter 281
+Average score = 170.561218
+Success rate = 0.127000
+user 0201 : policy 20_10_2 : iter 291
+Average score = 131.907039
+Success rate = 0.083000
+user 0201 : policy 20_10_2 : iter 301
+Average score = 111.882708
+Success rate = 0.073000
+user 0201 : policy 20_10_2 : iter 311
+Average score = 109.458519
+Success rate = 0.063000
+user 0201 : policy 20_10_2 : iter 321
+Average score = 138.839121
+Success rate = 0.098000
+user 0201 : policy 20_10_2 : iter 331
+Average score = 236.303049
+Success rate = 0.185000
+user 0201 : policy 20_10_2 : iter 341
+Average score = 375.482556
+Success rate = 0.316000
+user 0201 : policy 20_10_2 : iter 351
+Average score = 343.816491
+Success rate = 0.246000
+user 0201 : policy 20_10_2 : iter 361
+Average score = 470.090272
+Success rate = 0.377000
+user 0201 : policy 20_10_2 : iter 371
+Average score = 459.414467
+Success rate = 0.359000
+user 0201 : policy 20_10_2 : iter 381
+Average score = 607.359691
+Success rate = 0.484000
+user 0201 : policy 20_10_2 : iter 391
+Average score = 839.489973
+Success rate = 0.614000
+user 0201 : policy 20_10_2 : iter 401
+Average score = 787.341429
+Success rate = 0.558000
+user 0201 : policy 20_10_2 : iter 411
+Average score = 592.489537
+Success rate = 0.469000
+user 0201 : policy 20_10_2 : iter 421
+Average score = 681.887962
+Success rate = 0.529000
+user 0201 : policy 20_10_2 : iter 431
+Average score = 728.695844
+Success rate = 0.564000
+user 0201 : policy 20_10_2 : iter 441
+Average score = 1163.776501
+Success rate = 0.789000
+user 0201 : policy 20_10_2 : iter 451
+Average score = 707.236014
+Success rate = 0.531000
+user 0201 : policy 20_10_2 : iter 461
+Average score = 1211.485513
+Success rate = 0.725000
+user 0201 : policy 20_10_2 : iter 471
+Average score = 1225.046682
+Success rate = 0.781000
+user 0201 : policy 20_10_2 : iter 481
+Average score = 1313.554602
+Success rate = 0.788000
+user 0201 : policy 20_10_2 : iter 491
+Average score = 1359.874373
+Success rate = 0.832000
+user 0201 : policy 20_10_2 : iter 501
+Average score = 1872.082286
+Success rate = 0.944000
+user 0201 : policy 20_10_2 : iter 511
+Average score = 2060.390282
+Success rate = 0.926000
+user 0201 : policy 20_10_2 : iter 521
+Average score = 1921.982607
+Success rate = 0.946000
+user 0201 : policy 20_10_2 : iter 531
+Average score = 1699.038880
+Success rate = 0.874000
+user 0201 : policy 20_10_2 : iter 541
+Average score = 2086.129084
+Success rate = 0.946000
+user 0201 : policy 20_10_2 : iter 551
+Average score = 2075.331589
+Success rate = 0.944000
+user 0201 : policy 20_10_2 : iter 561
+Average score = 2200.704827
+Success rate = 0.955000
+user 0201 : policy 20_10_2 : iter 571
+Average score = 2376.360678
+Success rate = 0.945000
+user 0201 : policy 20_10_2 : iter 581
+Average score = 2233.409591
+Success rate = 0.972000
+user 0201 : policy 20_10_2 : iter 591
+Average score = 2537.004695
+Success rate = 0.992000
+user 0201 : policy 20_10_2 : iter 601
+Average score = 2593.257698
+Success rate = 0.984000
+user 0201 : policy 20_10_2 : iter 611
+Average score = 2772.328021
+Success rate = 0.965000
+user 0201 : policy 20_10_2 : iter 621
+Average score = 2802.475821
+Success rate = 0.988000
+user 0201 : policy 20_10_2 : iter 631
+Average score = 2655.326457
+Success rate = 0.981000
+user 0201 : policy 20_10_2 : iter 641
+Average score = 2663.716600
+Success rate = 0.987000
+user 0201 : policy 20_10_2 : iter 651
+Average score = 2667.431102
+Success rate = 0.994000
+user 0201 : policy 20_10_2 : iter 661
+Average score = 2566.100599
+Success rate = 0.992000
+user 0201 : policy 20_10_2 : iter 671
+Average score = 2628.969062
+Success rate = 0.996000
+user 0201 : policy 20_10_2 : iter 681
+Average score = 2771.690471
+Success rate = 0.998000
+user 0201 : policy 20_10_2 : iter 691
+Average score = 2675.757312
+Success rate = 0.981000
+user 0201 : policy 20_10_2 : iter 701
+Average score = 2433.931046
+Success rate = 0.991000
+user 0201 : policy 20_10_2 : iter 711
+Average score = 2606.575531
+Success rate = 0.987000
+user 0201 : policy 20_10_2 : iter 721
+Average score = 2650.618191
+Success rate = 0.984000
+user 0201 : policy 20_10_2 : iter 731
+Average score = 2633.286682
+Success rate = 0.997000
+user 0201 : policy 20_10_2 : iter 741
+Average score = 2542.635452
+Success rate = 0.998000
+user 0201 : policy 20_10_2 : iter 751
+Average score = 2771.535370
+Success rate = 0.983000
+user 0201 : policy 20_10_2 : iter 761
+Average score = 2676.055880
+Success rate = 0.997000
+user 0201 : policy 20_10_2 : iter 771
+Average score = 2944.351827
+Success rate = 0.997000
+user 0201 : policy 20_10_2 : iter 781
+Average score = 3037.103333
+Success rate = 0.998000
+user 0201 : policy 20_10_2 : iter 791
+Average score = 2994.227624
+Success rate = 0.994000
+user 0201 : policy 30 : iter 1
+Average score = -6.304176
+Success rate = 0.000000
+user 0201 : policy 30 : iter 11
+Average score = -3.667233
+Success rate = 0.000000
+user 0201 : policy 30 : iter 21
+Average score = -3.367595
+Success rate = 0.000000
+user 0201 : policy 30 : iter 31
+Average score = -2.090931
+Success rate = 0.000000
+user 0201 : policy 30 : iter 41
+Average score = -2.961007
+Success rate = 0.000000
+user 0201 : policy 30 : iter 51
+Average score = 0.328537
+Success rate = 0.001000
+user 0201 : policy 30 : iter 61
+Average score = -1.830124
+Success rate = 0.001000
+user 0201 : policy 30 : iter 71
+Average score = -0.403771
+Success rate = 0.002000
+user 0201 : policy 30 : iter 81
+Average score = -1.211968
+Success rate = 0.000000
+user 0201 : policy 30 : iter 91
+Average score = 0.333231
+Success rate = 0.000000
+user 0201 : policy 30 : iter 101
+Average score = 3.188946
+Success rate = 0.001000
+user 0201 : policy 30 : iter 111
+Average score = 5.363707
+Success rate = 0.001000
+user 0201 : policy 30 : iter 121
+Average score = 6.034402
+Success rate = 0.001000
+user 0201 : policy 30 : iter 131
+Average score = 6.742213
+Success rate = 0.002000
+user 0201 : policy 30 : iter 141
+Average score = 19.797667
+Success rate = 0.007000
+user 0201 : policy 30 : iter 151
+Average score = 14.441770
+Success rate = 0.003000
+user 0201 : policy 30 : iter 161
+Average score = 14.917507
+Success rate = 0.005000
+user 0201 : policy 30 : iter 171
+Average score = 17.253144
+Success rate = 0.007000
+user 0201 : policy 30 : iter 181
+Average score = 16.433142
+Success rate = 0.005000
+user 0201 : policy 30 : iter 191
+Average score = 12.682969
+Success rate = 0.003000
+user 0201 : policy 30 : iter 201
+Average score = 24.974150
+Success rate = 0.011000
+user 0201 : policy 30 : iter 211
+Average score = 35.872257
+Success rate = 0.017000
+user 0201 : policy 30 : iter 221
+Average score = 31.552648
+Success rate = 0.015000
+user 0201 : policy 30 : iter 231
+Average score = 58.593637
+Success rate = 0.026000
+user 0201 : policy 30 : iter 241
+Average score = 54.371506
+Success rate = 0.028000
+user 0201 : policy 30 : iter 251
+Average score = 59.167212
+Success rate = 0.031000
+user 0201 : policy 30 : iter 261
+Average score = 77.360962
+Success rate = 0.040000
+user 0201 : policy 30 : iter 271
+Average score = 70.376670
+Success rate = 0.038000
+user 0201 : policy 30 : iter 281
+Average score = 56.307613
+Success rate = 0.032000
+user 0201 : policy 30 : iter 291
+Average score = 61.368705
+Success rate = 0.048000
+user 0201 : policy 30 : iter 301
+Average score = 64.757455
+Success rate = 0.044000
+user 0201 : policy 30 : iter 311
+Average score = 88.563895
+Success rate = 0.060000
+user 0201 : policy 30 : iter 321
+Average score = 115.905444
+Success rate = 0.080000
+user 0201 : policy 30 : iter 331
+Average score = 114.446632
+Success rate = 0.081000
+user 0201 : policy 30 : iter 341
+Average score = 154.905801
+Success rate = 0.120000
+user 0201 : policy 30 : iter 351
+Average score = 198.138366
+Success rate = 0.166000
+user 0201 : policy 30 : iter 361
+Average score = 134.382456
+Success rate = 0.109000
+user 0201 : policy 30 : iter 371
+Average score = 174.023653
+Success rate = 0.156000
+user 0201 : policy 30 : iter 381
+Average score = 231.209949
+Success rate = 0.191000
+user 0201 : policy 30 : iter 391
+Average score = 217.091660
+Success rate = 0.191000
+user 0201 : policy 30 : iter 401
+Average score = 255.805106
+Success rate = 0.212000
+user 0201 : policy 30 : iter 411
+Average score = 268.335900
+Success rate = 0.230000
+user 0201 : policy 30 : iter 421
+Average score = 354.091927
+Success rate = 0.312000
+user 0201 : policy 30 : iter 431
+Average score = 326.330097
+Success rate = 0.310000
+user 0201 : policy 30 : iter 441
+Average score = 400.732720
+Success rate = 0.364000
+user 0201 : policy 30 : iter 451
+Average score = 398.583568
+Success rate = 0.350000
+user 0201 : policy 30 : iter 461
+Average score = 503.040476
+Success rate = 0.435000
+user 0201 : policy 30 : iter 471
+Average score = 531.371448
+Success rate = 0.430000
+user 0201 : policy 30 : iter 481
+Average score = 731.927381
+Success rate = 0.564000
+user 0201 : policy 30 : iter 491
+Average score = 586.156579
+Success rate = 0.460000
+user 0201 : policy 30 : iter 501
+Average score = 716.942889
+Success rate = 0.529000
+user 0201 : policy 30 : iter 511
+Average score = 676.325478
+Success rate = 0.526000
+user 0201 : policy 30 : iter 521
+Average score = 783.260525
+Success rate = 0.585000
+user 0201 : policy 30 : iter 531
+Average score = 875.344869
+Success rate = 0.599000
+user 0201 : policy 30 : iter 541
+Average score = 912.706842
+Success rate = 0.631000
+user 0201 : policy 30 : iter 551
+Average score = 948.460105
+Success rate = 0.624000
+user 0201 : policy 30 : iter 561
+Average score = 887.963443
+Success rate = 0.600000
+user 0201 : policy 30 : iter 571
+Average score = 996.554614
+Success rate = 0.650000
+user 0201 : policy 30 : iter 581
+Average score = 998.726865
+Success rate = 0.663000
+user 0201 : policy 30 : iter 591
+Average score = 1087.274622
+Success rate = 0.712000
+user 0201 : policy 30 : iter 601
+Average score = 1235.250451
+Success rate = 0.726000
+user 0201 : policy 30 : iter 611
+Average score = 1186.093357
+Success rate = 0.709000
+user 0201 : policy 30 : iter 621
+Average score = 1183.223790
+Success rate = 0.741000
+user 0201 : policy 30 : iter 631
+Average score = 1329.641270
+Success rate = 0.737000
+user 0201 : policy 30 : iter 641
+Average score = 1239.130415
+Success rate = 0.731000
+user 0201 : policy 30 : iter 651
+Average score = 1062.953748
+Success rate = 0.661000
+user 0201 : policy 30 : iter 661
+Average score = 1260.075543
+Success rate = 0.722000
+user 0201 : policy 30 : iter 671
+Average score = 1472.104342
+Success rate = 0.807000
+user 0201 : policy 30 : iter 681
+Average score = 1254.108012
+Success rate = 0.772000
+user 0201 : policy 30 : iter 691
+Average score = 1337.630666
+Success rate = 0.791000
+user 0201 : policy 30 : iter 701
+Average score = 1377.257864
+Success rate = 0.846000
+user 0201 : policy 30 : iter 711
+Average score = 1541.010289
+Success rate = 0.822000
+user 0201 : policy 30 : iter 721
+Average score = 1513.537722
+Success rate = 0.849000
+user 0201 : policy 30 : iter 731
+Average score = 1539.904745
+Success rate = 0.781000
+user 0201 : policy 30 : iter 741
+Average score = 1733.405559
+Success rate = 0.835000
+user 0201 : policy 30 : iter 751
+Average score = 1779.204892
+Success rate = 0.844000
+user 0201 : policy 30 : iter 761
+Average score = 1685.634822
+Success rate = 0.837000
+user 0201 : policy 30 : iter 771
+Average score = 1808.510616
+Success rate = 0.836000
+user 0201 : policy 30 : iter 781
+Average score = 1891.678688
+Success rate = 0.870000
+user 0201 : policy 30 : iter 791
+Average score = 1996.586482
+Success rate = 0.926000

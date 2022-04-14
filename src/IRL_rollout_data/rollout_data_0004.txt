@@ -1,0 +1,22 @@
+# From below we are certain they are running on the 500 iter policies
+Rolling out standard generalized policy trained on 15 demos for user 0004
+Average score = 136.639641
+Success rate = 0.088000
+Rolling out standard generalized policy trained on 25 demos for user 0004
+Average score = 2033.913881
+Success rate = 0.879000
+Rolling out standard generalized policy trained on 35 demos for user 0004
+Average score = 1931.791217
+Success rate = 0.768000
+Rolling out standard generalized policy trained on 15_10 demos for user 0004
+Average score = 116.238126
+Success rate = 0.096000
+Rolling out standard generalized policy trained on 25_10 demos for user 0004
+Average score = 71.729657
+Success rate = 0.028000
+Rolling out standard generalized policy trained on 25 demos for user 0004
+Average score = 193.142162
+Success rate = 0.167000
+Rolling out standard generalized policy trained on 35 demos for user 0004
+Average score = 563.395020
+Success rate = 0.441000

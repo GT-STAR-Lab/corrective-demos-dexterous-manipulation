@@ -1,0 +1,193 @@
+Linux FAQ
+
+Q. Which distros of Linux does Leap Motion support today?
+A. Ubuntu 12.04 LTS or later
+
+Q. How do I install the Leap Motion package?
+A. Run:
+     sudo dpkg --install Leap-*-x64.deb
+
+Q. What if I'm on 32-bit Ubuntu?
+A. Run:
+     sudo dpkg --install Leap-*-x86.deb
+
+Q. How do I install the 32-bit Leap Motion software on 64-bit Ubuntu?
+A. If you have some reason for doing this, for Ubuntu 12.10 and older please
+   prepare your system with the following command:
+     sudo apt-get install ia32-libs
+   For Ubuntu 13.04, the convenience alias ia32-libs has been removed and you
+   must explicitly install:
+     sudo apt-get install libc6:i386 libX11-6:i386 libgl1:i386 libglu1:i386 \
+       libxi6:i386 libxrender1:i386 libsm6:i386 libfontconfig:i386 sni-qt:i386 \
+       libfreetype6:i386 libxinerama1:i386 libasound2:i386
+   For Ubuntu 13.10 and newer, the multiarch process may be entirely different.
+
+Q. How do I uninstall?
+A. Run:
+     sudo dpkg -r leap
+   Or if you installed the 32-bit package on a 64-bit system:
+     sudo dpkg -r leap:i386
+
+Q. Which dependency packages are required?
+A. Mesa OpenGL and libXxf86vm to name a couple. dpkg or your package manager
+   of choice will report any missing dependencies.
+
+Q. How do I install the missing dependencies?
+A. If you have a mostly complete development environment, you might get lucky
+   and not require any additional libraries. Otherwise, you can manually
+   install with commands such as:
+     sudo apt-get install libgl1-mesa-dri libgl1-mesa-glx
+   On Ubuntu 12.10 and 13.04, you may need to substitute with
+   libgl1-mesa-{dri,glx}-lts-quantal or libgl1-mesa-{dri,glx}-lts-raring.
+   For a package manager that can automatically install dependencies, try
+   gdebi.
+
+Q. I get a long list of warnings when installing through the Ubuntu Software
+   Center GUI.
+A. The GUI installer will run Lintian and report warnings such as recommending
+   against placing the binaries under /usr/local/bin. You may click the option
+   to proceed anyway. Alternatively if you use dpkg from the command-line it
+   will not run Lintian and will not display these warnings.
+
+Q. How can I install on Fedora?
+A. For Fedora 21 and later, first install alien and convert Leap-*-x64.deb
+   into a rpm package as follows.
+     sudo yum update
+     sudo yum install alien
+     sudo alien -rv --scripts Leap-*-x64.deb
+   Next, run:
+     sudo rpm -ivh --nodeps --force leap-*-2-x86_64.rpm
+
+Q. How do I uninstall on Fedora?
+A. Run:
+     rpm -ev leap-*-2-x86_64.rpm
+
+Q. How do I start the Leap Motion pipeline?
+A. On Ubuntu the Leap Daemon should already be running. You can then run:
+     LeapControlPanel
+   From there you can right-click the tray icon to get a drop-down menu with
+   various options.
+   To restart the daemon (if necessary), run:
+     sudo service leapd restart
+   On non-Ubuntu distros, if leapd is not installed as a service, you may run:
+     sudo leapd
+
+Q. Where is the rest of the Linux documentation?
+A. Most of our notes regarding Linux are in this README.
+
+Q. Which window managers are supported?
+A. GNOME with Unity, the default for recent releases of Ubuntu. You should
+   interact with your desktop locally as it is unlikely to work through VNC or
+   any other remote desktop connection.
+
+Q. Can I use the Leap Motion Linux SDK inside a virtual machine?
+A. As of today this does not work well. Oracle VirtualBox does not have fully
+   functional USB emulation in 64-bit mode. Even in 32-bit, you USB
+   authentication is not reliable and you may require special OpenGL drivers
+   to run the Visualizer.
+
+Q. LeapControlPanel seems to be running but no tray icon appears.
+A. For Ubuntu 12.10 and earlier, the Unity desktop environment uses a whitelist
+   to avoid intrusive tray icons. Add LeapControlPanel to the whitelist with:
+     gsettings set com.canonical.Unity.Panel systray-whitelist \
+       "$(gsettings get com.canonical.Unity.Panel systray-whitelist | sed "s/]$/, 'LeapControlPanel']/")"
+   If your system tray whitelist becomes messed up over time, you may reset it
+   with:
+     gsettings reset com.canonical.Unity.Panel systray-whitelist
+
+   For Ubuntu 13.04 or later we have a new problem.  Qt 5 does not yet support
+   Status Notifier Items (SNI) via the sni-qt plugin. If you are running
+   Unity Dash, look carefully in the top-left corner and you may see a
+   tiny Leap icon hidden next to or inside the dash. You can then right-click
+   that icon. We are working on a proper implementation to match the functionality
+   that existed with Qt4.
+
+   If you still cannot find the tray icon, you can at least skip to the
+   settings panel with:
+     LeapControlPanel --showsettings
+
+Q. LeapControlPanel crashes on startup because it cannot find libqxcb.so
+A. Qt 5 has more dependence on plugins, and you could hit this error if you
+   install the software to a non-standard location. You may be able to
+   work around or debug this issue using the QT_PLUGINS_PATH and
+   QT_DEBUG_PLUGINS environment variables.
+
+Q. The GUI reports that the Leap Daemon is not running.
+A. First, attempt the basic troubleshooting steps just like on Windows or Mac
+   OS X. Run:
+     sudo service leapd status
+   And check your cable, do not connect through a USB hub, verify that other
+   devices work through that same USB socket. If you can install Windows on
+   the same system, verify that the Windows version of the Leap Motion software
+   works on this system.
+
+Q. It still reports that the daemon is not running!
+A. There could be any number of problems remaining. To execute leapd directly and
+   see the output, run:
+     sudo service leapd stop
+     sudo leapd
+
+Q. Fails to launch the recalibration or diagnostic visualizer applications
+   form the GUI.
+A. For debugging purposes you may run any of the helper applications directly
+   from the command-line, e.g.
+     Visualizer
+     Recalibrate
+
+Q. leapd was working before, but reports no data now.
+A. One common pitfall is running more than one instance of leapd at a time.
+   If you plan to run leapd directly from the command-line, first disable the
+   service:
+     sudo service leapd stop
+   To inspect, run:
+     ps -A | grep leapd
+   and kill off any rogue processes.
+
+Q. Where can I get Leap Motion App Home for Linux?
+A. App Home is not supported on Linux at this time.
+
+Q. Where can I get Playground for Linux?
+A. This is included in the distribution and will be installed at
+   /usr/bin/Playground
+
+Q. Where can I get Shortcuts (OS control application) for Linux?
+A. Shortcuts does not support Linux at this time. You may find
+   some mouse emulation examples on developer.leapmotion.com
+
+Q. How to install on another Linux distro such as CentOS?
+A. At this time we are only supporting recent versions of Ubuntu. However, if
+   you'd like to port the package to another distro you probably have
+   sufficient tools at your disposal. To view the Debian package, unpack it
+   with the 'ar' and 'tar' commands and take a look. The 'alien' package
+   converter mentioned above may also come in handy.
+
+Q. I have too many issues when trying to run the LeapControlPanel GUI. These
+   involve dependencies, window manager issues, Mesa OpenGL problems, or my
+   video card driver.
+A. You can use leapd without the GUI. It runs as a daemon.
+   Note that to change any configuration settings you will have to edit
+   ~/.Leap\ Motion/config.json
+   We do not have any documentation for the various settings, but you could
+   figure things out by playing around on Windows.
+
+Q. (SDK downloaded separately) Sample.java compiles, but when attempting to
+   run, I get an error about unable to load libLeapJava.so
+A. Java seems to have trouble searching for native libraries without some
+   guidance. Try:
+     LD_LIBRARY_PATH=. java -classpath .:LeapJava.jar Sample
+
+Q. (SDK downloaded separately) How do I build and run Sample.cs?
+A. For the C# example, first install mono:
+     sudo apt-get install mono-gmcs
+   From there, building Sample.cs should be the same as on Mac OS X.
+
+Q. (SDK downloaded separately) How do I build and run Sample.cpp or Sample.py?
+A. The C++ and Python examples work out of the box and the command-line syntax
+   is similar to that on Mac OS X.
+
+Q. I have a question that is not answered in this README.
+A. Please go to the developer portal and post in the forum or questions
+   section.
+
+Q. I am a Linux guru and can tell you how to do <insert something here>.
+A. Great! Please post your suggestions on the forum.

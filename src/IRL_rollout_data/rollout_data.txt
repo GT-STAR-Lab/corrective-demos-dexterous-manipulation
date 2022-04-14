@@ -1,0 +1,150 @@
+Rolling out policy trained on 15 demos for user 0004
+Average score = 141.200760
+Success rate = 0.092000
+Rolling out policy trained on 25 demos for user 0004
+Average score = 182.636420
+Success rate = 0.152000
+Rolling out policy trained on 35 demos for user 0004
+Average score = 641.921630
+Success rate = 0.494000
+Rolling out policy trained on 15_10 demos for user 0004
+Average score = 127.731314
+Success rate = 0.100000
+Rolling out policy trained on 25_10 demos for user 0004
+Average score = 76.245687
+Success rate = 0.036000
+Rolling out policy trained on 15 demos for user 0002
+Average score = 167.073011
+Success rate = 0.140000
+Rolling out policy trained on 25 demos for user 0002
+Average score = 482.257103
+Success rate = 0.312000
+Rolling out policy trained on 35 demos for user 0002
+Average score = 1178.942085
+Success rate = 0.664000
+Rolling out policy trained on 15_10 demos for user 0002
+Rolling out policy trained on 25_10 demos for user 0002
+Rolling out policy trained on 15 demos for user 0005
+Average score = 97.790606
+Success rate = 0.086000
+Rolling out policy trained on 25 demos for user 0005
+Average score = 390.322689
+Success rate = 0.280000
+Rolling out policy trained on 35 demos for user 0005
+Average score = 1261.847308
+Success rate = 0.634000
+Rolling out policy trained on 15_10 demos for user 0005
+Rolling out policy trained on 25_10 demos for user 0005
+Rolling out policy trained on 15 demos for user 0006
+Average score = 1220.392270
+Success rate = 0.704000
+Rolling out policy trained on 25 demos for user 0006
+Average score = 1664.817018
+Success rate = 0.748000
+Rolling out policy trained on 35 demos for user 0006
+Average score = 414.065952
+Success rate = 0.328000
+Rolling out policy trained on 15_10 demos for user 0006
+Rolling out policy trained on 25_10 demos for user 0006
+Rolling out SERIES policy trained on 15_10 demos for user 0001
+Average score = 2425.346479
+Success rate = 0.875000
+Rolling out SERIES policy trained on 25_10 demos for user 0001
+Average score = 2269.800971
+Success rate = 0.900000
+Rolling out SERIES policy trained on 15_10 demos for user 0002
+Average score = 726.578631
+Success rate = 0.556000
+Rolling out SERIES policy trained on 25_10 demos for user 0002
+Average score = 2000.071961
+Success rate = 0.836000
+Rolling out SERIES policy trained on 15_10 demos for user 0003
+Average score = 2432.514472
+Success rate = 0.904000
+Rolling out SERIES policy trained on 25_10 demos for user 0003
+Average score = 2925.266029
+Success rate = 0.967000
+Rolling out SERIES policy trained on 15_10 demos for user 0004
+Average score = 649.754139
+Success rate = 0.487000
+Rolling out SERIES policy trained on 25_10 demos for user 0004
+Average score = 1468.665264
+Success rate = 0.765000
+Rolling out SERIES policy trained on 15_10 demos for user 0005
+Average score = 1987.636368
+Success rate = 0.829000
+Rolling out SERIES policy trained on 25_10 demos for user 0005
+Average score = 2074.905005
+Success rate = 0.836000
+Rolling out standard generalized policy trained on 15 demos for user 0001
+Average score = 1098.836191
+Success rate = 0.739000
+Rolling out standard generalized policy trained on 25 demos for user 0001
+Average score = 2269.836295
+Success rate = 0.894000
+Rolling out standard generalized policy trained on 35 demos for user 0001
+Average score = 1403.996186
+Success rate = 0.700000
+Rolling out standard generalized policy trained on 15_10 demos for user 0001
+Average score = 672.344274
+Success rate = 0.527000
+Rolling out standard generalized policy trained on 25_10 demos for user 0001
+Average score = 451.242904
+Success rate = 0.393000
+Rolling out standard generalized policy trained on 15 demos for user 0002
+Average score = 157.413374
+Success rate = 0.129000
+Rolling out standard generalized policy trained on 25 demos for user 0002
+Average score = 2061.864937
+Success rate = 0.804000
+Rolling out standard generalized policy trained on 35 demos for user 0002
+Average score = 2900.249709
+Success rate = 0.961000
+Rolling out standard generalized policy trained on 15_10 demos for user 0002
+Rolling out standard generalized policy trained on 25_10 demos for user 0002
+Rolling out standard generalized policy trained on 15 demos for user 0003
+Average score = 272.317456
+Success rate = 0.198000
+Rolling out standard generalized policy trained on 25 demos for user 0003
+Average score = 3328.130664
+Success rate = 0.967000
+Rolling out standard generalized policy trained on 35 demos for user 0003
+Average score = 3123.568430
+Success rate = 0.984000
+Rolling out standard generalized policy trained on 15_10 demos for user 0003
+Average score = 547.896323
+Success rate = 0.413000
+Rolling out standard generalized policy trained on 25_10 demos for user 0003
+Average score = 1241.025554
+Success rate = 0.671000
+# From below we are certain they are running on the 500 iter policies
+Rolling out standard generalized policy trained on 15 demos for user 0004
+Average score = 136.639641
+Success rate = 0.088000
+Rolling out standard generalized policy trained on 25 demos for user 0004
+Average score = 2033.913881
+Success rate = 0.879000
+Rolling out standard generalized policy trained on 35 demos for user 0004
+Average score = 1931.791217
+Success rate = 0.768000
+Rolling out standard generalized policy trained on 15_10 demos for user 0004
+Average score = 116.238126
+Success rate = 0.096000
+Rolling out standard generalized policy trained on 25_10 demos for user 0004
+Average score = 71.729657
+Success rate = 0.028000
+Rolling out standard generalized policy trained on 15 demos for user 0001
+Average score = 1072.704439
+Success rate = 0.726000
+Rolling out standard generalized policy trained on 25 demos for user 0001
+Average score = 2341.172372
+Success rate = 0.887000
+Rolling out standard generalized policy trained on 35 demos for user 0001
+Average score = 1382.565875
+Success rate = 0.684000
+Rolling out standard generalized policy trained on 15_10 demos for user 0001
+Average score = 704.177063
+Success rate = 0.542000
+Rolling out standard generalized policy trained on 25_10 demos for user 0001
+Average score = 482.264780
+Success rate = 0.414000
