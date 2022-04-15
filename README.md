@@ -1,3 +1,10 @@
+# Citation
+
+This repo contains code used for the following paper:
+
+Abhineet Jain*, Jack Kolb*, J.M. Abbess IV and Harish Ravichandar (2022). **Evaluating the Effectiveness of Corrective Demonstrations and a Low-Cost Sensor for Dexterous Manipulation**. *Machine Learning in Human-Robot Collaboration: Bridging the Gap Workshop at the 17th Annual ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022).*
+
+
 # Contents
 - [Collecting demonstrations](#collecting-demonstrations)
 - [Training DAPG](#training-dapg)
